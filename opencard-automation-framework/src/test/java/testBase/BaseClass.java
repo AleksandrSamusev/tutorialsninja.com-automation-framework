@@ -12,20 +12,20 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 import java.time.Duration;
+import java.util.ResourceBundle;
 
 public class BaseClass {
 
     public WebDriver driver;
     public Logger logger;
+    public ResourceBundle rb;
 
     @BeforeClass
     @Parameters("browser")
     public void setup(String br) {
-
+        rb =ResourceBundle.getBundle("config"); //load config.properties file
         logger = LogManager.getLogger(this.getClass());
 
-        //ChromeOptions ch = new ChromeOptions();
-        //switch-off message on the top of the browser
         //chromeOptions.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"});
         //WebDriverManager.chromedriver().setup();
 
@@ -39,7 +39,7 @@ public class BaseClass {
 
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        driver.get("https://tutorialsninja.com/demo/index.php?route=common/home");
+        driver.get(rb.getString("appURL"));
         driver.manage().window().maximize();
 
 
