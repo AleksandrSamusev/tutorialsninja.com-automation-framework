@@ -15,6 +15,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 import java.io.File;
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
@@ -70,16 +71,19 @@ public class BaseClass {
         return str + "@" + num;
     }
 
-    public String captureScreen(String testName) {
-        String timestamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+    public String captureScreen(String tname) throws IOException {
+
+        String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+
         TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
         File source = takesScreenshot.getScreenshotAs(OutputType.FILE);
-        String destination = System.getProperty("user.dir") + "\\screenshots\\" + testName + "_" + timestamp + ".png";
+        String destination = System.getProperty("user.dir") + "\\screenshots\\" + tname + "_" + timeStamp + ".png";
         try {
             FileUtils.copyFile(source, new File(destination));
-        } catch (Exception e) {
+        } catch (IOException e) {
             e.getMessage();
         }
         return destination;
+
     }
 }

@@ -9,7 +9,7 @@ import testBase.BaseClass;
 public class TC_001_AccountRegistrationTest extends BaseClass {
 
     @Test
-    void test_account_registration() {
+    public void test_account_registration() {
         logger.debug("application logs...........");
         logger.info("***  Starting TC_001_AccountRegistrationTest ***");
         try {
