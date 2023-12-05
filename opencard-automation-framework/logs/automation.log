@@ -1,7 +1,0 @@
-14:53:03.595 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
-14:53:03.740 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Account link
-14:53:04.480 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Register link
-14:53:04.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customers data
-14:53:06.586 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Continue
-14:53:06.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
-14:53:06.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
