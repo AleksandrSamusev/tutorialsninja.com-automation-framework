@@ -1,0 +1,21 @@
+16:41:10.064 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:41:10.292 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:41:10.999 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Account link
+16:41:11.585 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Account link
+16:41:12.603 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Register link
+16:41:12.610 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - providing customers data
+16:41:13.963 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:41:14.400 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Account link
+16:41:14.842 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Register link
+16:41:14.845 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - providing customers data
+16:41:15.477 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Register link
+16:41:15.477 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - providing customers data
+16:41:15.803 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Continue
+16:41:16.048 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+16:41:16.057 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+16:41:17.315 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Continue
+16:41:17.360 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+16:41:17.360 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+16:41:17.764 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Continue
+16:41:17.807 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+16:41:17.808 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
