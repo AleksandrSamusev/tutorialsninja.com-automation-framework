@@ -1,4 +1,4 @@
-package testCases;
+package testBase;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -14,7 +14,7 @@ public class BaseClass {
     public WebDriver driver;
 
     @BeforeClass
-    void setup() {
+    public void setup() {
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
@@ -23,7 +23,7 @@ public class BaseClass {
     }
 
     @AfterClass
-    void tearDown() {
+    public void tearDown() {
         driver.quit();
     }
 

@@ -4,6 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import testBase.BaseClass;
 
 public class TC_001_AccountRegistrationTest extends BaseClass {
 
@@ -12,6 +13,7 @@ public class TC_001_AccountRegistrationTest extends BaseClass {
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
+            Thread.sleep(1000);
             homePage.clickRegister();
 
             AccountRegistrationPage registrationPage = new AccountRegistrationPage(driver);
