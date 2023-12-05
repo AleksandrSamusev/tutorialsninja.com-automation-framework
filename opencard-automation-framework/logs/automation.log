@@ -47,3 +47,46 @@
 22:38:00.531 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
 22:38:00.534 [main] INFO  testCases.TC_002_LoginTest - providing customers data
 22:38:01.147 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+00:21:21.191 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:21:21.323 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:21:21.809 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:21:21.811 [main] INFO  testCases.TC_003_LoginDDT - providing customers data
+00:21:23.078 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:21:33.352 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:21:33.400 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:21:43.641 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:21:43.680 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:21:53.872 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:21:53.912 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:22:04.103 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:22:04.142 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:24:47.594 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:24:47.683 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:24:48.038 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:24:48.042 [main] INFO  testCases.TC_003_LoginDDT - providing customers data
+00:24:48.861 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:24:49.487 [main] INFO  testCases.TC_003_LoginDDT - ***  Finished TC_003_LoginDDT ***
+00:24:49.504 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:24:49.549 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:24:49.911 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:24:49.911 [main] INFO  testCases.TC_003_LoginDDT - providing customers data
+00:24:50.472 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:25:00.551 [main] INFO  testCases.TC_003_LoginDDT - ***  Finished TC_003_LoginDDT ***
+00:25:00.552 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:25:00.604 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:25:01.241 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:25:01.242 [main] INFO  testCases.TC_003_LoginDDT - providing customers data
+00:25:01.789 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:25:11.855 [main] INFO  testCases.TC_003_LoginDDT - ***  Finished TC_003_LoginDDT ***
+00:25:11.857 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:25:11.903 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:25:12.672 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:25:12.674 [main] INFO  testCases.TC_003_LoginDDT - providing customers data
+00:25:13.215 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:25:23.236 [main] INFO  testCases.TC_003_LoginDDT - ***  Finished TC_003_LoginDDT ***
+00:25:23.238 [main] INFO  testCases.TC_003_LoginDDT - ***  Starting TC_003_LoginDDT ***
+00:25:23.297 [main] INFO  testCases.TC_003_LoginDDT - clicked on Account link
+00:25:23.992 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:25:23.992 [main] INFO  testCases.TC_003_LoginDDT - providing customers data
+00:25:24.611 [main] INFO  testCases.TC_003_LoginDDT - clicked on Login link
+00:25:34.647 [main] INFO  testCases.TC_003_LoginDDT - ***  Finished TC_003_LoginDDT ***
