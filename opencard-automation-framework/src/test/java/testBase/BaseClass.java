@@ -15,7 +15,6 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 import java.io.File;
-import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
@@ -23,7 +22,7 @@ import java.util.ResourceBundle;
 
 public class BaseClass {
 
-    public WebDriver driver;
+    public static WebDriver driver;
     public Logger logger;
     public ResourceBundle rb;
 

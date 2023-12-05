@@ -5,12 +5,16 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
+import org.apache.commons.mail.DefaultAuthenticator;
+import org.apache.commons.mail.ImageHtmlEmail;
+import org.apache.commons.mail.resolver.DataSourceUrlResolver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 import testBase.BaseClass;
 
-import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -55,9 +59,19 @@ public class ExtentReportManager implements ITestListener {
         try {
             String imgPath = new BaseClass().captureScreen(result.getName());
             extentTest.addScreenCaptureFromPath(imgPath);
-        } catch (IOException e1) {
+        } catch (Exception e1) {
             e1.printStackTrace();
         }
     }
 
+    public void onTestSkipped(ITestResult result) {
+        extentTest = extentReports.createTest(result.getName());
+        extentTest.log(Status.SKIP, "Test Skipped");
+        extentTest.log(Status.SKIP, result.getThrowable().getMessage());
+    }
+
+    public void onFinish(ITestContext context) {
+        extentReports.flush();
+    }
 }
+
