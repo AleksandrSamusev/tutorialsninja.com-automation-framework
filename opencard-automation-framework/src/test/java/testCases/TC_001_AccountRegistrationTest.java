@@ -13,7 +13,6 @@ public class TC_001_AccountRegistrationTest extends BaseClass {
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
-            Thread.sleep(1000);
             homePage.clickRegister();
 
             AccountRegistrationPage registrationPage = new AccountRegistrationPage(driver);
