@@ -47,7 +47,7 @@ public class ExtentReportManager implements ITestListener {
         extentTest.log(Status.PASS, "Test Passed");
     }
 
-   /* public void onTestFailure(ITestResult result) {
+    public void onTestFailure(ITestResult result) {
         extentTest = extentReports.createTest(result.getName());
         extentTest.log(Status.FAIL, "Test Failed");
         extentTest.log(Status.FAIL, result.getThrowable().getMessage());
@@ -58,6 +58,6 @@ public class ExtentReportManager implements ITestListener {
         } catch (IOException e1) {
             e1.printStackTrace();
         }
-    }*/
+    }
 
 }
