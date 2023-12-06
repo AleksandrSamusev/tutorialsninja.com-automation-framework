@@ -27,7 +27,7 @@ public class BaseClass {
     public Logger logger;
     public ResourceBundle rb;
 
-    @BeforeClass
+    @BeforeClass(groups = {"Master", "Sanity", "Regression"})
     @Parameters("browser")
     public void setup(String br) {
         rb = ResourceBundle.getBundle("config"); //load config.properties file
@@ -52,7 +52,7 @@ public class BaseClass {
 
     }
 
-    @AfterClass
+    @AfterClass(groups = {"Master", "Sanity", "Regression"})
     public void tearDown() {
         driver.quit();
     }
