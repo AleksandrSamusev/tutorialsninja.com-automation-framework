@@ -9,9 +9,9 @@
     <test name="TutorialsNinjaTest" thread-count="5">
       <parameter name="browser" value="chrome"/>
         <classes>
-           <!-- <class name="testCases.TC_001_AccountRegistrationTest"/> -->
-           <!-- <class name="testCases.TC_002_LoginTest"/> -->
-            <class name="testCases.TC_003_LoginDDT"/>
+           <class name="testCases.TC_001_AccountRegistrationTest"/>
+           <class name="testCases.TC_002_LoginTest"/>
+            <!--<class name="testCases.TC_003_LoginDDT"/>-->
         </classes>
     </test>
 </suite>
