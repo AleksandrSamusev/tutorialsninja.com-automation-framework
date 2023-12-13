@@ -62,6 +62,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//h1[normalize-space()='Register Account']")
     WebElement pageTitle;
 
+    @FindBy(xpath = "//*[@id=\"content\"]/form/fieldset[2]/div[2]/div/div")
+    WebElement passwordConfirmationValidationMessage;
+
     //action methods
     public void setFirstName(String fName) {
         txtFirstName.sendKeys(fName);
@@ -159,6 +162,14 @@ public class AccountRegistrationPage extends BasePage {
     public String getPageTitle() {
         try {
             return pageTitle.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
+
+    public String getPasswordConfirmationValidationMessage() {
+        try {
+            return passwordConfirmationValidationMessage.getText();
         } catch (Exception e) {
             return e.getMessage();
         }
