@@ -59,6 +59,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//label[normalize-space()='Yes']/input")
     WebElement radioBtnYes;
 
+    @FindBy(xpath = "//h1[normalize-space()='Register Account']")
+    WebElement pageTitle;
+
     //action methods
     public void setFirstName(String fName) {
         txtFirstName.sendKeys(fName);
@@ -148,6 +151,14 @@ public class AccountRegistrationPage extends BasePage {
     public String getPolicyValidationMessage() {
         try {
             return policyValidationMessage.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
+
+    public String getPageTitle() {
+        try {
+            return pageTitle.getText();
         } catch (Exception e) {
             return e.getMessage();
         }

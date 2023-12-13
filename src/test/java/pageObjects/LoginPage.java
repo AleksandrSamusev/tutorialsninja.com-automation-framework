@@ -19,6 +19,9 @@ public class LoginPage extends BasePage{
     @FindBy(xpath = "//input[@value='Login']")
     WebElement btnLogin;
 
+    @FindBy(xpath = "//a[normalize-space()='Continue']")
+    WebElement newCustomerContinueBtn;
+
     public void setEmail(String email) {
         txtEmail.sendKeys(email);
     }
@@ -29,6 +32,10 @@ public class LoginPage extends BasePage{
 
     public void clickLogin() {
         btnLogin.click();
+    }
+    
+    public void clickNewCustomerContinueBtn() {
+        newCustomerContinueBtn.click();
     }
 
 
