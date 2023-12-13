@@ -6,12 +6,11 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_001_AccountRegisterWithMandatoryFieldsTest extends BaseClass {
-
+public class TC_RF_001_2_AccountRegisterWithValidTelNumberTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_account_registration() {
         logger.info("");
-        logger.info("***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***");
+        logger.info("***  TC_RF_001_2_AccountRegisterWithValidTelNumberTest  ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -30,7 +29,7 @@ public class TC_RF_001_AccountRegisterWithMandatoryFieldsTest extends BaseClass 
             logger.info("last name: " + lName);
             String mail = randomString() + "@gmail.com";
             logger.info("email: " + mail);
-            String phone = "123123123123";
+            String phone = "123";
             logger.info("phone number: " + phone);
             String password = randomAlphaNumeric();
             logger.info("password: " + password + ", confirm password: " + password);
@@ -56,6 +55,6 @@ public class TC_RF_001_AccountRegisterWithMandatoryFieldsTest extends BaseClass 
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***");
+        logger.info("***  TC_RF_001_2_AccountRegisterWithValidTelNumberTest  ***");
     }
 }
