@@ -66,3 +66,20 @@
 00:28:56.833 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
 00:28:56.880 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... validation message - Telephone must be between 3 and 32 characters!
 00:28:56.883 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest ***
+00:33:45.230 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - 
+00:33:45.233 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest ***
+00:33:45.247 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+00:33:45.336 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+00:33:45.970 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+00:33:45.974 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+00:33:45.974 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+00:33:45.975 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - first name: BUDTH
+00:33:45.975 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - last name: DMCWM
+00:33:45.975 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - email: RxNFF@gmail.com
+00:33:45.975 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - phone number: 12345678901234567890123456789012345678901234567890
+00:33:45.976 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - password: dJyE@176, confirm password: dJyE@176
+00:33:45.976 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+00:33:46.567 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+00:33:46.990 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+00:33:47.035 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... validation message - Telephone must be between 3 and 32 characters!
+00:33:47.037 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest ***
