@@ -16,8 +16,9 @@
             <class name="testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_007_AccountRegisterNewCustomerTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest"/> -->
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_010_AccountNotCreatedIfEmailIncorrectTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest"/> -->
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest"/>
             <!-- <class name="testCases.TC_002_LoginTest"/> -->
             <!-- <class name="testCases.TC_003_LoginDDT"/> -->
         </classes>

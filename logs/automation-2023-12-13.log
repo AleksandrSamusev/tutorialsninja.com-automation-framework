@@ -1,0 +1,33 @@
+22:35:22.085 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - 
+22:35:22.087 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ***  Starting TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest ***
+22:35:22.100 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... create Home Page
+22:35:22.182 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'My account' in navbar
+22:35:22.849 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'Register'
+22:35:22.852 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... create Account Registration Page
+22:35:22.853 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... generating user data:
+22:35:22.853 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - first name: SHTCR
+22:35:22.854 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - last name: ZZULM
+22:35:22.854 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - email: QpDME@jbIyA
+22:35:22.854 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - phone number: 6611269326
+22:35:22.855 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - password: CPtL@510, confirm password: CPtL@510
+22:35:22.855 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... setting user data to the corresponding fields
+22:35:23.435 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'accept policy rules' 
+22:35:23.983 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click 'Continue' button
+22:35:24.029 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... validation message - 
+22:37:29.032 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - 
+22:37:29.034 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ***  Starting TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest ***
+22:37:29.046 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... create Home Page
+22:37:29.137 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'My account' in navbar
+22:37:29.781 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'Register'
+22:37:29.784 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... create Account Registration Page
+22:37:29.784 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... generating user data:
+22:37:29.785 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - first name: XLBCN
+22:37:29.785 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - last name: LGIMT
+22:37:29.786 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - email: corCF@EnRdD
+22:37:29.786 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - phone number: 3154270617
+22:37:29.786 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - password: OQQY@902, confirm password: OQQY@902
+22:37:29.786 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... setting user data to the corresponding fields
+22:37:30.356 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'accept policy rules' 
+22:37:30.786 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click 'Continue' button
+22:37:30.831 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... validation message - E-Mail Address does not appear to be valid!
+22:37:30.833 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ***  Finished TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest ***
