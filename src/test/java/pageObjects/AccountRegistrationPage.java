@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class AccountRegistrationPage extends BasePage{
+public class AccountRegistrationPage extends BasePage {
 
     public AccountRegistrationPage(WebDriver driver) {
         super(driver);
@@ -53,30 +53,47 @@ public class AccountRegistrationPage extends BasePage{
     @FindBy(xpath = "//fieldset[2]//div[1]//div[1]//div[1]")
     WebElement passwordValidationMessage;
 
+    @FindBy(xpath = "//div[@class='alert alert-danger alert-dismissible']")
+    WebElement policyValidationMessage;
+
+    @FindBy(xpath = "//label[normalize-space()='Yes']/input")
+    WebElement radioBtnYes;
+
     //action methods
     public void setFirstName(String fName) {
         txtFirstName.sendKeys(fName);
     }
+
     public void setLastName(String lName) {
         txtLastName.sendKeys(lName);
     }
+
     public void setEmail(String email) {
         txtEmail.sendKeys(email);
     }
+
     public void setTelephone(String tel) {
         txtTelephone.sendKeys(tel);
     }
+
     public void setPassword(String pass) {
         txtPassword.sendKeys(pass);
     }
+
     public void setConfirmPassword(String conf) {
         txtConfirmPassword.sendKeys(conf);
     }
+
     public void clickPrivacyPolicy() {
         chkPolicy.click();
     }
+
     public void clickContinue() {
         btnContinue.click();
+    }
+
+    public void clickOnYesRadioBtn() {
+        radioBtnYes.click();
     }
 
 
@@ -128,9 +145,13 @@ public class AccountRegistrationPage extends BasePage{
         }
     }
 
-
-
-
+    public String getPolicyValidationMessage() {
+        try {
+            return policyValidationMessage.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
 
 
 }

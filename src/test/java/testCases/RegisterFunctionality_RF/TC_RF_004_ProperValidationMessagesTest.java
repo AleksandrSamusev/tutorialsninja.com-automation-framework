@@ -10,7 +10,7 @@ public class TC_RF_004_ProperValidationMessagesTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_validation_messages() {
-        logger.info("****  Starting TC_RF_004_ProperValidationMessagesTest test  ****");
+        logger.info("****  Starting TC_RF_004_ProperValidationMessagesTest ****");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
@@ -26,12 +26,14 @@ public class TC_RF_004_ProperValidationMessagesTest extends BaseClass {
             String emailMessage = accountRegistrationPage.getEmailValidationMessage();
             String phoneMessage = accountRegistrationPage.getPhoneValidationMessage();
             String passwordMessage = accountRegistrationPage.getPasswordValidationMessage();
+            String policyMessage = accountRegistrationPage.getPolicyValidationMessage();
 
             Assert.assertEquals(firstNameMessage, "First Name must be between 1 and 32 characters!");
             Assert.assertEquals(lastNameMessage, "Last Name must be between 1 and 32 characters!");
             Assert.assertEquals(emailMessage, "E-Mail Address does not appear to be valid!");
             Assert.assertEquals(phoneMessage, "Telephone must be between 3 and 32 characters!");
             Assert.assertEquals(passwordMessage, "Password must be between 4 and 20 characters!");
+            Assert.assertEquals(policyMessage, "Warning: You must agree to the Privacy Policy!");
 
         } catch (Exception ex) {
             logger.info("test failed");

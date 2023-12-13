@@ -15,6 +15,15 @@ public class MyAccountPage extends BasePage {
     @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Logout']")
     WebElement btnLogout;
 
+    @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Newsletter']")
+    WebElement btnNewsletter;
+
+    @FindBy(xpath = "//*[@id=\"content\"]/form/fieldset/div/div/label[1]/input")
+    WebElement radioBtnYes;
+
+    @FindBy(xpath = "//a[normalize-space()='Continue']")
+    WebElement btnContinue;
+
     public boolean isMyAccountPageExists() {
         try {
             return msgConfirmation.isDisplayed();
@@ -25,6 +34,12 @@ public class MyAccountPage extends BasePage {
 
     public void clickLogout() {
         btnLogout.click();
+    }
+    public void clickContinue() {
+        btnContinue.click();
+    }
+    public void clickNewsletter() {
+        btnNewsletter.click();
     }
 
 }

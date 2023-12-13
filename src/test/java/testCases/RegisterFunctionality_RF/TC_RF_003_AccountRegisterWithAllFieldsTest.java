@@ -6,12 +6,11 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_001_AccountRegistrationTest extends BaseClass {
+public class TC_RF_003_AccountRegisterWithAllFieldsTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
-    public void test_account_registration() {
-        logger.debug("application logs...........");
-        logger.info("***  Starting TC_RF_001_AccountRegistrationTest ***");
+    public void test_register_account_with_all_fields() {
+        logger.info("***  TC_RF_003_AccountRegisterWithAllFieldsTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
@@ -31,6 +30,7 @@ public class TC_RF_001_AccountRegistrationTest extends BaseClass {
             registrationPage.setPassword(password);
             registrationPage.setConfirmPassword(password);
             registrationPage.clickPrivacyPolicy();
+            registrationPage.clickOnYesRadioBtn();
             registrationPage.clickContinue();
             logger.info("clicked on Continue");
             String confMsg = registrationPage.getConfirmationMessage();
@@ -41,6 +41,6 @@ public class TC_RF_001_AccountRegistrationTest extends BaseClass {
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  Finished TC_RF_001_AccountRegistrationTest ***");
+        logger.info("***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***");
     }
 }

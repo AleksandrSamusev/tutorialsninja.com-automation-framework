@@ -7,11 +7,13 @@
     </listeners>
 
     <test name="TutorialsNinjaTest" thread-count="5">
-      <parameter name="browser" value="chrome"/>
+        <parameter name="browser" value="chrome"/>
         <classes>
-           <class name="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegistrationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest"/>
-           <class name="testCases.TC_002_LoginTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest"/>
+            <class name="testCases.TC_002_LoginTest"/>
             <!--<class name="testCases.TC_003_LoginDDT"/>-->
         </classes>
     </test>
