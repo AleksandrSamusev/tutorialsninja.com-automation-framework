@@ -1,163 +1,169 @@
-04:26:59.935 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegistrationTest ***
-04:27:00.037 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
-04:27:00.927 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
-04:27:00.931 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
-04:27:02.245 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
-04:27:02.281 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
-04:27:02.282 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegistrationTest ***
-04:27:05.391 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest test  ****
-04:27:05.469 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
-04:27:06.171 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
-04:27:06.172 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
-04:27:20.431 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
-04:27:20.522 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
-04:27:20.974 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-04:27:20.975 [main] INFO  testCases.TC_002_LoginTest - providing customers data
-04:27:21.902 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-04:27:21.948 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
-04:28:05.284 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegistrationTest ***
-04:28:05.380 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
-04:28:06.054 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
-04:28:06.057 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
-04:28:07.362 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
-04:28:07.398 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
-04:28:07.400 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegistrationTest ***
-04:28:10.741 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest test  ****
-04:28:10.818 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
-04:28:11.447 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
-04:28:11.873 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
-04:28:12.027 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
-04:28:14.881 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
-04:28:14.958 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
-04:28:15.348 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-04:28:15.348 [main] INFO  testCases.TC_002_LoginTest - providing customers data
-04:28:16.274 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-04:28:16.323 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
-05:17:44.593 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegistrationTest ***
-05:17:44.703 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
-05:17:45.339 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
-05:17:45.343 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
-05:17:46.640 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
-05:17:46.677 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
-05:17:46.679 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegistrationTest ***
-05:17:49.571 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest test  ****
-05:17:49.703 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
-05:17:50.543 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
-05:17:50.961 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
-05:17:51.142 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
-05:17:54.092 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
-05:17:54.171 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
-05:17:54.622 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-05:17:54.623 [main] INFO  testCases.TC_002_LoginTest - providing customers data
-05:17:55.744 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-05:17:55.789 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
-05:22:31.925 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegistrationTest ***
-05:22:32.019 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
-05:22:32.865 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
-05:22:32.868 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
-05:22:34.176 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
-05:22:34.212 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
-05:22:34.214 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegistrationTest ***
-05:22:36.999 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest test  ****
-05:22:37.077 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
-05:22:37.784 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
-05:22:38.202 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
-05:22:38.388 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
-05:22:41.633 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
-05:22:41.710 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
-05:22:42.138 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-05:22:42.139 [main] INFO  testCases.TC_002_LoginTest - providing customers data
-05:22:43.057 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-05:22:43.101 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
-05:24:01.511 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegistrationTest ***
-05:24:01.609 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
-05:24:02.270 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
-05:24:02.273 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
-05:24:03.884 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
-05:24:03.922 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
-05:24:03.924 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegistrationTest ***
-05:24:08.573 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest test  ****
-05:24:08.698 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
-05:24:09.753 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
-05:24:10.510 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
-05:24:10.692 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
-05:24:14.095 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
-05:24:14.197 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
-05:24:14.608 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-05:24:14.609 [main] INFO  testCases.TC_002_LoginTest - providing customers data
-05:24:15.561 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-05:24:15.604 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
-05:25:13.761 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegistrationTest ***
-05:25:13.858 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
-05:25:15.178 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
-05:25:15.181 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
-05:25:16.693 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
-05:25:16.727 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
-05:25:16.729 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegistrationTest ***
-05:25:21.681 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest test  ****
-05:25:21.758 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
-05:25:22.826 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
-05:25:23.256 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
-05:25:23.433 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
-05:25:27.197 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
-05:25:27.277 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
-05:25:27.745 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-05:25:27.746 [main] INFO  testCases.TC_002_LoginTest - providing customers data
-05:25:28.669 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-05:25:28.714 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
-06:04:41.631 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
-06:04:41.725 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
-06:04:42.813 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
-06:04:42.816 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
-06:04:44.335 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
-06:04:44.374 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
-06:04:44.376 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
-06:04:47.782 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  TC_RF_003_AccountRegisterWithAllFieldsTest ***
-06:04:47.857 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Account link
-06:04:48.955 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Register link
-06:04:48.956 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - providing customers data
-06:04:50.465 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Continue
-06:04:50.504 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - validating expected message
-06:04:50.504 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***
-06:04:54.435 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest ****
-06:04:54.509 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
-06:04:55.693 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
-06:04:56.102 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
-06:04:56.277 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
-06:05:00.046 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
-06:05:00.129 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
-06:05:00.501 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-06:05:00.502 [main] INFO  testCases.TC_002_LoginTest - providing customers data
-06:05:01.537 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-06:05:01.580 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
-06:24:23.153 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
-06:24:23.254 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
-06:24:24.335 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
-06:24:24.338 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
-06:24:25.843 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
-06:24:25.879 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
-06:24:25.881 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
-06:24:31.140 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  TC_RF_003_AccountRegisterWithAllFieldsTest ***
-06:24:31.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Account link
-06:24:32.309 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Register link
-06:24:32.310 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - providing customers data
-06:24:33.853 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Continue
-06:24:33.888 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - validating expected message
-06:24:33.888 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***
-06:24:39.452 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest ****
-06:24:39.527 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
-06:24:40.598 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
-06:24:41.025 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
-06:24:41.207 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
-06:24:45.559 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
-06:24:45.637 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Account link
-06:24:46.751 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Register link
-06:24:46.752 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - providing customers data
-06:24:48.234 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Continue
-06:24:49.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
-06:24:55.411 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
-06:24:55.491 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
-06:24:55.950 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-06:24:55.951 [main] INFO  testCases.TC_002_LoginTest - providing customers data
-06:24:56.876 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
-06:24:56.921 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+07:08:16.497 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
+07:08:17.374 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
+07:08:17.856 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
+07:08:18.028 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
+07:08:21.417 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:08:21.500 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Account link
+07:08:22.283 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Register link
+07:08:22.283 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - providing customers data
+07:08:23.821 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Continue
+07:08:24.804 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:08:28.170 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:08:28.254 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Account link
+07:08:29.049 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Register link
+07:08:29.049 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - providing customers data
+07:08:30.311 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Continue
+07:08:33.222 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:08:37.873 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+07:08:37.949 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
+07:08:38.564 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:08:38.565 [main] INFO  testCases.TC_002_LoginTest - providing customers data
+07:08:39.405 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:08:39.454 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+07:10:15.395 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+07:10:15.492 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
+07:10:16.373 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
+07:10:16.376 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
+07:10:17.665 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
+07:10:17.705 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
+07:10:17.708 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+07:10:20.897 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  TC_RF_003_AccountRegisterWithAllFieldsTest ***
+07:10:20.978 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Account link
+07:10:21.751 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Register link
+07:10:21.752 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - providing customers data
+07:10:23.104 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Continue
+07:10:23.143 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - validating expected message
+07:10:23.144 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***
+07:10:26.451 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest ****
+07:10:26.530 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
+07:10:27.408 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
+07:10:27.841 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
+07:10:28.023 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
+07:10:31.751 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:10:31.831 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Account link
+07:10:32.856 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Register link
+07:10:32.857 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - providing customers data
+07:10:34.310 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Continue
+07:10:35.341 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:10:39.640 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:10:39.732 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Account link
+07:10:40.836 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Register link
+07:10:40.837 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - providing customers data
+07:10:42.071 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Continue
+07:10:44.834 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:10:50.118 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+07:10:50.194 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
+07:10:50.542 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:10:50.542 [main] INFO  testCases.TC_002_LoginTest - providing customers data
+07:10:51.596 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:10:51.642 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+07:17:59.509 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+07:17:59.607 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
+07:18:00.427 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
+07:18:00.430 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
+07:18:01.704 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
+07:18:01.751 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
+07:18:01.752 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+07:18:05.373 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  TC_RF_003_AccountRegisterWithAllFieldsTest ***
+07:18:05.452 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Account link
+07:18:06.596 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Register link
+07:18:06.596 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - providing customers data
+07:18:08.006 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Continue
+07:18:08.042 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - validating expected message
+07:18:08.042 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***
+07:18:11.580 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest ****
+07:18:11.663 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
+07:18:12.512 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
+07:18:12.940 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
+07:18:13.116 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
+07:18:16.650 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:18:16.732 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Account link
+07:18:17.665 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Register link
+07:18:17.665 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - providing customers data
+07:18:19.105 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Continue
+07:18:19.883 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:18:24.672 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:18:24.750 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Account link
+07:18:25.712 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Register link
+07:18:25.713 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - providing customers data
+07:18:27.094 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Continue
+07:18:34.928 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+07:18:35.055 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
+07:18:35.496 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:18:35.497 [main] INFO  testCases.TC_002_LoginTest - providing customers data
+07:18:36.265 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:18:36.358 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+07:21:47.240 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+07:21:47.344 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
+07:21:48.401 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
+07:21:48.404 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
+07:21:49.806 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
+07:21:49.842 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
+07:21:49.844 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+07:21:53.312 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  TC_RF_003_AccountRegisterWithAllFieldsTest ***
+07:21:53.392 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Account link
+07:21:54.158 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Register link
+07:21:54.159 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - providing customers data
+07:21:55.462 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Continue
+07:21:55.498 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - validating expected message
+07:21:55.498 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***
+07:21:58.834 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest ****
+07:21:58.911 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
+07:21:59.765 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
+07:22:00.209 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
+07:22:00.392 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
+07:22:03.994 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:22:04.101 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Account link
+07:22:04.989 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Register link
+07:22:04.990 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - providing customers data
+07:22:06.518 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Continue
+07:22:07.275 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:22:11.062 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:22:11.137 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Account link
+07:22:11.917 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Register link
+07:22:11.918 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - providing customers data
+07:22:13.144 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Continue
+07:22:15.905 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:22:20.806 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+07:22:20.880 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
+07:22:21.241 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:22:21.242 [main] INFO  testCases.TC_002_LoginTest - providing customers data
+07:22:22.105 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:22:22.145 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+07:25:04.492 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+07:25:04.595 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Account link
+07:25:05.624 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Register link
+07:25:05.627 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - providing customers data
+07:25:07.745 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - clicked on Continue
+07:25:07.780 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - validating expected message
+07:25:07.782 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+07:25:12.945 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  TC_RF_003_AccountRegisterWithAllFieldsTest ***
+07:25:13.020 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Account link
+07:25:14.207 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Register link
+07:25:14.208 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - providing customers data
+07:25:15.743 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Continue
+07:25:15.778 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - validating expected message
+07:25:15.778 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***
+07:25:19.642 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest ****
+07:25:19.715 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
+07:25:20.984 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
+07:25:21.440 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
+07:25:21.623 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
+07:25:25.049 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:25:25.133 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Account link
+07:25:26.203 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Register link
+07:25:26.204 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - providing customers data
+07:25:27.740 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Continue
+07:25:28.992 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+07:25:33.953 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:25:34.026 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Account link
+07:25:35.119 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Register link
+07:25:35.120 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - providing customers data
+07:25:36.372 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Continue
+07:25:39.347 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+07:25:44.378 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+07:25:44.453 [main] INFO  testCases.TC_002_LoginTest - clicked on Account link
+07:25:44.809 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:25:44.810 [main] INFO  testCases.TC_002_LoginTest - providing customers data
+07:25:45.862 [main] INFO  testCases.TC_002_LoginTest - clicked on Login link
+07:25:45.900 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***

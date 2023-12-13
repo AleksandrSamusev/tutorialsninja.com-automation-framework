@@ -8,11 +8,11 @@ import pageObjects.MyAccountPage;
 import pageObjects.NewsletterPage;
 import testBase.BaseClass;
 
-public class TC_RF_005_AccountRegisterWithYesNewsletterOptionTest extends BaseClass {
+public class TC_RF_006_AccountRegisterWithNoNewsletterOptionTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_account_registration_with_yes_newsletter_option() {
-        logger.info("***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***");
+        logger.info("***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
@@ -32,23 +32,23 @@ public class TC_RF_005_AccountRegisterWithYesNewsletterOptionTest extends BaseCl
             registrationPage.setPassword(password);
             registrationPage.setConfirmPassword(password);
             registrationPage.clickPrivacyPolicy();
-            registrationPage.clickOnYesRadioBtn();
             registrationPage.clickContinue();
             logger.info("clicked on Continue");
 
             MyAccountPage myAccountPage = new MyAccountPage(driver);
             myAccountPage.clickContinue();
             myAccountPage.clickNewsletter();
+            Thread.sleep(2000);
 
             NewsletterPage newsletterPage = new NewsletterPage(driver);
-            boolean yesSelected = newsletterPage.isYesBtnClicked();
+            boolean noSelected = newsletterPage.isNoBtnClicked();
 
-            Assert.assertTrue(yesSelected);
+            Assert.assertTrue(noSelected);
 
         } catch (Exception ex) {
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***");
+        logger.info("***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***");
     }
 }

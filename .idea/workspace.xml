@@ -5,21 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/NewsletterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_003_AccountRegisterWithAllFieldsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_005_AccountRegisterWithYesNewsletterOptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-2023-12-13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.13.07.10.09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.13.07.17.53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.13.07.21.40.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.13.07.24.58.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_account_registration_with_yes_newsletter_option_20231213071829.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_006_AccountRegisterWithNoNewsletterOptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\reports\Test-Report-2023.12.13.04.26.53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\reports\Test-Report-2023.12.13.04.27.59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\reports\Test-Report-2023.12.13.05.17.39.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\reports\Test-Report-2023.12.13.05.22.26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\reports\Test-Report-2023.12.13.05.23.53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\reports\Test-Report-2023.12.13.05.25.08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\reports\Test-Report-2023.12.13.06.04.35.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\reports\Test-Report-2023.12.13.06.24.17.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crossbrowserTesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crossbrowserTesting.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grouping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_AccountRegisterWithMandatoryFieldsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_004_ProperValidationMessagesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_004_ProperValidationMessagesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/TutorialsNinjaSuite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/NewsletterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/NewsletterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_005_AccountRegisterWithYesNewsletterOptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_005_AccountRegisterWithYesNewsletterOptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +182,7 @@
       <updated>1701947646952</updated>
       <workItem from="1701947647778" duration="920000" />
       <workItem from="1701948762090" duration="1084000" />
-      <workItem from="1702425918070" duration="12937000" />
+      <workItem from="1702425918070" duration="16530000" />
     </task>
     <servers />
   </component>

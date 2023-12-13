@@ -13,6 +13,7 @@
             <class name="testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest"/>
             <class name="testCases.TC_002_LoginTest"/>
             <!--<class name="testCases.TC_003_LoginDDT"/>-->
         </classes>
