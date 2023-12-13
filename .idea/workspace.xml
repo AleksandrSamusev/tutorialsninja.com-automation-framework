@@ -5,13 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testData/OpenCart-TestCases.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_004_ProperValidationMessagesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/.~lock.OpenCart-TestCases.xlsx#" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossbrowserTesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crossbrowserTesting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grouping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.07.12.47.51.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.07.12.50.59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC_001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_AccountRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/OpenCart-TestCases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/OpenCart-TestCases.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,8 +54,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml.executor": "Run",
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml.executor": "Run",
+    "TestNG.TC_RF_001_AccountRegistrationTest.test_account_registration.executor": "Run",
+    "TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -49,7 +72,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml">
     <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialsninja.com-automation-framework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/datadriventests.xml" />
@@ -70,10 +93,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TC_RF_001_AccountRegistrationTest.test_account_registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialsninja.com-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.RegisterFunctionality_RF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases.RegisterFunctionality_RF" />
+      <option name="MAIN_CLASS_NAME" value="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegistrationTest" />
+      <option name="METHOD_NAME" value="test_account_registration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_RF_004_ProperValidationMessagesTest.test_validation_messages" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialsninja.com-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.RegisterFunctionality_RF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases.RegisterFunctionality_RF" />
+      <option name="MAIN_CLASS_NAME" value="testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest" />
+      <option name="METHOD_NAME" value="test_validation_messages" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" />
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml" />
+        <item itemvalue="TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages" />
+        <item itemvalue="TestNG.TC_RF_001_AccountRegistrationTest.test_account_registration" />
+        <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +155,7 @@
       <updated>1701947646952</updated>
       <workItem from="1701947647778" duration="920000" />
       <workItem from="1701948762090" duration="1084000" />
-      <workItem from="1702425918070" duration="3922000" />
+      <workItem from="1702425918070" duration="8081000" />
     </task>
     <servers />
   </component>

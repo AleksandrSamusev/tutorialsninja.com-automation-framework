@@ -1,4 +1,4 @@
-package testCases;
+package testCases.RegisterFunctionality_RF;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -6,12 +6,12 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_001_AccountRegistrationTest extends BaseClass {
+public class TC_RF_001_AccountRegistrationTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_account_registration() {
         logger.debug("application logs...........");
-        logger.info("***  Starting TC_001_AccountRegistrationTest ***");
+        logger.info("***  Starting TC_RF_001_AccountRegistrationTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
@@ -41,6 +41,6 @@ public class TC_001_AccountRegistrationTest extends BaseClass {
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  Finished TC_001_AccountRegistrationTest ***");
+        logger.info("***  Finished TC_RF_001_AccountRegistrationTest ***");
     }
 }

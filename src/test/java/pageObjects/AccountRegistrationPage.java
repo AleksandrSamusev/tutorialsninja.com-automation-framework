@@ -38,6 +38,21 @@ public class AccountRegistrationPage extends BasePage{
     @FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
     WebElement msgConfirmation;
 
+    @FindBy(xpath = "//div[@class='row']//div[2]//div[1]//div[1]")
+    WebElement firstNameValidationMessage;
+
+    @FindBy(xpath = "//div[3]//div[1]//div[1]")
+    WebElement lastNameValidationMessage;
+
+    @FindBy(xpath = "//div[4]//div[1]//div[1]")
+    WebElement emailValidationMessage;
+
+    @FindBy(xpath = "//div[5]//div[1]//div[1]")
+    WebElement phoneValidationMessage;
+
+    @FindBy(xpath = "//fieldset[2]//div[1]//div[1]//div[1]")
+    WebElement passwordValidationMessage;
+
     //action methods
     public void setFirstName(String fName) {
         txtFirstName.sendKeys(fName);
@@ -64,6 +79,7 @@ public class AccountRegistrationPage extends BasePage{
         btnContinue.click();
     }
 
+
     public String getConfirmationMessage() {
         try {
             return msgConfirmation.getText();
@@ -71,4 +87,50 @@ public class AccountRegistrationPage extends BasePage{
             return ex.getMessage();
         }
     }
+
+    public String getFirstNameValidationMessage() {
+        try {
+            return firstNameValidationMessage.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
+
+    public String getLastNameValidationMessage() {
+        try {
+            return lastNameValidationMessage.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
+
+    public String getEmailValidationMessage() {
+        try {
+            return emailValidationMessage.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
+
+    public String getPhoneValidationMessage() {
+        try {
+            return phoneValidationMessage.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
+
+    public String getPasswordValidationMessage() {
+        try {
+            return passwordValidationMessage.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
+
+
+
+
+
+
 }
