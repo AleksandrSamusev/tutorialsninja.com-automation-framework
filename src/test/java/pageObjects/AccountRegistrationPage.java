@@ -105,6 +105,13 @@ public class AccountRegistrationPage extends BasePage {
         radioBtnYes.click();
     }
 
+    public String getStandardEmailValidationMessage() {
+        try {
+            return txtEmail.getAttribute("validationMessage");
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
 
     public String getConfirmationMessage() {
         try {

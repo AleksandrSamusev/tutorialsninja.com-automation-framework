@@ -7,11 +7,11 @@ import pageObjects.HomePage;
 import pageObjects.MyAccountPage;
 import testBase.BaseClass;
 
-public class TC_RF_009_AccountRegisterWithSameParams extends BaseClass {
+public class TC_RF_009_AccountRegisterWithSameParamsTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_when_createUserWithSameParams_then_ValidationMessage() {
-        logger.info("***  TC_RF_009_AccountRegisterWithSameParams ***");
+        logger.info("***  TC_RF_009_AccountRegisterWithSameParamsTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info(" ----> START CYCLE 1 <----");
@@ -21,7 +21,7 @@ public class TC_RF_009_AccountRegisterWithSameParams extends BaseClass {
             homePage.clickRegister();
             logger.info("... click on 'Register'");
             AccountRegistrationPage registrationPage = new AccountRegistrationPage(driver);
-            logger.info("... create AccountRegistrationPage");
+            logger.info("... create Account Registration Page");
 
             logger.info("... generating user data:");
             //generate and save users params
@@ -90,12 +90,11 @@ public class TC_RF_009_AccountRegisterWithSameParams extends BaseClass {
 
             String msg = registrationPage2.getMsgTop();
             logger.info("... validation message on the top of the page - " + msg);
-            Assert.assertEquals(msg, "Warning: E-Mail Address is already registered!",
-                    "!!! TEST FAILED !!!");
+            Assert.assertEquals(msg, "Warning: E-Mail Address is already registered!");
         } catch (Exception ex) {
             logger.info("!!! TEST FAILED !!!");
             Assert.fail();
         }
-        logger.info("*** PASSED  Finished TC_RF_009_AccountRegisterWithSameParams ***");
+        logger.info("*** PASSED  Finished TC_RF_009_AccountRegisterWithSameParamsTest ***");
     }
 }
