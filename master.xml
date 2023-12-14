@@ -9,10 +9,10 @@
     <test name="TutorialsNinjaTest" thread-count="5">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest"/>
+            <!-- <class name="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest"></class>
-            <!-- <class name="testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest"/>
+             <class name="testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest"/>
@@ -26,6 +26,7 @@
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest"/> -->
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest"/>
             <!-- <class name="testCases.TC_002_LoginTest"/> -->
             <!-- <class name="testCases.TC_003_LoginDDT"/> -->
         </classes>
