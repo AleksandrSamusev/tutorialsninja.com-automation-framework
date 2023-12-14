@@ -25,8 +25,9 @@
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest"/> -->
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest"/>
+             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest"/> -->
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest"/>
             <!-- <class name="testCases.TC_002_LoginTest"/> -->
             <!-- <class name="testCases.TC_003_LoginDDT"/> -->
         </classes>
