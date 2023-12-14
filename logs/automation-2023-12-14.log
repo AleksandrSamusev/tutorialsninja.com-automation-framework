@@ -115,3 +115,36 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver
 Command: [d7592667d1feb90db40189e26d7f4ffb, findElement {using=xpath, value=//h1[normalize-space()='Register Account']}]
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37609}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:37609/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: d7592667d1feb90db40189e26d7f4ffb
+02:37:35.014 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - 
+02:37:35.016 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest ***
+02:37:35.028 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+02:37:35.109 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+02:37:35.783 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+02:37:35.786 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+02:37:35.786 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+02:37:35.787 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - first name: HJXTU
+02:37:35.787 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - last name: LXNSD
+02:37:35.787 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - email: zEubL@gmail.com
+02:37:35.787 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - phone number: 123456789012,34
+02:37:35.788 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - password: GWoD@857, confirm password: GWoD@857
+02:37:35.788 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+02:37:36.354 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+02:37:37.087 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+02:37:47.160 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... validation message - no such element: Unable to locate element: {"method":"xpath","selector":"//div[5]//div[1]//div[1]"}
+  (Session info: chrome=120.0.6099.109)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.2.0-37-generic', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5bbe1deece645ef4bf33e125f704620a, findElement {using=xpath, value=//div[5]//div[1]//div[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:33427}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:33427/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bbe1deece645ef4bf33e125f704620a
+02:37:57.199 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... validation page title - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Register Account']"}
+  (Session info: chrome=120.0.6099.109)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.2.0-37-generic', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5bbe1deece645ef4bf33e125f704620a, findElement {using=xpath, value=//h1[normalize-space()='Register Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:33427}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:33427/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bbe1deece645ef4bf33e125f704620a

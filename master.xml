@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!DOCTYPE suite [
+        <!ELEMENT suite (listeners|test)*>
+        <!ATTLIST suite
+                name CDATA #REQUIRED>
+        <!ELEMENT listeners (listener)*>
+        <!ELEMENT listener (#PCDATA)>
+        <!ATTLIST listener
+                class-name CDATA #REQUIRED>
+        <!ELEMENT test (parameter|classes)*>
+        <!ATTLIST test
+                name CDATA #REQUIRED
+                thread-count CDATA #REQUIRED>
+        <!ELEMENT parameter (#PCDATA)>
+        <!ATTLIST parameter
+                name CDATA #REQUIRED
+                value CDATA #REQUIRED>
+        <!ELEMENT classes (class)*>
+        <!ELEMENT class (#PCDATA)>
+        <!ATTLIST class
+                name CDATA #REQUIRED>
+        ]>
 <suite name="TutorialsNinjaSuite">
 
     <listeners>
@@ -26,8 +46,9 @@
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest"/>
              <class name="testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest"/> -->
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest"/> -->
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest"/>
             <!-- <class name="testCases.TC_002_LoginTest"/> -->
             <!-- <class name="testCases.TC_003_LoginDDT"/> -->
         </classes>
