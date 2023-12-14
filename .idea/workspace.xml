@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_2_AccountRegisterWithValidTelNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_3_AccountRegisterWithValidTelNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_AccountRegisterWithMandatoryFieldsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_AccountRegisterWithMandatoryFieldsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +163,7 @@
       <workItem from="1701947647778" duration="920000" />
       <workItem from="1701948762090" duration="1084000" />
       <workItem from="1702425918070" duration="21373000" />
-      <workItem from="1702479889167" duration="13854000" />
+      <workItem from="1702479889167" duration="14230000" />
     </task>
     <servers />
   </component>

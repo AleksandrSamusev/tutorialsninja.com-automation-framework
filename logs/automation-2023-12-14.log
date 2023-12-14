@@ -1,0 +1,51 @@
+01:02:33.923 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - 
+01:02:33.927 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+01:02:33.941 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... create Home Page
+01:02:34.018 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... click on 'My account' in navbar
+01:02:34.797 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... click on 'Register'
+01:02:34.800 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... create Account Registration Page
+01:02:34.801 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... generating user data:
+01:02:34.802 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - first name: FKFVJ
+01:02:34.802 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - last name: HKTMS
+01:02:34.802 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - email: nbXJB@gmail.com
+01:02:34.802 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - phone number: 123123123123
+01:02:34.802 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - password: XfPe@822, confirm password: XfPe@822
+01:02:34.803 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... setting user data to the corresponding fields
+01:02:35.378 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... click on 'accept policy rules' 
+01:02:36.105 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... click 'Continue' button
+01:02:36.141 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... validation message - Your Account Has Been Created!
+01:02:36.143 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+01:02:39.009 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - 
+01:02:39.009 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ***  TC_RF_001_2_AccountRegisterWithValidTelNumberTest  ***
+01:02:39.010 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... create Home Page
+01:02:39.095 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... click on 'My account' in navbar
+01:02:39.716 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... click on 'Register'
+01:02:39.717 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... create Account Registration Page
+01:02:39.717 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... generating user data:
+01:02:39.718 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - first name: GUPQD
+01:02:39.718 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - last name: LAXNB
+01:02:39.718 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - email: Bfxon@gmail.com
+01:02:39.718 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - phone number: 123
+01:02:39.718 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - password: lhuZ@072, confirm password: lhuZ@072
+01:02:39.718 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... setting user data to the corresponding fields
+01:02:40.271 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... click on 'accept policy rules' 
+01:02:41.021 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... click 'Continue' button
+01:02:41.056 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... validation message - Your Account Has Been Created!
+01:02:41.057 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ***  TC_RF_001_2_AccountRegisterWithValidTelNumberTest  ***
+01:02:43.891 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - 
+01:02:43.891 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ***  TC_RF_001_3_AccountRegisterWithValidTelNumberTest  ***
+01:02:43.892 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... create Home Page
+01:02:43.994 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... click on 'My account' in navbar
+01:02:44.629 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... click on 'Register'
+01:02:44.630 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... create Account Registration Page
+01:02:44.630 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... generating user data:
+01:02:44.631 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - first name: UVHQL
+01:02:44.631 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - last name: JXPSR
+01:02:44.631 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - email: YQgSi@gmail.com
+01:02:44.631 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - phone number: 12345678901234567890123456789012
+01:02:44.631 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - password: uuvN@492, confirm password: uuvN@492
+01:02:44.631 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... setting user data to the corresponding fields
+01:02:45.195 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... click on 'accept policy rules' 
+01:02:45.851 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... click 'Continue' button
+01:02:45.889 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... validation message - Your Account Has Been Created!
+01:02:45.890 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ***  TC_RF_001_3_AccountRegisterWithValidTelNumberTest  ***
