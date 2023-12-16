@@ -32,8 +32,9 @@
             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest"/> -->
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest"/> -->
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest"/>
             <!-- <class name="testCases.TC_002_LoginTest"/> -->
             <!-- <class name="testCases.TC_003_LoginDDT"/> -->
         </classes>

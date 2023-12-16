@@ -83,6 +83,10 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//span[normalize-space()='Shopping Cart']")
     WebElement shoppingCart;
 
+    @FindBy(xpath = "//span[normalize-space()='Checkout']")
+    WebElement checkout;
+
+
     //action methods
     public void setFirstName(String fName) {
         txtFirstName.sendKeys(fName);
@@ -226,6 +230,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickShoppingCart() {
         shoppingCart.click();
+    }
+
+    public void clickCheckout() {
+        checkout.click();
     }
 
 

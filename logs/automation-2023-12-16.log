@@ -67,3 +67,11 @@ Session ID: 3cb2ac1b9c579acff8e59e2098bfc131
 05:13:12.926 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... create Account Registration Page
 05:13:13.366 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... click on 'Shopping Cart' in navbar
 05:13:13.380 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... create Login Page
+05:39:13.403 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - 
+05:39:13.407 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ***  TC_RF_023_8_AccountRegisterHeaderValidationTest ***
+05:39:13.427 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... create Home Page
+05:39:13.525 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+05:39:14.621 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... click on 'Register'
+05:39:14.630 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+05:39:15.389 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... click on 'Checkout' in navbar
+05:39:15.404 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... create Login Page
