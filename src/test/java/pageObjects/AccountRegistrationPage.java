@@ -184,6 +184,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Terms & Conditions']")
     WebElement footerTermsAndConditions;
 
+    @FindBy(xpath = "//a[normalize-space()='Contact Us']")
+    WebElement footerContactUs;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -334,10 +337,6 @@ public class AccountRegistrationPage extends BasePage {
         checkout.click();
     }
 
-    public void clickDesktops() {
-        desktops.click();
-    }
-
     public void clickShowAllDesktops() {
         showAllDesktops.click();
     }
@@ -436,6 +435,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickFooterTermsAndConditions() {
         footerTermsAndConditions.click();
+    }
+
+    public void clickFooterContactUs() {
+        footerContactUs.click();
     }
 
 
