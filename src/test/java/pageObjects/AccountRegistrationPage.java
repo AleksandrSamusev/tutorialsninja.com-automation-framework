@@ -190,6 +190,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[@href='https://tutorialsninja.com/demo/index.php?route=account/return/add']")
     WebElement footerReturns;
 
+    @FindBy(xpath = "//a[normalize-space()='Site Map']")
+    WebElement footerSiteMap;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -446,6 +449,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickFooterReturns() {
         footerReturns.click();
+    }
+
+    public void clickFooterSiteMap() {
+        footerSiteMap.click();
     }
 
 

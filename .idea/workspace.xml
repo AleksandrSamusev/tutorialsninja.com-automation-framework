@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/ProductReturnsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_35_AccountRegisterFooterValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_36_AccountRegisterFooterValidationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +165,7 @@
       <workItem from="1701948762090" duration="1084000" />
       <workItem from="1702425918070" duration="21373000" />
       <workItem from="1702479889167" duration="17535000" />
-      <workItem from="1702743480637" duration="12299000" />
+      <workItem from="1702743480637" duration="12609000" />
     </task>
     <servers />
   </component>
