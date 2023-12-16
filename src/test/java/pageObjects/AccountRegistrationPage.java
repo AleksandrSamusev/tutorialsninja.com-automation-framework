@@ -68,6 +68,15 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//*[@id=\"account-register\"]/div[1]")
     WebElement msgTop;
 
+    @FindBy(xpath = "//span[normalize-space()='My Account']")
+    WebElement lnkMyAccount;
+
+    @FindBy(xpath = "//a[normalize-space()='Register']")
+    WebElement lnkRegister;
+
+    @FindBy(xpath = "//a[normalize-space()='Login']")
+    WebElement lnkLogin;
+
     //action methods
     public void setFirstName(String fName) {
         txtFirstName.sendKeys(fName);
@@ -191,6 +200,18 @@ public class AccountRegistrationPage extends BasePage {
         } catch (Exception e) {
             return e.getMessage();
         }
+    }
+
+    public void clickMyAccount() {
+        lnkMyAccount.click();
+    }
+
+    public void clickRegister() {
+        lnkRegister.click();
+    }
+
+    public void clickLogin() {
+        lnkLogin.click();
     }
 
 
