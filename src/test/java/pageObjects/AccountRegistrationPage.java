@@ -158,6 +158,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Recurring payments']")
     WebElement rightSideRecurringPayments;
 
+    @FindBy(xpath = "//a[normalize-space()='Reward Points']")
+    WebElement rightSideRewardPoints;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -378,6 +381,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickRightSideRecurringPayments() {
         rightSideRecurringPayments.click();
+    }
+
+    public void clickRightSideRewardPoints() {
+        rightSideRewardPoints.click();
     }
 
 
