@@ -122,3 +122,11 @@
 18:34:18.818 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ... create Account Registration Page
 18:34:19.656 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ... click on 'Address Book' on the right side menu
 18:34:19.745 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_21_AccountRegisterHeaderValidationTest ***
+18:45:56.567 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - 
+18:45:56.571 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_22_AccountRegisterHeaderValidationTest ***
+18:45:56.610 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... create Home Page
+18:45:56.956 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+18:45:57.949 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... click on 'Register'
+18:45:57.959 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+18:45:58.912 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... click on 'Wish List' on the right side menu
+18:45:59.002 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_22_AccountRegisterHeaderValidationTest ***
