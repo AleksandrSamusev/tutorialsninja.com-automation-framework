@@ -170,6 +170,11 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Newsletter']")
     WebElement rightSideNewsletter;
 
+    //footer elements
+
+    @FindBy(xpath = "//a[normalize-space()='About Us']")
+    WebElement footerAboutUs;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -406,6 +411,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickRightSideNewsletter() {
         rightSideNewsletter.click();
+    }
+
+    public void clickFooterAboutUs() {
+        footerAboutUs.click();
     }
 
 
