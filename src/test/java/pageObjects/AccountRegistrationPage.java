@@ -114,6 +114,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Tablets']")
     WebElement tablets;
 
+    @FindBy(xpath = "//a[normalize-space()='Software']")
+    WebElement software;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -282,6 +285,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickTablets() {
         tablets.click();
+    }
+
+    public void clickSoftware() {
+        software.click();
     }
 
 

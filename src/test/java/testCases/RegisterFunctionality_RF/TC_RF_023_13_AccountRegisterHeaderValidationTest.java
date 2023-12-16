@@ -1,16 +1,18 @@
 package testCases.RegisterFunctionality_RF;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import pageObjects.SoftwarePage;
 import pageObjects.TabletsPage;
 import testBase.BaseClass;
 
-public class TC_RF_023_12_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_13_AccountRegisterHeaderValidationTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  TC_RF_023_12_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  START TC_RF_023_13_AccountRegisterHeaderValidationTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -21,19 +23,19 @@ public class TC_RF_023_12_AccountRegisterHeaderValidationTest extends BaseClass 
             AccountRegistrationPage registrationPage = new AccountRegistrationPage(driver);
             logger.info("... create Account Registration Page");
 
-            registrationPage.clickTablets();
-            logger.info("... click on 'Tablets'");
+            registrationPage.clickSoftware();
+            logger.info("... click on 'Software'");
 
-            TabletsPage tabletsPage = new TabletsPage(driver);
-            logger.info("... create Tablets Page");
+            SoftwarePage softwarePage = new SoftwarePage(driver);
+            logger.info("... create Software Page");
 
-            String msg = tabletsPage.getTabletsPageTitle();
-            Assert.assertEquals(msg, "Tablets", "Title not match !! TEST FAILED !!");
+            String msg = softwarePage.getSoftwarePageTitle();
+            Assert.assertEquals(msg, "Software", "Title not match !! TEST FAILED !!");
 
         } catch (Exception ex) {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  TC_RF_023_12_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  END TC_RF_023_13_AccountRegisterHeaderValidationTest ***");
     }
 }
