@@ -138,3 +138,11 @@
 19:03:58.902 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ... create Account Registration Page
 19:03:59.931 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ... click on 'Order History' on the right side menu
 19:03:59.990 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_23_AccountRegisterHeaderValidationTest ***
+19:11:11.686 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - 
+19:11:11.699 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_24_AccountRegisterHeaderValidationTest ***
+19:11:11.730 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... create Home Page
+19:11:11.832 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+19:11:12.721 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... click on 'Register'
+19:11:12.735 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+19:11:13.594 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... click on 'Downloads' on the right side menu
+19:11:13.646 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_24_AccountRegisterHeaderValidationTest ***
