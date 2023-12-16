@@ -123,6 +123,14 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Cameras']")
     WebElement cameras;
 
+    @Getter
+    @FindBy(xpath = "//a[normalize-space()='MP3 Players']")
+    WebElement mp3Players;
+
+    @Getter
+    @FindBy(xpath = "//a[normalize-space()='Show AllMP3 Players']")
+    WebElement showAllMp3Players;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -304,6 +312,11 @@ public class AccountRegistrationPage extends BasePage {
     public void clickCameras() {
         cameras.click();
     }
+
+    public void clickShowAllMp3Players() {
+        showAllMp3Players.click();
+    }
+
 
 
 

@@ -67,3 +67,10 @@
 07:43:17.404 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ... click on 'Cameras'
 07:43:17.406 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ... create 'Cameras' Page
 07:43:17.443 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_15_AccountRegisterHeaderValidationTest ***
+08:00:40.476 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - 
+08:00:40.483 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_16_AccountRegisterHeaderValidationTest ***
+08:00:40.502 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... create Home Page
+08:00:40.615 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+08:00:41.405 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... click on 'Register'
+08:00:41.412 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+08:00:42.513 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_16_AccountRegisterHeaderValidationTest ***
