@@ -196,6 +196,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Brands']")
     WebElement footerBrands;
 
+    @FindBy(xpath = "//a[normalize-space()='Gift Certificates']")
+    WebElement footerGiftCertificates;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -460,6 +463,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickFooterBrands() {
         footerBrands.click();
+    }
+
+    public void clickFooterGiftCertificates() {
+        footerGiftCertificates.click();
     }
 
 
