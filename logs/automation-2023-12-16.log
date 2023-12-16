@@ -41,3 +41,12 @@ Session ID: 3cb2ac1b9c579acff8e59e2098bfc131
 04:42:44.589 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... click on 'Login' in navbar
 04:42:44.596 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... create Login Page
 04:42:44.635 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ***  TC_RF_023_4_AccountRegisterHeaderValidationTest ***
+04:49:43.635 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - 
+04:49:43.638 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ***  TC_RF_023_5_AccountRegisterHeaderValidationTest ***
+04:49:43.656 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... create Home Page
+04:49:43.738 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+04:49:44.555 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'Register'
+04:49:44.562 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+04:49:44.632 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+04:49:45.065 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'Register' in navbar
+04:49:45.102 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ***  TC_RF_023_5_AccountRegisterHeaderValidationTest ***
