@@ -178,6 +178,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Delivery Information']")
     WebElement footerDeliveryInformation;
 
+    @FindBy(xpath = "//a[contains(text(),'Privacy Policy')]")
+    WebElement footerPrivacyPolicy;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -422,6 +425,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickFooterDeliveryInformation() {
         footerDeliveryInformation.click();
+    }
+
+    public void clickFooterPrivacyPolicy() {
+        footerPrivacyPolicy.click();
     }
 
 

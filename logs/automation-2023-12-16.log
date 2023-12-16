@@ -202,3 +202,11 @@
 21:05:38.711 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ... create Account Registration Page
 21:05:39.166 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ... click on 'Delivery Information' on footer
 21:05:39.208 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ***  END TC_RF_023_31_AccountRegisterFooterValidationTest ***
+21:13:22.603 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - 
+21:13:22.611 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ***  START TC_RF_023_32_AccountRegisterFooterValidationTest ***
+21:13:22.630 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... create Home Page
+21:13:22.737 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+21:13:23.576 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... click on 'Register'
+21:13:23.581 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... create Account Registration Page
+21:13:24.246 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... click on 'Privacy Policy' on footer
+21:13:24.281 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ***  END TC_RF_023_32_AccountRegisterFooterValidationTest ***
