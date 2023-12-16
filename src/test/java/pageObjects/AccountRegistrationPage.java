@@ -131,6 +131,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Show AllMP3 Players']")
     WebElement showAllMp3Players;
 
+    @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Login']")
+    WebElement rightSideLogin;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -315,6 +318,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickShowAllMp3Players() {
         showAllMp3Players.click();
+    }
+
+    public void clickRightSideLogin() {
+        rightSideLogin.click();
     }
 
 

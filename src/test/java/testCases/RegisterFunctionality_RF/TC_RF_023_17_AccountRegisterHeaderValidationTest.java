@@ -5,14 +5,15 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import pageObjects.LoginPage;
 import pageObjects.Mp3PlayersPage;
 import testBase.BaseClass;
 
-public class TC_RF_023_16_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_17_AccountRegisterHeaderValidationTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  START TC_RF_023_16_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  START TC_RF_023_17_AccountRegisterHeaderValidationTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -23,20 +24,18 @@ public class TC_RF_023_16_AccountRegisterHeaderValidationTest extends BaseClass 
             AccountRegistrationPage registrationPage = new AccountRegistrationPage(driver);
             logger.info("... create Account Registration Page");
 
-            Actions actions = new Actions(driver);
-            actions.moveToElement(registrationPage.getMp3Players()).perform();
-            actions.moveToElement(registrationPage.getShowAllMp3Players()).perform();
-            registrationPage.clickShowAllMp3Players();
+            registrationPage.clickRightSideLogin();
+            logger.info("... click on 'Login' on the right side menu");
 
-            Mp3PlayersPage mp3PlayersPage = new Mp3PlayersPage(driver);
+            LoginPage loginPage = new LoginPage(driver);
 
-            String msg = mp3PlayersPage.getPageTitle();
-            Assert.assertEquals(msg, "MP3 Players", "Title not match !! TEST FAILED !!");
+            String msg = loginPage.getNewCustomerTitle();
+            Assert.assertEquals(msg, "New Customer", "Title not match !! TEST FAILED !!");
 
         } catch (Exception ex) {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  END TC_RF_023_16_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  END TC_RF_023_17_AccountRegisterHeaderValidationTest ***");
     }
 }

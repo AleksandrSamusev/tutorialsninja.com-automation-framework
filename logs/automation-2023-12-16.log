@@ -74,3 +74,18 @@
 08:00:41.405 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... click on 'Register'
 08:00:41.412 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... create Account Registration Page
 08:00:42.513 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_16_AccountRegisterHeaderValidationTest ***
+17:26:07.524 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - 
+17:26:07.532 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_17_AccountRegisterHeaderValidationTest ***
+17:26:07.559 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... create Home Page
+17:26:07.703 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+17:26:10.007 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... click on 'Register'
+17:26:10.019 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+17:26:10.611 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... click on 'Login' on the right side menu
+17:26:49.378 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - 
+17:26:49.389 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_17_AccountRegisterHeaderValidationTest ***
+17:26:49.428 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... create Home Page
+17:26:49.561 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+17:26:50.505 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... click on 'Register'
+17:26:50.513 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+17:26:51.021 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... click on 'Login' on the right side menu
+17:26:51.084 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_17_AccountRegisterHeaderValidationTest ***
