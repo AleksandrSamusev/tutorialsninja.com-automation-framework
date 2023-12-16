@@ -80,6 +80,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//*[@id=\"top-links\"]/ul/li[3]/a/span")
     WebElement wishList;
 
+    @FindBy(xpath = "//span[normalize-space()='Shopping Cart']")
+    WebElement shoppingCart;
+
     //action methods
     public void setFirstName(String fName) {
         txtFirstName.sendKeys(fName);
@@ -219,6 +222,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickWishList() {
         wishList.click();
+    }
+
+    public void clickShoppingCart() {
+        shoppingCart.click();
     }
 
 
