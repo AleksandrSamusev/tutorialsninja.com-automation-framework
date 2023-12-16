@@ -1,5 +1,6 @@
 package pageObjects;
 
+import lombok.Getter;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -85,6 +86,14 @@ public class AccountRegistrationPage extends BasePage {
 
     @FindBy(xpath = "//span[normalize-space()='Checkout']")
     WebElement checkout;
+
+    @Getter
+    @FindBy(xpath = "//a[normalize-space()='Desktops']")
+    WebElement desktops;
+
+    @Getter
+    @FindBy(xpath = "//a[normalize-space()='Show AllDesktops']")
+    WebElement showAllDesktops;
 
 
     //action methods
@@ -235,6 +244,15 @@ public class AccountRegistrationPage extends BasePage {
     public void clickCheckout() {
         checkout.click();
     }
+
+    public void clickDesktops() {
+        desktops.click();
+    }
+
+    public void clickShowAllDesktops() {
+        showAllDesktops.click();
+    }
+
 
 
 }
