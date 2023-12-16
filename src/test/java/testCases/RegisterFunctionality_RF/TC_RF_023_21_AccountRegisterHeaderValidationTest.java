@@ -7,11 +7,11 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
 
-public class TC_RF_023_20_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_21_AccountRegisterHeaderValidationTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  START TC_RF_023_20_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  START TC_RF_023_21_AccountRegisterHeaderValidationTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -22,8 +22,8 @@ public class TC_RF_023_20_AccountRegisterHeaderValidationTest extends BaseClass 
             AccountRegistrationPage registrationPage = new AccountRegistrationPage(driver);
             logger.info("... create Account Registration Page");
 
-            registrationPage.clickRightSideMyAccount();
-            logger.info("... click on 'My Account' on the right side menu");
+            registrationPage.clickRightSideAddressBook();
+            logger.info("... click on 'Address Book' on the right side menu");
 
             LoginPage loginPage = new LoginPage(driver);
 
@@ -34,6 +34,6 @@ public class TC_RF_023_20_AccountRegisterHeaderValidationTest extends BaseClass 
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  END TC_RF_023_20_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  END TC_RF_023_21_AccountRegisterHeaderValidationTest ***");
     }
 }

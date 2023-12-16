@@ -143,6 +143,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='My Account']")
     WebElement rightSideMyAccount;
 
+    @FindBy(xpath = "//a[normalize-space()='Address Book']")
+    WebElement rightSideAddressBook;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -343,6 +346,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickRightSideMyAccount() {
         rightSideMyAccount.click();
+    }
+
+    public void clickRightSideAddressBook() {
+        rightSideAddressBook.click();
     }
 
 
