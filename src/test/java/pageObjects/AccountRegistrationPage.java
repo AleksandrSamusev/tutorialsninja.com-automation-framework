@@ -193,6 +193,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Site Map']")
     WebElement footerSiteMap;
 
+    @FindBy(xpath = "//a[normalize-space()='Brands']")
+    WebElement footerBrands;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -453,6 +456,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickFooterSiteMap() {
         footerSiteMap.click();
+    }
+
+    public void clickFooterBrands() {
+        footerBrands.click();
     }
 
 

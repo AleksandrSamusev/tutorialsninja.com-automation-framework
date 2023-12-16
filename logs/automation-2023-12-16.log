@@ -22,3 +22,11 @@
 22:28:56.778 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ... create Account Registration Page
 22:28:57.272 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ... click on 'Site Map' on footer
 22:28:57.314 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ***  END TC_RF_023_36_AccountRegisterFooterValidationTest ***
+22:40:40.308 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - 
+22:40:40.313 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ***  START TC_RF_023_37_AccountRegisterFooterValidationTest ***
+22:40:40.326 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... create Home Page
+22:40:40.424 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+22:40:41.251 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... click on 'Register'
+22:40:41.270 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... create Account Registration Page
+22:40:41.732 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... click on 'Brands' on footer
+22:40:41.767 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ***  END TC_RF_023_37_AccountRegisterFooterValidationTest ***
