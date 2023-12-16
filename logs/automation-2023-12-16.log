@@ -178,3 +178,11 @@
 19:59:05.859 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ... create Account Registration Page
 19:59:06.728 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ... click on 'Transactions' on the right side menu
 19:59:06.782 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_28_AccountRegisterHeaderValidationTest ***
+20:03:25.365 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - 
+20:03:25.368 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_29_AccountRegisterHeaderValidationTest ***
+20:03:25.395 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... create Home Page
+20:03:25.506 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+20:03:26.445 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... click on 'Register'
+20:03:26.463 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+20:03:27.282 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... click on 'Newsletter' on the right side menu
+20:03:27.366 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_29_AccountRegisterHeaderValidationTest ***

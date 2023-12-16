@@ -167,6 +167,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Transactions']")
     WebElement rightSideTransactions;
 
+    @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Newsletter']")
+    WebElement rightSideNewsletter;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -399,6 +402,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickRightSideTransactions() {
         rightSideTransactions.click();
+    }
+
+    public void clickRightSideNewsletter() {
+        rightSideNewsletter.click();
     }
 
 
