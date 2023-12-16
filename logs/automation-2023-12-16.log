@@ -9,3 +9,14 @@
 06:16:48.890 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... click on 'Show AllDesktops'
 06:16:48.891 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... create Desktop Page
 06:16:48.927 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ***  TC_RF_023_9_AccountRegisterHeaderValidationTest ***
+06:29:35.150 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - 
+06:29:35.154 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ***  TC_RF_023_10_AccountRegisterHeaderValidationTest ***
+06:29:35.182 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... create Home Page
+06:29:35.287 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+06:29:36.118 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... click on 'Register'
+06:29:36.123 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+06:29:36.310 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... perform hover over Laptops & Notebooks option
+06:29:36.449 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... perform hover over Show AllLaptops & Notebooks option
+06:29:37.184 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... click on 'Show AllLaptops & Notebooks'
+06:29:37.185 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... create Desktop Page
+06:29:37.218 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ***  TC_RF_023_10_AccountRegisterHeaderValidationTest ***

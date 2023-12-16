@@ -95,6 +95,14 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Show AllDesktops']")
     WebElement showAllDesktops;
 
+    @Getter
+    @FindBy(xpath = "//a[normalize-space()='Laptops & Notebooks']")
+    WebElement laptopsAndNotebooks;
+
+    @Getter
+    @FindBy(xpath = "//a[normalize-space()='Show AllLaptops & Notebooks']")
+    WebElement showAllLaptopsAndNotebooks;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -251,6 +259,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickShowAllDesktops() {
         showAllDesktops.click();
+    }
+
+    public void clickShowAllLaptopsAndNotebooks() {
+        showAllLaptopsAndNotebooks.click();
     }
 
 
