@@ -146,3 +146,11 @@
 19:11:12.735 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... create Account Registration Page
 19:11:13.594 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... click on 'Downloads' on the right side menu
 19:11:13.646 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_24_AccountRegisterHeaderValidationTest ***
+19:17:26.666 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - 
+19:17:26.674 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_25_AccountRegisterHeaderValidationTest ***
+19:17:26.701 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... create Home Page
+19:17:26.810 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+19:17:29.147 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... click on 'Register'
+19:17:29.156 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+19:17:30.147 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... click on 'Recurring Payments' on the right side menu
+19:17:30.224 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_25_AccountRegisterHeaderValidationTest ***
