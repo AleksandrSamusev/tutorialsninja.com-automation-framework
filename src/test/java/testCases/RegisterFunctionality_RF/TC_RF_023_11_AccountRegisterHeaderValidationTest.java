@@ -4,11 +4,12 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
+import pageObjects.ComponentsPage;
 import pageObjects.HomePage;
 import pageObjects.LaptopsAndNotebooksPage;
 import testBase.BaseClass;
 
-public class TC_RF_023_10_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_11_AccountRegisterHeaderValidationTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
@@ -25,18 +26,18 @@ public class TC_RF_023_10_AccountRegisterHeaderValidationTest extends BaseClass 
 
             Actions actions = new Actions(driver);
 
-            actions.moveToElement(registrationPage.getLaptopsAndNotebooks()).perform();
-            logger.info("... perform hover over Laptops & Notebooks option");
-            actions.moveToElement(registrationPage.getShowAllLaptopsAndNotebooks()).perform();
-            logger.info("... perform hover over Show AllLaptops & Notebooks option");
-            registrationPage.clickShowAllLaptopsAndNotebooks();
-            logger.info("... click on 'Show AllLaptops & Notebooks'");
+            actions.moveToElement(registrationPage.getComponents()).perform();
+            logger.info("... perform hover over 'Components' option");
+            actions.moveToElement(registrationPage.getShowAllComponents()).perform();
+            logger.info("... perform hover over 'Show AllComponents' option");
+            registrationPage.clickShowAllComponents();
+            logger.info("... click on 'Show AllComponents'");
 
-            LaptopsAndNotebooksPage page = new LaptopsAndNotebooksPage(driver);
-            logger.info("... create Laptops And NotebooksPage Page");
+            ComponentsPage componentsPage = new ComponentsPage(driver);
+            logger.info("... create Components Page");
 
-            String msg = page.getPageTitle();
-            Assert.assertEquals(msg, "Laptops & Notebooks", "Title not match !! TEST FAILED !!");
+            String msg = componentsPage.getComponentsPageTitle();
+            Assert.assertEquals(msg, "Components", "Title not match !! TEST FAILED !!");
 
         } catch (Exception ex) {
             logger.info("!! TEST FAILED !!");
