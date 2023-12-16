@@ -51,8 +51,9 @@
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest"/> -->
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest"/> -->
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest"/>
             <!-- <class name="testCases.TC_002_LoginTest"/> -->
             <!-- <class name="testCases.TC_003_LoginDDT"/> -->
         </classes>
