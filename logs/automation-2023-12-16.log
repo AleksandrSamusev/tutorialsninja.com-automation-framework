@@ -50,3 +50,12 @@ Session ID: 3cb2ac1b9c579acff8e59e2098bfc131
 04:49:44.632 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
 04:49:45.065 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'Register' in navbar
 04:49:45.102 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ***  TC_RF_023_5_AccountRegisterHeaderValidationTest ***
+05:00:38.487 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - 
+05:00:38.490 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ***  TC_RF_023_6_AccountRegisterHeaderValidationTest ***
+05:00:38.508 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... create Home Page
+05:00:38.612 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+05:00:39.415 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... click on 'Register'
+05:00:39.428 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+05:00:40.228 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... click on 'Wish List' in navbar
+05:00:40.244 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... create Login Page
+05:00:40.285 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ***  TC_RF_023_6_AccountRegisterHeaderValidationTest ***

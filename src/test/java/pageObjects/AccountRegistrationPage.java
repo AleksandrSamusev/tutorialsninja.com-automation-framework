@@ -77,6 +77,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Login']")
     WebElement lnkLogin;
 
+    @FindBy(xpath = "//*[@id=\"top-links\"]/ul/li[3]/a/span")
+    WebElement wishList;
+
     //action methods
     public void setFirstName(String fName) {
         txtFirstName.sendKeys(fName);
@@ -212,6 +215,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickLogin() {
         lnkLogin.click();
+    }
+
+    public void clickWishList() {
+        wishList.click();
     }
 
 
