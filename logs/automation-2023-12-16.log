@@ -31,3 +31,12 @@
 06:57:54.584 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... click on 'Show AllComponents'
 06:57:54.587 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... create Components Page
 06:57:54.625 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ***  TC_RF_023_10_AccountRegisterHeaderValidationTest ***
+07:06:36.996 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - 
+07:06:36.998 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ***  TC_RF_023_12_AccountRegisterHeaderValidationTest ***
+07:06:37.016 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... create Home Page
+07:06:37.114 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+07:06:38.225 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... click on 'Register'
+07:06:38.231 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+07:06:38.934 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... click on 'Tablets'
+07:06:38.935 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... create Tablets Page
+07:06:38.978 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ***  TC_RF_023_12_AccountRegisterHeaderValidationTest ***

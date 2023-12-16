@@ -6,13 +6,14 @@ import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.ComponentsPage;
 import pageObjects.HomePage;
+import pageObjects.TabletsPage;
 import testBase.BaseClass;
 
-public class TC_RF_023_11_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_12_AccountRegisterHeaderValidationTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  TC_RF_023_11_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  TC_RF_023_12_AccountRegisterHeaderValidationTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -23,25 +24,19 @@ public class TC_RF_023_11_AccountRegisterHeaderValidationTest extends BaseClass 
             AccountRegistrationPage registrationPage = new AccountRegistrationPage(driver);
             logger.info("... create Account Registration Page");
 
-            Actions actions = new Actions(driver);
+            registrationPage.clickTablets();
+            logger.info("... click on 'Tablets'");
 
-            actions.moveToElement(registrationPage.getComponents()).perform();
-            logger.info("... perform hover over 'Components' option");
-            actions.moveToElement(registrationPage.getShowAllComponents()).perform();
-            logger.info("... perform hover over 'Show AllComponents' option");
-            registrationPage.clickShowAllComponents();
-            logger.info("... click on 'Show AllComponents'");
+            TabletsPage tabletsPage = new TabletsPage(driver);
+            logger.info("... create Tablets Page");
 
-            ComponentsPage componentsPage = new ComponentsPage(driver);
-            logger.info("... create Components Page");
-
-            String msg = componentsPage.getComponentsPageTitle();
-            Assert.assertEquals(msg, "Components", "Title not match !! TEST FAILED !!");
+            String msg = tabletsPage.getTabletsPageTitle();
+            Assert.assertEquals(msg, "Tablets", "Title not match !! TEST FAILED !!");
 
         } catch (Exception ex) {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  TC_RF_023_11_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  TC_RF_023_12_AccountRegisterHeaderValidationTest ***");
     }
 }
