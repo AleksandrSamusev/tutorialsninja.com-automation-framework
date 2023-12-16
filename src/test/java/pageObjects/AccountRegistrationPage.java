@@ -137,6 +137,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Register']")
     WebElement rightSideRegister;
 
+    @FindBy(xpath = "//a[normalize-space()='Forgotten Password']")
+    WebElement rightSideForgottenPassword;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -329,6 +332,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickRightSideRegister() {
         rightSideRegister.click();
+    }
+
+    public void clickRightSideForgottenPassword() {
+        rightSideForgottenPassword.click();
     }
 
 
