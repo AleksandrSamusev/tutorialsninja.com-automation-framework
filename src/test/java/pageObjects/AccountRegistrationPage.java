@@ -149,6 +149,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Wish List']")
     WebElement rightSideWishList;
 
+    @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Order History']")
+    WebElement rightSideOrderHistory;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -357,6 +360,10 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickRightSideWishList() {
         rightSideWishList.click();
+    }
+
+    public void clickRightSideOrderHistory() {
+        rightSideOrderHistory.click();
     }
 
 
