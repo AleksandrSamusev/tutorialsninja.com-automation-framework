@@ -211,6 +211,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//ul[@class='list-unstyled']//a[normalize-space()='Order History']")
     WebElement footerOrderHistory;
 
+    @FindBy(xpath = "//ul[@class='list-unstyled']//a[normalize-space()='Wish List']")
+    WebElement footerWishList;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -497,5 +500,7 @@ public class AccountRegistrationPage extends BasePage {
         footerOrderHistory.click();
     }
 
-
+    public void clickFooterWishList() {
+        footerWishList.click();
+    }
 }
