@@ -24,6 +24,9 @@ public class MyAccountPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Continue']")
     WebElement btnContinue;
 
+    @FindBy(xpath = "//h2[normalize-space()='My Account']")
+    WebElement myAccountPageTitle;
+
     public boolean isMyAccountPageExists() {
         try {
             return msgConfirmation.isDisplayed();
@@ -40,6 +43,13 @@ public class MyAccountPage extends BasePage {
     }
     public void clickNewsletter() {
         btnNewsletter.click();
+    }
+    public String getMyAccountPageTitle() {
+        try {
+            return myAccountPageTitle.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
     }
 
 }

@@ -7,11 +7,11 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
 
-public class TC_RF_007_AccountRegisterNewCustomerTest extends BaseClass {
+public class TC_RF_007_AccountRegisterUserDataTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_whenClickContinueInNewCustomer_thenRegisterPageShown() {
-        logger.info("****  starting TC_RF_007_AccountRegisterNewCustomerTest  ****");
+        logger.info("****  starting TC_RF_007_AccountRegisterUserDataTest  ****");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
@@ -25,6 +25,6 @@ public class TC_RF_007_AccountRegisterNewCustomerTest extends BaseClass {
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  Finished TC_RF_007_AccountRegisterNewCustomerTest ***");
+        logger.info("***  Finished TC_RF_007_AccountRegisterUserDataTest ***");
     }
 }

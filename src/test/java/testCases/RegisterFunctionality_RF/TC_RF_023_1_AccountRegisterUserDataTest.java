@@ -6,11 +6,11 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
 
-public class TC_RF_023_1_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_1_AccountRegisterUserDataTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenClickOnPrivacyPolicy_thenProperNavigation() {
         logger.info("");
-        logger.info("***  START TC_RF_023_1_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  START TC_RF_023_1_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -33,6 +33,6 @@ public class TC_RF_023_1_AccountRegisterHeaderValidationTest extends BaseClass {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  FINISH TC_RF_023_1_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  FINISH TC_RF_023_1_AccountRegisterUserDataTest ***");
     }
 }

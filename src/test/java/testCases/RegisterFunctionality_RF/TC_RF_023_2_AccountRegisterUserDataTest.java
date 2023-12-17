@@ -7,11 +7,11 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_023_2_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_2_AccountRegisterUserDataTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenClickOnPrivacyPolicy_thenProperNavigation() {
         logger.info("");
-        logger.info("***  START TC_RF_023_2_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  START TC_RF_023_2_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -31,6 +31,6 @@ public class TC_RF_023_2_AccountRegisterHeaderValidationTest extends BaseClass {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  FINISH TC_RF_023_2_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  FINISH TC_RF_023_2_AccountRegisterUserDataTest ***");
     }
 }

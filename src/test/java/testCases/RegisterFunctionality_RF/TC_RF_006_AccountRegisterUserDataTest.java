@@ -8,11 +8,11 @@ import pageObjects.MyAccountPage;
 import pageObjects.NewsletterPage;
 import testBase.BaseClass;
 
-public class TC_RF_006_AccountRegisterWithNoNewsletterOptionTest extends BaseClass {
+public class TC_RF_006_AccountRegisterUserDataTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_account_registration_with_yes_newsletter_option() {
-        logger.info("***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***");
+        logger.info("***  TC_RF_006_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
@@ -49,6 +49,6 @@ public class TC_RF_006_AccountRegisterWithNoNewsletterOptionTest extends BaseCla
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***");
+        logger.info("***  TC_RF_006_AccountRegisterUserDataTest ***");
     }
 }

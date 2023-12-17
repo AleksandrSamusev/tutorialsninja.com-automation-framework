@@ -1,5 +1,6 @@
 package pageObjects;
 
+import lombok.Getter;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -10,9 +11,11 @@ public class LoginPage extends BasePage{
     }
 
     //elements
+    @Getter
     @FindBy(name = "email")
     WebElement txtEmail;
 
+    @Getter
     @FindBy(name = "password")
     WebElement txtPassword;
 
@@ -24,6 +27,9 @@ public class LoginPage extends BasePage{
 
     @FindBy(xpath = "//h2[normalize-space()='New Customer']")
     WebElement newCustomerTitle;
+
+    @FindBy(xpath = "//div[contains(text(),'Warning: No match for E-Mail Address and/or Passwo')]")
+    WebElement msgInvalidCredentials;
 
     public void setEmail(String email) {
         txtEmail.sendKeys(email);
@@ -51,7 +57,14 @@ public class LoginPage extends BasePage{
         } catch (Exception ex) {
             return ex.getMessage();
         }
+    }
 
+    public String getMsgInvalidCredentials() {
+        try {
+            return msgInvalidCredentials.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
     }
 
 

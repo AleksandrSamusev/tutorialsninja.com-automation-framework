@@ -6,11 +6,11 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_003_AccountRegisterWithAllFieldsTest extends BaseClass {
+public class TC_RF_003_AccountRegisterUserDataTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_register_account_with_all_fields() {
-        logger.info("***  TC_RF_003_AccountRegisterWithAllFieldsTest ***");
+        logger.info("***  TC_RF_003_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
@@ -41,6 +41,6 @@ public class TC_RF_003_AccountRegisterWithAllFieldsTest extends BaseClass {
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***");
+        logger.info("***  Finished TC_RF_003_AccountRegisterUserDataTest ***");
     }
 }

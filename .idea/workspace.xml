@@ -5,12 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_1_AccountRegisterHeaderValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-2023-12-17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.20.41.33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_002_LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-17.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossbrowserTesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crossbrowserTesting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grouping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginFunctionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loginFunctionality.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_2_AccountRegisterHeaderValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_2_AccountRegisterHeaderValidationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_001_LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_001_LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_2_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_2_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_3_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_3_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_001_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_003_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_003_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_004_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_004_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_005_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_005_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_006_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_006_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_007_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_007_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_008_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_008_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_009_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_009_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_010_01_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_010_01_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_010_02_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_010_02_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_010_03_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_010_03_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_1_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_1_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_2_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_2_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_3_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_3_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_4_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_4_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_5_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_5_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_6_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_6_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_7_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_7_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_8_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_8_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_9_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_011_9_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_013_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_013_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_10_AccountRegisterTopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_10_AccountRegisterTopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_11_AccountRegisterTopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_11_AccountRegisterTopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_12_AccountRegisterTopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_12_AccountRegisterTopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_13_AccountRegisterTopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_13_AccountRegisterTopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_14_AccountRegisterTopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_14_AccountRegisterTopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_15_AccountRegisterTopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_15_AccountRegisterTopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_16_AccountRegisterTopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_16_AccountRegisterTopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_17_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_17_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_18_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_18_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_19_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_19_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_1_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_1_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_20_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_20_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_21_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_21_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_22_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_22_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_23_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_23_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_24_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_24_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_25_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_25_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_26_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_26_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_27_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_27_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_28_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_28_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_29_AccountRegisterRightSideMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_29_AccountRegisterRightSideMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_2_AccountRegisterUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_2_AccountRegisterUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_9_AccountRegisterTopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_9_AccountRegisterTopMenuTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,31 +96,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TC_RF_001_AccountRegistrationTest.test_account_registration.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages.executor&quot;: &quot;Run&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alex/development/java/tutorialsninja.com-automation-framework&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml.executor": "Run",
+    "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml.executor": "Run",
+    "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml.executor": "Run",
+    "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml.executor": "Run",
+    "TestNG.TC_RF_001_AccountRegistrationTest.test_account_registration.executor": "Run",
+    "TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/alex/development/java/tutorialsninja.com-automation-framework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml">
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml">
     <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialsninja.com-automation-framework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/datadriventests.xml" />
@@ -79,7 +132,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_RF_001_AccountRegisterWithMandatoryFieldsTest.test_account_registration" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialsninja.com-automation-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/loginFunctionality.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_RF_001_AccountRegisterUserDataTest.test_account_registration" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialsninja.com-automation-framework" />
       <extension name="coverage">
         <pattern>
@@ -88,7 +151,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testCases.RegisterFunctionality_RF" />
-      <option name="MAIN_CLASS_NAME" value="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest" />
+      <option name="MAIN_CLASS_NAME" value="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterUserDataTest" />
       <option name="METHOD_NAME" value="test_account_registration" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -97,7 +160,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_RF_004_ProperValidationMessagesTest.test_validation_messages" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_RF_004_AccountRegisterUserDataTest.test_validation_messages" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialsninja.com-automation-framework" />
       <extension name="coverage">
         <pattern>
@@ -106,7 +169,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testCases.RegisterFunctionality_RF" />
-      <option name="MAIN_CLASS_NAME" value="testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest" />
+      <option name="MAIN_CLASS_NAME" value="testCases.RegisterFunctionality_RF.TC_RF_004_AccountRegisterUserDataTest" />
       <option name="METHOD_NAME" value="test_validation_messages" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -137,16 +200,18 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" />
+      <item itemvalue="TestNG.TC_RF_004_AccountRegisterUserDataTest.test_validation_messages" />
       <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" />
       <item itemvalue="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" />
-      <item itemvalue="TestNG.TC_RF_001_AccountRegisterWithMandatoryFieldsTest.test_account_registration" />
-      <item itemvalue="TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages" />
+      <item itemvalue="TestNG.TC_RF_001_AccountRegisterUserDataTest.test_account_registration" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" />
         <item itemvalue="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" />
-        <item itemvalue="TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages" />
-        <item itemvalue="TestNG.TC_RF_001_AccountRegisterWithMandatoryFieldsTest.test_account_registration" />
+        <item itemvalue="TestNG.TC_RF_004_AccountRegisterUserDataTest.test_validation_messages" />
+        <item itemvalue="TestNG.TC_RF_001_AccountRegisterUserDataTest.test_account_registration" />
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" />
       </list>
     </recent_temporary>
@@ -171,7 +236,7 @@
       <workItem from="1702425918070" duration="21373000" />
       <workItem from="1702479889167" duration="17535000" />
       <workItem from="1702743480637" duration="18286000" />
-      <workItem from="1702787603334" duration="4681000" />
+      <workItem from="1702787603334" duration="9516000" />
     </task>
     <servers />
   </component>

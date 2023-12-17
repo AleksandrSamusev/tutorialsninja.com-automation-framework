@@ -6,11 +6,11 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_004_ProperValidationMessagesTest extends BaseClass {
+public class TC_RF_004_AccountRegisterUserDataTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_validation_messages() {
-        logger.info("****  Starting TC_RF_004_ProperValidationMessagesTest ****");
+        logger.info("****  Starting TC_RF_004_AccountRegisterUserDataTest ****");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();

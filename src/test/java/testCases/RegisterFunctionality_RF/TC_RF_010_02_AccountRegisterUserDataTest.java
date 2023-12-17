@@ -6,11 +6,11 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest extends BaseClass {
+public class TC_RF_010_02_AccountRegisterUserDataTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  Starting TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest ***");
+        logger.info("***  Starting TC_RF_010_02_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -54,6 +54,6 @@ public class TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest extends BaseClas
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  Finished TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest ***");
+        logger.info("***  Finished TC_RF_010_02_AccountRegisterUserDataTest ***");
     }
 }

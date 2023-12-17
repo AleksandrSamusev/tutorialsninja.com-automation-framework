@@ -223,6 +223,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='login page']")
     WebElement loginPageLinkUnderTitle;
 
+    @FindBy(xpath = "//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Logout']")
+    WebElement logout;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -547,5 +550,9 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickLoginPageLinkUnderTitle() {
         loginPageLinkUnderTitle.click();
+    }
+
+    public void clickLogout() {
+        logout.click();
     }
  }

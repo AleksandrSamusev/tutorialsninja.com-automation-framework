@@ -7,11 +7,11 @@ import pageObjects.ForgottenPasswordPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_023_19_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_19_AccountRegisterRightSideMenuTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  START TC_RF_023_19_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  START TC_RF_023_19_AccountRegisterRightSideMenuTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -35,6 +35,6 @@ public class TC_RF_023_19_AccountRegisterHeaderValidationTest extends BaseClass 
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  END TC_RF_023_19_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  END TC_RF_023_19_AccountRegisterRightSideMenuTest ***");
     }
 }

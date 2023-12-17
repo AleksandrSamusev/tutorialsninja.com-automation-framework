@@ -7,11 +7,11 @@ import pageObjects.HomePage;
 import pageObjects.MyAccountPage;
 import testBase.BaseClass;
 
-public class TC_RF_009_AccountRegisterWithSameParamsTest extends BaseClass {
+public class TC_RF_009_AccountRegisterUserDataTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_when_createUserWithSameParams_then_ValidationMessage() {
-        logger.info("***  TC_RF_009_AccountRegisterWithSameParamsTest ***");
+        logger.info("***  TC_RF_009_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info(" ----> START CYCLE 1 <----");
@@ -95,6 +95,6 @@ public class TC_RF_009_AccountRegisterWithSameParamsTest extends BaseClass {
             logger.info("!!! TEST FAILED !!!");
             Assert.fail();
         }
-        logger.info("*** PASSED  Finished TC_RF_009_AccountRegisterWithSameParamsTest ***");
+        logger.info("*** PASSED  Finished TC_RF_009_AccountRegisterUserDataTest ***");
     }
 }

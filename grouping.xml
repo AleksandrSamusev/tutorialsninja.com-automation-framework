@@ -22,7 +22,7 @@
             </run>
         </groups>
         <classes>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterUserDataTest"/>
             <class name="testCases.TC_002_LoginTest"/>
             <class name="testCases.TC_003_LoginDDT"/>
         </classes>

@@ -6,12 +6,12 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_001_AccountRegisterWithMandatoryFieldsTest extends BaseClass {
+public class TC_RF_001_AccountRegisterUserDataTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void test_account_registration() {
         logger.info("");
-        logger.info("***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***");
+        logger.info("***  Starting TC_RF_001_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -56,6 +56,6 @@ public class TC_RF_001_AccountRegisterWithMandatoryFieldsTest extends BaseClass 
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***");
+        logger.info("***  Finished TC_RF_001_AccountRegisterUserDataTest ***");
     }
 }

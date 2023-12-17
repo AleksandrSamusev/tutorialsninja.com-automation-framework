@@ -6,11 +6,11 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_008_AccountRegisterDiffPasswordAndConfTest extends BaseClass {
+public class TC_RF_008_AccountRegisterUserDataTest extends BaseClass {
 
     @Test(groups = {"Regression", "Master"})
     public void when_passwordAndConfIsDifferent_validationMessage() {
-        logger.info("***  Starting TC_RF_008_AccountRegisterDiffPasswordAndConfTest ***");
+        logger.info("***  Starting TC_RF_008_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             homePage.clickMyAccount();
@@ -43,6 +43,6 @@ public class TC_RF_008_AccountRegisterDiffPasswordAndConfTest extends BaseClass 
             logger.info("test failed");
             Assert.fail();
         }
-        logger.info("***  Finished TC_RF_008_AccountRegisterDiffPasswordAndConfTest ***");
+        logger.info("***  Finished TC_RF_008_AccountRegisterUserDataTest ***");
     }
 }

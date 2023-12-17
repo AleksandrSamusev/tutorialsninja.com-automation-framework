@@ -1,16 +1,17 @@
-package testCases.RegisterFunctionality_RF;
+package testCases.LoginFunctionality_LF;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import pageObjects.LoginPage;
 import testBase.BaseClass;
 
-public class TC_RF_011_7_AccountRegisterUserDataTest extends BaseClass {
+public class TC_LF_002_LoginTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
-    public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
+    public void test_whenValidCredentials_the_login() {
         logger.info("");
-        logger.info("***  TC_RF_011_7_AccountRegisterUserDataTest ***");
+        logger.info("***  START TC_LF_002_LoginTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -29,7 +30,7 @@ public class TC_RF_011_7_AccountRegisterUserDataTest extends BaseClass {
             logger.info("last name: " + lName);
             String mail = randomString() + "@gmail.com";
             logger.info("email: " + mail);
-            String phone = "123456789012,34";
+            String phone = randomNumber();
             logger.info("phone number: " + phone);
             String password = randomAlphaNumeric();
             logger.info("password: " + password + ", confirm password: " + password);
@@ -39,24 +40,39 @@ public class TC_RF_011_7_AccountRegisterUserDataTest extends BaseClass {
             registrationPage.setFirstName(fName);
             registrationPage.setLastName(lName);
             registrationPage.setEmail(mail);
-            registrationPage.setTelephone(phone);
+            registrationPage.setTelephone(randomNumber());
             registrationPage.setPassword(password);
             registrationPage.setConfirmPassword(password);
             registrationPage.clickPrivacyPolicy();
             logger.info("... click on 'accept policy rules' ");
-
             registrationPage.clickContinue();
             logger.info("... click 'Continue' button");
-            String msg = registrationPage.getPhoneValidationMessage();
-            logger.info("... validation message - " + msg);
-            String title = registrationPage.getPageTitle();
-            logger.info("... validation page title - " + title);
-            Assert.assertEquals(msg, "Telephone does not appear to be valid!");
-            Assert.assertEquals(title, "Register Account");
+            registrationPage.clickMyAccount();
+            logger.info("... click on 'My account' in navbar");
+            registrationPage.clickLogout();
+            logger.info("... click on 'Logout'");
+            registrationPage.clickMyAccount();
+            logger.info("... click on 'My account' in navbar");
+            registrationPage.clickLogin();
+            logger.info("... click on 'Login'");
+
+            LoginPage loginPage = new LoginPage(driver);
+            logger.info("... create 'Login' Page");
+            loginPage.getTxtEmail().sendKeys(mail);
+            logger.info("... setting users email");
+            loginPage.getTxtPassword().sendKeys(randomString() + "@gmail.com");
+            logger.info("... setting users password");
+            loginPage.clickLogin();
+            logger.info("... click on 'Login'");
+
+            String msg = loginPage.getMsgInvalidCredentials();
+            logger.info("... check the title on the My Account page");
+            Assert.assertEquals(msg, "Warning: No match for E-Mail Address and/or Password.",
+                    "Title not match !! TEST FAILED !!");
         } catch (Exception ex) {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  TC_RF_011_7_AccountRegisterUserDataTest ***");
+        logger.info("***  END TC_LF_002_LoginTest ***");
     }
 }

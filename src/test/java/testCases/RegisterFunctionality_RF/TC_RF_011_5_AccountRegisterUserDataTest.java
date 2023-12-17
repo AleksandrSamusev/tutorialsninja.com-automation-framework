@@ -6,11 +6,11 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest extends BaseClass {
+public class TC_RF_011_5_AccountRegisterUserDataTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest ***");
+        logger.info("***  TC_RF_011_5_AccountRegisterUserDataTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -57,6 +57,6 @@ public class TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest extends BaseCla
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest ***");
+        logger.info("***  TC_RF_011_5_AccountRegisterUserDataTest ***");
     }
 }

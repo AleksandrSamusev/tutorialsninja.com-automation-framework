@@ -8,11 +8,11 @@ import pageObjects.HomePage;
 import pageObjects.LaptopsAndNotebooksPage;
 import testBase.BaseClass;
 
-public class TC_RF_023_10_AccountRegisterHeaderValidationTest extends BaseClass {
+public class TC_RF_023_10_AccountRegisterTopMenuTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  TC_RF_023_10_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  TC_RF_023_10_AccountRegisterTopMenuTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -42,6 +42,6 @@ public class TC_RF_023_10_AccountRegisterHeaderValidationTest extends BaseClass 
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  TC_RF_023_10_AccountRegisterHeaderValidationTest ***");
+        logger.info("***  TC_RF_023_10_AccountRegisterTopMenuTest ***");
     }
 }
