@@ -1,0 +1,8 @@
+00:27:14.820 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - 
+00:27:14.823 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ***  START TC_LF_008_1_LoginTest ***
+00:27:14.836 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... create Home Page
+00:27:14.923 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... click on 'My account' in navbar
+00:27:15.630 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... click on 'Login'
+00:27:15.631 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... create 'Login' Page
+00:27:15.687 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... check the title on the My Account page
+00:27:15.689 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ***  END TC_LF_008_1_LoginTest ***
