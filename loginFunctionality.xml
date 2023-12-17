@@ -7,8 +7,9 @@
     <test name="TutorialsNinjaTest" thread-count="5">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <!-- <class name="testCases.LoginFunctionality_LF.TC_LF_001_LoginTest"/> -->
-            <class name="testCases.LoginFunctionality_LF.TC_LF_002_LoginTest"/>
+            <!-- <class name="testCases.LoginFunctionality_LF.TC_LF_001_LoginTest"/>
+            <class name="testCases.LoginFunctionality_LF.TC_LF_002_LoginTest"/> -->
+            <class name="testCases.LoginFunctionality_LF.TC_LF_003_LoginTest"/>
         </classes>
     </test>
 </suite>

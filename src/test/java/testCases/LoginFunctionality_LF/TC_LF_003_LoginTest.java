@@ -7,11 +7,11 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
 
-public class TC_LF_002_LoginTest extends BaseClass {
+public class TC_LF_003_LoginTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
-    public void test_When_InvalidEmailAndInvalidPassword_Then_Warning() {
+    public void test_When_InvalidEmailAndValidPassword_Then_Warning() {
         logger.info("");
-        logger.info("***  START TC_LF_002_LoginTest ***");
+        logger.info("***  START TC_LF_003_LoginTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -61,7 +61,7 @@ public class TC_LF_002_LoginTest extends BaseClass {
 
             loginPage.getTxtEmail().sendKeys(randomString() + "@gmail.com");
             logger.info("... setting users email");
-            loginPage.getTxtPassword().sendKeys(randomAlphaNumeric());
+            loginPage.getTxtPassword().sendKeys(password);
             logger.info("... setting users password");
             loginPage.clickLogin();
             logger.info("... click on 'Login'");
@@ -74,6 +74,6 @@ public class TC_LF_002_LoginTest extends BaseClass {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  END TC_LF_002_LoginTest ***");
+        logger.info("***  END TC_LF_003_LoginTest ***");
     }
 }
