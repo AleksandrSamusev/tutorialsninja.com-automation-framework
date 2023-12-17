@@ -217,6 +217,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//ul[@class='list-unstyled']//a[normalize-space()='Newsletter']")
     WebElement footerNewsletter;
 
+    @FindBy(xpath = "//b[normalize-space()='Privacy Policy']")
+    WebElement privacyPolicyUnderForm;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -533,5 +536,9 @@ public class AccountRegistrationPage extends BasePage {
 
     public String getPasswordConfirmationPlaceholder() {
         return txtConfirmPassword.getAttribute("placeholder");
+    }
+
+    public void clickPrivacyPolicyUnderForm() {
+        privacyPolicyUnderForm.click();
     }
  }
