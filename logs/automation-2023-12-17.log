@@ -30,3 +30,11 @@
 01:24:04.293 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... create Account Registration Page
 01:24:05.100 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... click on 'Wish List' on footer
 01:24:05.138 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ***  END TC_RF_023_43_AccountRegisterFooterValidationTest ***
+01:27:58.976 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - 
+01:27:58.986 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ***  START TC_RF_023_44_AccountRegisterFooterValidationTest ***
+01:27:59.013 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... create Home Page
+01:27:59.098 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:27:59.927 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:27:59.932 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:28:00.674 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'Newsletter' on footer
+01:28:00.715 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ***  END TC_RF_023_44_AccountRegisterFooterValidationTest ***
