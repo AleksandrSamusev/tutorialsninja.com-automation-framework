@@ -510,4 +510,28 @@ public class AccountRegistrationPage extends BasePage {
     public void clickFooterNewsletter() {
         footerNewsletter.click();
     }
-}
+
+    public String getFirstNamePlaceholder() {
+        return txtFirstName.getAttribute("placeholder");
+    }
+
+    public String getLastNamePlaceholder() {
+        return txtLastName.getAttribute("placeholder");
+    }
+
+    public String getEmailPlaceholder() {
+        return txtEmail.getAttribute("placeholder");
+    }
+
+    public String getTelephonePlaceholder() {
+        return txtTelephone.getAttribute("placeholder");
+    }
+
+    public String getPasswordPlaceholder() {
+        return txtPassword.getAttribute("placeholder");
+    }
+
+    public String getPasswordConfirmationPlaceholder() {
+        return txtConfirmPassword.getAttribute("placeholder");
+    }
+ }

@@ -1,40 +1,758 @@
-01:07:23.894 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - 
-01:07:23.897 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ***  START TC_RF_023_40_AccountRegisterFooterValidationTest ***
-01:07:23.914 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... create Home Page
-01:07:24.011 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
-01:07:24.860 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... click on 'Register'
-01:07:24.866 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... create Account Registration Page
-01:07:25.566 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... click on 'Specials' on footer
-01:07:25.606 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ***  END TC_RF_023_40_AccountRegisterFooterValidationTest ***
-01:13:39.973 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - 
-01:13:39.976 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ***  START TC_RF_023_41_AccountRegisterFooterValidationTest ***
-01:13:39.995 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... create Home Page
-01:13:40.078 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
-01:13:43.746 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... click on 'Register'
-01:13:43.756 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... create Account Registration Page
-01:13:44.515 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... click on 'My Account' on footer
-01:13:44.553 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ***  END TC_RF_023_41_AccountRegisterFooterValidationTest ***
-01:18:37.438 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - 
-01:18:37.443 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ***  START TC_RF_023_42_AccountRegisterFooterValidationTest ***
-01:18:37.459 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... create Home Page
-01:18:37.545 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
-01:18:38.415 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... click on 'Register'
-01:18:38.426 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... create Account Registration Page
-01:18:39.174 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... click on 'Order History' on footer
-01:18:39.219 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ***  END TC_RF_023_42_AccountRegisterFooterValidationTest ***
-01:24:03.028 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - 
-01:24:03.030 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ***  START TC_RF_023_43_AccountRegisterFooterValidationTest ***
-01:24:03.047 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... create Home Page
-01:24:03.129 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
-01:24:04.283 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... click on 'Register'
-01:24:04.293 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... create Account Registration Page
-01:24:05.100 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... click on 'Wish List' on footer
-01:24:05.138 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ***  END TC_RF_023_43_AccountRegisterFooterValidationTest ***
-01:27:58.976 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - 
-01:27:58.986 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ***  START TC_RF_023_44_AccountRegisterFooterValidationTest ***
-01:27:59.013 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... create Home Page
-01:27:59.098 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
-01:27:59.927 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'Register'
-01:27:59.932 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... create Account Registration Page
-01:28:00.674 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'Newsletter' on footer
-01:28:00.715 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ***  END TC_RF_023_44_AccountRegisterFooterValidationTest ***
+01:34:00.272 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - 
+01:34:00.285 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Starting TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+01:34:00.320 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... create Home Page
+01:34:00.411 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... click on 'My account' in navbar
+01:34:01.203 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... click on 'Register'
+01:34:01.208 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... create Account Registration Page
+01:34:01.208 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... generating user data:
+01:34:01.214 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - first name: MDLYK
+01:34:01.214 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - last name: MDDOX
+01:34:01.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - email: KxACD@gmail.com
+01:34:01.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - phone number: 123123123123
+01:34:01.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - password: ITGS@102, confirm password: ITGS@102
+01:34:01.216 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... setting user data to the corresponding fields
+01:34:01.875 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... click on 'accept policy rules' 
+01:34:02.769 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... click 'Continue' button
+01:34:02.802 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ... validation message - Your Account Has Been Created!
+01:34:02.804 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest - ***  Finished TC_RF_001_AccountRegisterWithMandatoryFieldsTest ***
+01:34:07.316 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - 
+01:34:07.316 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ***  TC_RF_001_2_AccountRegisterWithValidTelNumberTest  ***
+01:34:07.318 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... create Home Page
+01:34:07.419 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... click on 'My account' in navbar
+01:34:10.238 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... click on 'Register'
+01:34:10.240 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... create Account Registration Page
+01:34:10.240 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... generating user data:
+01:34:10.241 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - first name: LPBLR
+01:34:10.242 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - last name: QJXUK
+01:34:10.243 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - email: wGaCq@gmail.com
+01:34:10.245 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - phone number: 123
+01:34:10.246 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - password: jHSE@852, confirm password: jHSE@852
+01:34:10.247 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... setting user data to the corresponding fields
+01:34:10.848 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... click on 'accept policy rules' 
+01:34:11.723 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... click 'Continue' button
+01:34:11.768 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ... validation message - Your Account Has Been Created!
+01:34:11.768 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest - ***  TC_RF_001_2_AccountRegisterWithValidTelNumberTest  ***
+01:34:16.936 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - 
+01:34:16.937 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ***  TC_RF_001_3_AccountRegisterWithValidTelNumberTest  ***
+01:34:16.937 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... create Home Page
+01:34:17.054 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... click on 'My account' in navbar
+01:34:17.860 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... click on 'Register'
+01:34:17.862 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... create Account Registration Page
+01:34:17.862 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... generating user data:
+01:34:17.863 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - first name: OAJTS
+01:34:17.863 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - last name: GLLTJ
+01:34:17.863 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - email: HQUfe@gmail.com
+01:34:17.863 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - phone number: 12345678901234567890123456789012
+01:34:17.863 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - password: lrcl@333, confirm password: lrcl@333
+01:34:17.863 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... setting user data to the corresponding fields
+01:34:18.477 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... click on 'accept policy rules' 
+01:34:19.361 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... click 'Continue' button
+01:34:19.412 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ... validation message - Your Account Has Been Created!
+01:34:19.412 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest - ***  TC_RF_001_3_AccountRegisterWithValidTelNumberTest  ***
+01:34:24.043 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  TC_RF_003_AccountRegisterWithAllFieldsTest ***
+01:34:24.143 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Account link
+01:34:24.924 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Register link
+01:34:24.929 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - providing customers data
+01:34:26.492 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - clicked on Continue
+01:34:26.526 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - validating expected message
+01:34:26.526 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest - ***  Finished TC_RF_003_AccountRegisterWithAllFieldsTest ***
+01:34:35.541 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ****  Starting TC_RF_004_ProperValidationMessagesTest ****
+01:34:35.654 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on MyAccount
+01:34:37.310 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Register
+01:34:37.832 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - click on Continue without providing any data
+01:34:37.982 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest - ***  Finished TC_RF_004_AProperValidationMessagesTest  ***
+01:34:42.342 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+01:34:42.445 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Account link
+01:34:43.194 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Register link
+01:34:43.201 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - providing customers data
+01:34:44.747 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - clicked on Continue
+01:34:45.704 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest - ***  TC_RF_005_AccountRegisterWithYesNewsletterOptionTest ***
+01:34:49.877 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+01:34:49.944 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Account link
+01:34:50.702 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Register link
+01:34:50.703 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - providing customers data
+01:34:52.137 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - clicked on Continue
+01:34:55.080 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest - ***  TC_RF_006_AccountRegisterWithNoNewsletterOptionTest ***
+01:34:59.702 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_007_AccountRegisterNewCustomerTest - ****  starting TC_RF_007_AccountRegisterNewCustomerTest  ****
+01:35:01.124 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_007_AccountRegisterNewCustomerTest - ***  Finished TC_RF_007_AccountRegisterNewCustomerTest ***
+01:35:05.445 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest - ***  Starting TC_RF_008_AccountRegisterDiffPasswordAndConfTest ***
+01:35:05.554 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest - clicked on Account link
+01:35:06.352 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest - clicked on Register link
+01:35:06.354 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest - providing customers data
+01:35:08.230 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest - clicked on Continue
+01:35:08.267 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest - validating expected message
+01:35:08.267 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest - ***  Finished TC_RF_008_AccountRegisterDiffPasswordAndConfTest ***
+01:35:13.107 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ***  TC_RF_009_AccountRegisterWithSameParamsTest ***
+01:35:13.108 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest -  ----> START CYCLE 1 <----
+01:35:13.109 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... create Home Page
+01:35:13.196 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click on 'My account' in navbar
+01:35:13.959 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click on 'Register'
+01:35:13.961 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... create Account Registration Page
+01:35:13.961 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... generating user data:
+01:35:13.961 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - first name: LGIXO
+01:35:13.961 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - last name: KINAO
+01:35:13.961 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - email: LSsnC@gmail.com
+01:35:13.961 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - phone number: 0908507174
+01:35:13.962 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - password: vBLJ@555, confirm password: vBLJ@555
+01:35:13.962 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... setting user data to the corresponding fields
+01:35:14.576 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click on 'accept policy rules' 
+01:35:14.627 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click on 'Subscribe -> Yes' button
+01:35:14.627 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click 'Continue' button
+01:35:15.450 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... create My Account Page
+01:35:15.453 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click 'Logout' button
+01:35:16.195 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click 'Continue' button
+01:35:16.675 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest -  ----> START CYCLE 2 <----
+01:35:16.675 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... crete Home Page
+01:35:16.675 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click on 'My account' in navbar
+01:35:16.735 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click on 'Register'
+01:35:17.184 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... create Account RegistrationP age
+01:35:17.185 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... set earlier generated user values...
+01:35:17.264 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - first name: LGIXO
+01:35:17.342 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - last name: KINAO
+01:35:17.432 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - email: LSsnC@gmail.com
+01:35:17.516 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - phone number: 0908507174
+01:35:17.676 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - password : vBLJ@555, confirm password: vBLJ@555
+01:35:17.728 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click on 'accept policy rules' 
+01:35:17.775 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... click on 'Subscribe -> Yes' button
+01:35:18.271 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - ... validation message on the top of the page - Warning: E-Mail Address is already registered!
+01:35:18.271 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest - *** PASSED  Finished TC_RF_009_AccountRegisterWithSameParamsTest ***
+01:35:23.796 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - 
+01:35:23.797 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ***  Starting TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest ***
+01:35:23.798 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... create Home Page
+01:35:23.895 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... click on 'My account' in navbar
+01:36:21.499 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... click on 'Register'
+01:36:21.501 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... create Account Registration Page
+01:36:21.502 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... generating user data:
+01:36:21.502 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - first name: TSSQQ
+01:36:21.503 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - last name: HBFWK
+01:36:21.505 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - email: kSEUz@
+01:36:21.506 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - phone number: 1151947844
+01:36:21.509 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - password: euzL@892, confirm password: euzL@892
+01:36:21.510 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... setting user data to the corresponding fields
+01:36:22.087 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... click on 'accept policy rules' 
+01:36:22.152 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... click 'Continue' button
+01:36:22.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ... validation message - Please enter a part following '@'. 'kSEUz@' is incomplete.
+01:36:22.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest - ***  Finished TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest ***
+01:36:27.161 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - 
+01:36:27.161 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ***  Starting TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest ***
+01:36:27.161 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... create Home Page
+01:36:27.270 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'My account' in navbar
+01:36:28.472 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'Register'
+01:36:28.473 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... create Account Registration Page
+01:36:28.473 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... generating user data:
+01:36:28.474 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - first name: KILUL
+01:36:28.475 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - last name: NXOCG
+01:36:28.479 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - email: NyjOg@qdPLS
+01:36:28.479 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - phone number: 1002666939
+01:36:28.481 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - password: USlG@759, confirm password: USlG@759
+01:36:28.484 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... setting user data to the corresponding fields
+01:36:29.095 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click on 'accept policy rules' 
+01:36:29.625 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... click 'Continue' button
+01:36:29.669 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ... validation message - E-Mail Address does not appear to be valid!
+01:36:29.669 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest - ***  Finished TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest ***
+01:36:34.920 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - 
+01:36:34.920 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ***  Starting TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest ***
+01:36:34.921 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... create Home Page
+01:36:35.004 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... click on 'My account' in navbar
+01:36:35.794 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... click on 'Register'
+01:36:35.799 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... create Account Registration Page
+01:36:35.799 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... generating user data:
+01:36:35.800 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - first name: GHXAZ
+01:36:35.800 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - last name: KYWTX
+01:36:35.800 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - email: ozOxf
+01:36:35.800 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - phone number: 3689482717
+01:36:35.800 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - password: QKYF@225, confirm password: QKYF@225
+01:36:35.800 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... setting user data to the corresponding fields
+01:36:36.421 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... click on 'accept policy rules' 
+01:36:36.500 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... click 'Continue' button
+01:36:36.538 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ... validation message - Please include an '@' in the email address. 'ozOxf' is missing an '@'.
+01:36:36.538 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest - ***  Finished TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest ***
+01:36:41.528 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - 
+01:36:41.528 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest ***
+01:36:41.529 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:36:41.621 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:36:42.406 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:36:42.407 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:36:42.408 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:36:42.408 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - first name: HFMRA
+01:36:42.408 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - last name: JFCRA
+01:36:42.408 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - email: peVKK@gmail.com
+01:36:42.408 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - phone number: 5
+01:36:42.408 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - password: MNhz@123, confirm password: MNhz@123
+01:36:42.409 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:36:42.969 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:36:43.442 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:36:43.482 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ... validation message - Telephone must be between 3 and 32 characters!
+01:36:43.482 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest ***
+01:36:47.706 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - 
+01:36:47.707 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest ***
+01:36:47.707 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:36:47.806 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:36:48.609 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:36:48.612 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:36:48.612 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:36:48.613 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - first name: RISDL
+01:36:48.613 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - last name: EHLBK
+01:36:48.613 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - email: rfOkY@gmail.com
+01:36:48.613 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - phone number: 98
+01:36:48.613 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - password: MIkK@448, confirm password: MIkK@448
+01:36:48.613 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:36:49.172 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:36:50.222 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:36:50.263 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ... validation message - Telephone must be between 3 and 32 characters!
+01:36:50.263 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest ***
+01:36:54.565 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - 
+01:36:54.565 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest ***
+01:36:54.566 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:36:54.652 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:36:55.815 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:36:55.817 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:36:55.817 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:36:55.817 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - first name: YFLNL
+01:36:55.817 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - last name: XFRDD
+01:36:55.817 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - email: aBOkH@gmail.com
+01:36:55.817 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - phone number: 123456789012345678901234567890123
+01:36:55.817 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - password: ZEfv@212, confirm password: ZEfv@212
+01:36:55.817 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:36:56.452 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:36:56.925 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:36:56.962 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ... validation message - Telephone must be between 3 and 32 characters!
+01:36:56.962 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest ***
+01:37:01.122 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - 
+01:37:01.122 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest ***
+01:37:01.123 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:37:01.213 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:37:02.002 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:37:02.003 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:37:02.003 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:37:02.005 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - first name: YNMRE
+01:37:02.008 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - last name: MYIQC
+01:37:02.009 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - email: FzFHr@gmail.com
+01:37:02.010 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - phone number: 12345678901234567890123456789012345678901234567890
+01:37:02.010 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - password: ePEs@493, confirm password: ePEs@493
+01:37:02.011 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:37:02.686 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:37:04.102 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:37:04.144 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ... validation message - Telephone must be between 3 and 32 characters!
+01:37:04.145 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest ***
+01:37:08.459 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - 
+01:37:08.459 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest ***
+01:37:08.461 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:37:08.546 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:37:09.373 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:37:09.375 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:37:09.375 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:37:09.376 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - first name: XLJTW
+01:37:09.376 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - last name: XAERN
+01:37:09.376 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - email: OSpME@gmail.com
+01:37:09.376 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - phone number: qwertyuiopasdfg
+01:37:09.376 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - password: ADoo@786, confirm password: ADoo@786
+01:37:09.376 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:37:09.994 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:37:11.561 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:37:21.593 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... validation message - no such element: Unable to locate element: {"method":"xpath","selector":"//div[5]//div[1]//div[1]"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8ad01edc9840a5a0f85b491cc2f4e78e, findElement {using=xpath, value=//div[5]//div[1]//div[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62319}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62319/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8ad01edc9840a5a0f85b491cc2f4e78e
+01:37:31.630 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest - ... validation page title - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Register Account']"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8ad01edc9840a5a0f85b491cc2f4e78e, findElement {using=xpath, value=//h1[normalize-space()='Register Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62319}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62319/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8ad01edc9840a5a0f85b491cc2f4e78e
+01:37:42.565 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - 
+01:37:42.566 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest ***
+01:37:42.566 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:37:42.669 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:37:44.346 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:37:44.347 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:37:44.347 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:37:44.348 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - first name: GKFOU
+01:37:44.348 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - last name: UDNRQ
+01:37:44.348 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - email: CBhDF@gmail.com
+01:37:44.348 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - phone number: 123456789012.34
+01:37:44.349 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - password: fGVg@212, confirm password: fGVg@212
+01:37:44.349 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:37:44.922 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:37:45.821 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:37:55.848 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... validation message - no such element: Unable to locate element: {"method":"xpath","selector":"//div[5]//div[1]//div[1]"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dab29360b67d888f8889a358eef0054d, findElement {using=xpath, value=//div[5]//div[1]//div[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62342}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62342/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dab29360b67d888f8889a358eef0054d
+01:38:05.893 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest - ... validation page title - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Register Account']"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dab29360b67d888f8889a358eef0054d, findElement {using=xpath, value=//h1[normalize-space()='Register Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62342}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62342/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dab29360b67d888f8889a358eef0054d
+01:38:11.589 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - 
+01:38:11.590 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest ***
+01:38:11.594 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:38:11.705 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:38:12.553 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:38:12.553 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:38:12.554 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:38:12.554 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - first name: EHQWT
+01:38:12.554 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - last name: YBJTT
+01:38:12.554 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - email: DoIgC@gmail.com
+01:38:12.554 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - phone number: 123456789012,34
+01:38:12.555 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - password: cgxB@918, confirm password: cgxB@918
+01:38:12.555 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:38:13.140 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:38:13.962 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:38:23.979 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... validation message - no such element: Unable to locate element: {"method":"xpath","selector":"//div[5]//div[1]//div[1]"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [26aaac6b12a3288c1d7ea2082343e3fa, findElement {using=xpath, value=//div[5]//div[1]//div[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62367}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62367/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 26aaac6b12a3288c1d7ea2082343e3fa
+01:38:34.004 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest - ... validation page title - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Register Account']"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [26aaac6b12a3288c1d7ea2082343e3fa, findElement {using=xpath, value=//h1[normalize-space()='Register Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62367}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62367/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 26aaac6b12a3288c1d7ea2082343e3fa
+01:38:43.246 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - 
+01:38:43.253 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest ***
+01:38:43.253 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:38:43.352 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:38:44.213 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:38:44.214 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:38:44.214 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:38:44.214 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - first name: FKHSJ
+01:38:44.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - last name: YHZLK
+01:38:44.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - email: LGIWM@gmail.com
+01:38:44.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - phone number: -12345678901234
+01:38:44.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - password: GpVC@014, confirm password: GpVC@014
+01:38:44.215 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:38:44.796 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:38:45.635 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:38:55.660 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... validation message - no such element: Unable to locate element: {"method":"xpath","selector":"//div[5]//div[1]//div[1]"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [29e0f334ee34310ca01b29d0c326ca39, findElement {using=xpath, value=//div[5]//div[1]//div[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62391}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62391/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29e0f334ee34310ca01b29d0c326ca39
+01:39:05.691 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest - ... validation page title - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Register Account']"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [29e0f334ee34310ca01b29d0c326ca39, findElement {using=xpath, value=//h1[normalize-space()='Register Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62391}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62391/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29e0f334ee34310ca01b29d0c326ca39
+01:39:10.475 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - 
+01:39:10.475 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ***  TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest ***
+01:39:10.476 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... create Home Page
+01:39:10.569 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... click on 'My account' in navbar
+01:39:11.345 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... click on 'Register'
+01:39:11.346 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... create Account Registration Page
+01:39:11.346 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... generating user data:
+01:39:11.346 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - first name: SKUSU
+01:39:11.347 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - last name: GPSFI
+01:39:11.347 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - email: XnnRD@gmail.com
+01:39:11.347 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - phone number: ,./~_';!@#$%^&*(
+01:39:11.349 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - password: DnvZ@575, confirm password: DnvZ@575
+01:39:11.350 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... setting user data to the corresponding fields
+01:39:11.955 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... click on 'accept policy rules' 
+01:39:13.385 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... click 'Continue' button
+01:39:23.461 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... validation message - no such element: Unable to locate element: {"method":"xpath","selector":"//div[5]//div[1]//div[1]"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3d592ed2d19a9c604257d16ecea7e23e, findElement {using=xpath, value=//div[5]//div[1]//div[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62415}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62415/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d592ed2d19a9c604257d16ecea7e23e
+01:39:33.487 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest - ... validation page title - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Register Account']"}
+  (Session info: chrome=120.0.6099.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3d592ed2d19a9c604257d16ecea7e23e, findElement {using=xpath, value=//h1[normalize-space()='Register Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\samus\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62415}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62415/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d592ed2d19a9c604257d16ecea7e23e
+01:39:38.370 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - 
+01:39:38.371 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ***  TC_RF_023_4_AccountRegisterHeaderValidationTest ***
+01:39:38.372 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... create Home Page
+01:39:38.461 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:39:39.216 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:39:39.217 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:39:39.266 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:39:39.696 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... click on 'Login' in navbar
+01:39:39.697 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ... create Login Page
+01:39:39.733 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest - ***  TC_RF_023_4_AccountRegisterHeaderValidationTest ***
+01:39:44.195 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - 
+01:39:44.195 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ***  TC_RF_023_5_AccountRegisterHeaderValidationTest ***
+01:39:44.195 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... create Home Page
+01:39:44.294 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:39:45.109 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:39:45.110 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:39:45.167 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:39:45.597 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ... click on 'Register' in navbar
+01:39:45.638 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest - ***  TC_RF_023_5_AccountRegisterHeaderValidationTest ***
+01:39:49.983 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - 
+01:39:49.983 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ***  TC_RF_023_6_AccountRegisterHeaderValidationTest ***
+01:39:49.985 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... create Home Page
+01:39:50.047 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:39:50.821 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:39:50.822 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:39:51.574 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... click on 'Wish List' in navbar
+01:39:51.575 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ... create Login Page
+01:39:51.625 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest - ***  TC_RF_023_6_AccountRegisterHeaderValidationTest ***
+01:39:56.176 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - 
+01:39:56.176 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ***  TC_RF_023_7_AccountRegisterHeaderValidationTest ***
+01:39:56.176 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... create Home Page
+01:39:56.265 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:39:57.038 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:39:57.040 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:39:57.494 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... click on 'Shopping Cart' in navbar
+01:39:57.495 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest - ... create Login Page
+01:40:12.352 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - 
+01:40:12.352 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ***  TC_RF_023_8_AccountRegisterHeaderValidationTest ***
+01:40:12.354 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... create Home Page
+01:40:12.448 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:40:13.209 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:40:13.209 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:40:13.953 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... click on 'Checkout' in navbar
+01:40:13.953 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_8_AccountRegisterHeaderValidationTest - ... create Login Page
+01:40:28.581 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - 
+01:40:28.581 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ***  TC_RF_023_9_AccountRegisterHeaderValidationTest ***
+01:40:28.581 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... create Home Page
+01:40:28.677 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:40:29.456 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:40:29.459 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:40:29.625 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... perform hover over Desktops option
+01:40:29.750 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... perform hover over Show AllDesktops option
+01:40:30.759 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... click on 'Show AllDesktops'
+01:40:30.761 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ... create Desktop Page
+01:40:30.785 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_9_AccountRegisterHeaderValidationTest - ***  TC_RF_023_9_AccountRegisterHeaderValidationTest ***
+01:40:35.311 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - 
+01:40:35.311 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ***  TC_RF_023_10_AccountRegisterHeaderValidationTest ***
+01:40:35.311 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... create Home Page
+01:40:35.400 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:40:36.161 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:40:36.162 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:40:36.320 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... perform hover over Laptops & Notebooks option
+01:40:36.448 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... perform hover over Show AllLaptops & Notebooks option
+01:40:38.085 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... click on 'Show AllLaptops & Notebooks'
+01:40:38.088 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ... create Laptops And NotebooksPage Page
+01:40:38.115 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_10_AccountRegisterHeaderValidationTest - ***  TC_RF_023_10_AccountRegisterHeaderValidationTest ***
+01:40:42.863 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - 
+01:40:42.864 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ***  TC_RF_023_11_AccountRegisterHeaderValidationTest ***
+01:40:42.864 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... create Home Page
+01:40:42.959 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:40:43.767 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:40:43.768 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:40:43.927 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... perform hover over 'Components' option
+01:40:44.053 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... perform hover over 'Show AllComponents' option
+01:40:44.759 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... click on 'Show AllComponents'
+01:40:44.761 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ... create Components Page
+01:40:44.789 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_11_AccountRegisterHeaderValidationTest - ***  TC_RF_023_11_AccountRegisterHeaderValidationTest ***
+01:40:49.030 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - 
+01:40:49.030 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ***  TC_RF_023_12_AccountRegisterHeaderValidationTest ***
+01:40:49.030 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... create Home Page
+01:40:49.125 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:40:49.907 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:40:49.907 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:40:50.642 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... click on 'Tablets'
+01:40:50.644 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ... create Tablets Page
+01:40:50.673 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_12_AccountRegisterHeaderValidationTest - ***  TC_RF_023_12_AccountRegisterHeaderValidationTest ***
+01:40:54.885 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - 
+01:40:54.885 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_13_AccountRegisterHeaderValidationTest ***
+01:40:54.886 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - ... create Home Page
+01:40:54.953 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:40:55.723 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:40:55.724 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:40:56.433 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - ... click on 'Software'
+01:40:56.436 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - ... create Software Page
+01:40:56.461 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_13_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_13_AccountRegisterHeaderValidationTest ***
+01:41:01.057 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - 
+01:41:01.057 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_14_AccountRegisterHeaderValidationTest ***
+01:41:01.057 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:01.145 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:01.926 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:01.927 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:02.640 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - ... click on 'Phones & PDAs'
+01:41:02.641 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - ... create 'Phones and PDAs' Page
+01:41:02.670 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_14_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_14_AccountRegisterHeaderValidationTest ***
+01:41:07.107 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - 
+01:41:07.107 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_15_AccountRegisterHeaderValidationTest ***
+01:41:07.107 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:07.196 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:07.967 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:07.967 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:08.704 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ... click on 'Cameras'
+01:41:08.706 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ... create 'Cameras' Page
+01:41:08.734 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_15_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_15_AccountRegisterHeaderValidationTest ***
+01:41:13.203 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - 
+01:41:13.204 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_16_AccountRegisterHeaderValidationTest ***
+01:41:13.204 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:13.304 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:14.090 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:14.094 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:17.042 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_16_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_16_AccountRegisterHeaderValidationTest ***
+01:41:21.704 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - 
+01:41:21.704 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_17_AccountRegisterHeaderValidationTest ***
+01:41:21.704 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:21.809 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:22.652 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:22.654 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:23.781 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_17_AccountRegisterHeaderValidationTest - !! TEST FAILED !!
+01:41:28.597 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_18_AccountRegisterHeaderValidationTest - 
+01:41:28.597 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_18_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_18_AccountRegisterHeaderValidationTest ***
+01:41:28.597 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_18_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:28.692 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_18_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:29.538 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_18_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:29.539 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_18_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:30.666 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_18_AccountRegisterHeaderValidationTest - !! TEST FAILED !!
+01:41:35.264 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - 
+01:41:35.265 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_19_AccountRegisterHeaderValidationTest ***
+01:41:35.265 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:35.355 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:36.177 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:36.178 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:36.648 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - ... click on 'Forgotten Password' on the right side menu
+01:41:36.661 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - ... create 'Forgotten Password' page
+01:41:36.697 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_19_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_19_AccountRegisterHeaderValidationTest ***
+01:41:41.092 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_20_AccountRegisterHeaderValidationTest - 
+01:41:41.092 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_20_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_20_AccountRegisterHeaderValidationTest ***
+01:41:41.092 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_20_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:41.206 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_20_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:41.996 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_20_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:41.997 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_20_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:42.778 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_20_AccountRegisterHeaderValidationTest - ... click on 'My Account' on the right side menu
+01:41:42.820 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_20_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_20_AccountRegisterHeaderValidationTest ***
+01:41:46.959 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - 
+01:41:46.959 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_21_AccountRegisterHeaderValidationTest ***
+01:41:46.960 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:47.024 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:47.771 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:47.773 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:48.522 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ... click on 'Address Book' on the right side menu
+01:41:48.561 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_21_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_21_AccountRegisterHeaderValidationTest ***
+01:41:52.872 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - 
+01:41:52.873 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_22_AccountRegisterHeaderValidationTest ***
+01:41:52.874 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:52.970 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:53.756 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:53.757 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:41:54.525 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ... click on 'Wish List' on the right side menu
+01:41:54.562 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_22_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_22_AccountRegisterHeaderValidationTest ***
+01:41:58.923 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - 
+01:41:58.923 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_23_AccountRegisterHeaderValidationTest ***
+01:41:58.923 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ... create Home Page
+01:41:59.021 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:41:59.807 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:41:59.808 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:42:00.587 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ... click on 'Order History' on the right side menu
+01:42:00.617 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_23_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_23_AccountRegisterHeaderValidationTest ***
+01:42:04.900 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - 
+01:42:04.900 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_24_AccountRegisterHeaderValidationTest ***
+01:42:04.900 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... create Home Page
+01:42:05.007 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:42:05.772 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:42:05.773 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:42:06.505 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ... click on 'Downloads' on the right side menu
+01:42:06.544 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_24_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_24_AccountRegisterHeaderValidationTest ***
+01:42:10.849 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - 
+01:42:10.849 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_25_AccountRegisterHeaderValidationTest ***
+01:42:10.850 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... create Home Page
+01:42:10.948 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:42:11.728 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:42:11.729 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:42:12.495 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ... click on 'Recurring Payments' on the right side menu
+01:42:12.529 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_25_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_25_AccountRegisterHeaderValidationTest ***
+01:42:16.812 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest - 
+01:42:16.813 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_26_AccountRegisterHeaderValidationTest ***
+01:42:16.813 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest - ... create Home Page
+01:42:16.876 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:42:17.633 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:42:17.633 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:42:18.385 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest - ... click on 'Reward Points' on the right side menu
+01:42:18.428 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_26_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_26_AccountRegisterHeaderValidationTest ***
+01:42:22.960 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest - 
+01:42:22.961 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_27_AccountRegisterHeaderValidationTest ***
+01:42:22.962 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest - ... create Home Page
+01:42:23.063 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:42:23.875 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:42:23.876 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:42:24.610 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest - ... click on 'Returns' on the right side menu
+01:42:24.639 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_27_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_27_AccountRegisterHeaderValidationTest ***
+01:42:29.186 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - 
+01:42:29.186 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_28_AccountRegisterHeaderValidationTest ***
+01:42:29.187 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ... create Home Page
+01:42:29.280 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:42:30.040 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:42:30.041 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:42:31.426 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ... click on 'Transactions' on the right side menu
+01:42:31.472 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_28_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_28_AccountRegisterHeaderValidationTest ***
+01:42:35.705 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - 
+01:42:35.705 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ***  START TC_RF_023_29_AccountRegisterHeaderValidationTest ***
+01:42:35.705 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... create Home Page
+01:42:35.804 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... click on 'My account' in navbar
+01:42:36.597 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... click on 'Register'
+01:42:36.603 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... create Account Registration Page
+01:42:37.375 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ... click on 'Newsletter' on the right side menu
+01:42:37.408 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_29_AccountRegisterHeaderValidationTest - ***  END TC_RF_023_29_AccountRegisterHeaderValidationTest ***
+01:42:42.060 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_30_AccountRegisterFooterValidationTest - 
+01:42:42.060 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_30_AccountRegisterFooterValidationTest - ***  START TC_RF_023_30_AccountRegisterFooterValidationTest ***
+01:42:42.061 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_30_AccountRegisterFooterValidationTest - ... create Home Page
+01:42:42.127 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_30_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:42:42.924 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_30_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:42:42.927 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_30_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:42:43.404 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_30_AccountRegisterFooterValidationTest - ... click on 'About Us' on footer
+01:42:43.449 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_30_AccountRegisterFooterValidationTest - ***  END TC_RF_023_30_AccountRegisterFooterValidationTest ***
+01:42:47.917 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - 
+01:42:47.917 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ***  START TC_RF_023_31_AccountRegisterFooterValidationTest ***
+01:42:47.917 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ... create Home Page
+01:42:48.017 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:42:48.800 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:42:48.801 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:42:49.258 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ... click on 'Delivery Information' on footer
+01:42:49.296 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_31_AccountRegisterFooterValidationTest - ***  END TC_RF_023_31_AccountRegisterFooterValidationTest ***
+01:42:53.894 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - 
+01:42:53.894 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ***  START TC_RF_023_32_AccountRegisterFooterValidationTest ***
+01:42:53.894 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... create Home Page
+01:42:53.982 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:42:54.758 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:42:54.758 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:42:55.303 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ... click on 'Privacy Policy' on footer
+01:42:55.349 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_32_AccountRegisterFooterValidationTest - ***  END TC_RF_023_32_AccountRegisterFooterValidationTest ***
+01:42:59.531 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_33_AccountRegisterFooterValidationTest - 
+01:42:59.531 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_33_AccountRegisterFooterValidationTest - ***  START TC_RF_023_33_AccountRegisterFooterValidationTest ***
+01:42:59.531 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_33_AccountRegisterFooterValidationTest - ... create Home Page
+01:42:59.638 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_33_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:43:00.420 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_33_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:43:00.420 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_33_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:43:00.863 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_33_AccountRegisterFooterValidationTest - ... click on 'Terms & Conditions' on footer
+01:43:00.894 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_33_AccountRegisterFooterValidationTest - ***  END TC_RF_023_33_AccountRegisterFooterValidationTest ***
+01:43:04.938 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_34_AccountRegisterFooterValidationTest - 
+01:43:04.938 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_34_AccountRegisterFooterValidationTest - ***  START TC_RF_023_34_AccountRegisterFooterValidationTest ***
+01:43:04.939 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_34_AccountRegisterFooterValidationTest - ... create Home Page
+01:43:05.033 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_34_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:43:05.782 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_34_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:43:05.783 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_34_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:43:06.214 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_34_AccountRegisterFooterValidationTest - ... click on 'Contact Us' on footer
+01:43:06.247 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_34_AccountRegisterFooterValidationTest - ***  END TC_RF_023_34_AccountRegisterFooterValidationTest ***
+01:43:10.723 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_35_AccountRegisterFooterValidationTest - 
+01:43:10.723 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_35_AccountRegisterFooterValidationTest - ***  START TC_RF_023_35_AccountRegisterFooterValidationTest ***
+01:43:10.723 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_35_AccountRegisterFooterValidationTest - ... create Home Page
+01:43:10.819 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_35_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:43:11.563 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_35_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:43:11.565 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_35_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:43:12.067 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_35_AccountRegisterFooterValidationTest - ... click on 'Returns' on footer
+01:43:12.118 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_35_AccountRegisterFooterValidationTest - ***  END TC_RF_023_35_AccountRegisterFooterValidationTest ***
+01:43:16.497 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - 
+01:43:16.497 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ***  START TC_RF_023_36_AccountRegisterFooterValidationTest ***
+01:43:16.497 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ... create Home Page
+01:43:16.592 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:43:17.550 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:43:17.550 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:43:18.057 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ... click on 'Site Map' on footer
+01:43:18.088 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_36_AccountRegisterFooterValidationTest - ***  END TC_RF_023_36_AccountRegisterFooterValidationTest ***
+01:43:22.365 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - 
+01:43:22.366 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ***  START TC_RF_023_37_AccountRegisterFooterValidationTest ***
+01:43:22.366 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... create Home Page
+01:43:22.456 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:43:23.226 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:43:23.227 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:43:23.660 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ... click on 'Brands' on footer
+01:43:23.700 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest - ***  END TC_RF_023_37_AccountRegisterFooterValidationTest ***
+01:43:27.844 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest - 
+01:43:27.844 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest - ***  START TC_RF_023_38_AccountRegisterFooterValidationTest ***
+01:43:27.844 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest - ... create Home Page
+01:43:27.903 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:43:28.644 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:43:28.645 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:43:29.103 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest - ... click on 'Gift Certificates' on footer
+01:43:29.151 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest - ***  END TC_RF_023_38_AccountRegisterFooterValidationTest ***
+01:43:33.662 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest - 
+01:43:33.662 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest - ***  START TC_RF_023_39_AccountRegisterFooterValidationTest ***
+01:43:33.662 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest - ... create Home Page
+01:43:33.758 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:43:34.524 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:43:34.525 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:43:34.970 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest - ... click on 'Affiliate' on footer
+01:43:35.012 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest - ***  END TC_RF_023_39_AccountRegisterFooterValidationTest ***
+01:43:39.320 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - 
+01:43:39.320 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ***  START TC_RF_023_40_AccountRegisterFooterValidationTest ***
+01:43:39.320 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... create Home Page
+01:43:39.384 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:43:40.144 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:43:40.151 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:43:40.875 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ... click on 'Specials' on footer
+01:43:40.908 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest - ***  END TC_RF_023_40_AccountRegisterFooterValidationTest ***
+01:43:45.276 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - 
+01:43:45.277 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ***  START TC_RF_023_41_AccountRegisterFooterValidationTest ***
+01:43:45.277 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... create Home Page
+01:43:45.382 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:44:44.786 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:44:44.787 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:44:45.611 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ... click on 'My Account' on footer
+01:44:45.656 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest - ***  END TC_RF_023_41_AccountRegisterFooterValidationTest ***
+01:44:49.916 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - 
+01:44:49.916 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ***  START TC_RF_023_42_AccountRegisterFooterValidationTest ***
+01:44:49.916 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... create Home Page
+01:44:50.012 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:44:50.760 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:44:50.760 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:44:51.486 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ... click on 'Order History' on footer
+01:44:51.524 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest - ***  END TC_RF_023_42_AccountRegisterFooterValidationTest ***
+01:45:00.467 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - 
+01:45:00.467 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ***  START TC_RF_023_43_AccountRegisterFooterValidationTest ***
+01:45:00.469 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... create Home Page
+01:45:00.565 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:45:01.377 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:45:01.378 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:45:02.167 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ... click on 'Wish List' on footer
+01:45:02.213 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest - ***  END TC_RF_023_43_AccountRegisterFooterValidationTest ***
+01:45:06.665 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - 
+01:45:06.665 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ***  START TC_RF_023_44_AccountRegisterFooterValidationTest ***
+01:45:06.666 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... create Home Page
+01:45:06.761 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'My account' in navbar
+01:45:07.528 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'Register'
+01:45:07.528 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... create Account Registration Page
+01:45:08.281 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ... click on 'Newsletter' on footer
+01:45:08.319 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest - ***  END TC_RF_023_44_AccountRegisterFooterValidationTest ***
+05:58:28.014 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - 
+05:58:28.019 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ***  START TC_RF_013_AccountRegisterProperPlaceholdersTest ***
+05:58:28.038 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ... create Home Page
+05:58:28.152 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ... click on 'My account' in navbar
+05:58:28.968 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ... click on 'Register'
+05:58:28.991 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ... create Account Registration Page
+05:59:04.270 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - 
+05:59:04.276 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ***  START TC_RF_013_AccountRegisterProperPlaceholdersTest ***
+05:59:04.294 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ... create Home Page
+05:59:04.404 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ... click on 'My account' in navbar
+05:59:05.242 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ... click on 'Register'
+05:59:05.252 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ... create Account Registration Page
+05:59:05.442 [main] INFO  testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest - ***  END TC_RF_013_AccountRegisterProperPlaceholdersTest ***

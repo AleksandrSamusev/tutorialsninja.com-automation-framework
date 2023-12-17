@@ -8,29 +8,30 @@
     <test name="TutorialsNinjaTest" thread-count="5">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <!-- <class name="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest"/>
+           <!-- <class name="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterWithMandatoryFieldsTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_001_2_AccountRegisterWithValidTelNumberTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest"></class>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_007_AccountRegisterNewCustomerTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest"/>
-             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_001_3_AccountRegisterWithValidTelNumberTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_003_AccountRegisterWithAllFieldsTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_004_ProperValidationMessagesTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_005_AccountRegisterWithYesNewsletterOptionTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_006_AccountRegisterWithNoNewsletterOptionTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_007_AccountRegisterNewCustomerTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_008_AccountRegisterDiffPasswordAndConfTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_009_AccountRegisterWithSameParamsTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_010_01_AccountNotCreatedIfEmailIncorrectTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_010_02_AccountNotCreatedIfEmailIncorrectTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_010_03_AccountNotCreatedIfEmailIncorrectTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_1_AccountRegisterWithInvalidTelNumberTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_2_AccountRegisterWithInvalidTelNumberTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_3_AccountRegisterWithInvalidTelNumberTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_4_AccountRegisterWithInvalidTelNumberTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_5_AccountRegisterWithInvalidTelNumberTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_6_AccountRegisterWithInvalidTelNumberTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_7_AccountRegisterWithInvalidTelNumberTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_011_8_AccountRegisterWithInvalidTelNumberTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_011_9_AccountRegisterWithInvalidTelNumberTest"/> -->
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_013_AccountRegisterProperPlaceholdersTest"/>
+            <!-- <class name="testCases.RegisterFunctionality_RF.TC_RF_023_4_AccountRegisterHeaderValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_5_AccountRegisterHeaderValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_6_AccountRegisterHeaderValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_7_AccountRegisterHeaderValidationTest"/>
@@ -69,8 +70,8 @@
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest"/> -->
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_43_AccountRegisterFooterValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_44_AccountRegisterFooterValidationTest"/> -->
             <!-- <class name="testCases.TC_002_LoginTest"/> -->
             <!-- <class name="testCases.TC_003_LoginDDT"/> -->
         </classes>

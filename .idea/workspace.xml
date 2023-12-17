@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_43_AccountRegisterFooterValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_013_AccountRegisterProperPlaceholdersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-17.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-17.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.16.22.15.02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.16.22.22.30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.16.22.28.49.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.16.22.40.34.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.16.22.47.47.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.16.22.56.10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.01.07.16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.01.13.22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.01.18.30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.01.23.56.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.01.27.53.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +181,8 @@
       <workItem from="1701948762090" duration="1084000" />
       <workItem from="1702425918070" duration="21373000" />
       <workItem from="1702479889167" duration="17535000" />
-      <workItem from="1702743480637" duration="16318000" />
+      <workItem from="1702743480637" duration="18286000" />
+      <workItem from="1702787603334" duration="1372000" />
     </task>
     <servers />
   </component>
