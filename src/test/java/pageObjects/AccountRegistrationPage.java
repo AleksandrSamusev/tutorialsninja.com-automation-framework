@@ -220,6 +220,9 @@ public class AccountRegistrationPage extends BasePage {
     @FindBy(xpath = "//b[normalize-space()='Privacy Policy']")
     WebElement privacyPolicyUnderForm;
 
+    @FindBy(xpath = "//a[normalize-space()='login page']")
+    WebElement loginPageLinkUnderTitle;
+
 
     //action methods
     public void setFirstName(String fName) {
@@ -540,5 +543,9 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickPrivacyPolicyUnderForm() {
         privacyPolicyUnderForm.click();
+    }
+
+    public void clickLoginPageLinkUnderTitle() {
+        loginPageLinkUnderTitle.click();
     }
  }

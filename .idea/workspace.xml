@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.06.32.38.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.06.33.46.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_whenClickOnPrivacyPolicy_thenProperNavigation_20231217063253.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_whenClickOnPrivacyPolicy_thenProperNavigation_20231217063354.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_2_AccountRegisterHeaderValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_1_AccountRegisterHeaderValidationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-17.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-17.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_2_AccountRegisterHeaderValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/RegisterFunctionality_RF/TC_RF_023_2_AccountRegisterHeaderValidationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +171,7 @@
       <workItem from="1702425918070" duration="21373000" />
       <workItem from="1702479889167" duration="17535000" />
       <workItem from="1702743480637" duration="18286000" />
-      <workItem from="1702787603334" duration="3963000" />
+      <workItem from="1702787603334" duration="4681000" />
     </task>
     <servers />
   </component>
