@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-17.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-17.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_002_LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_002_LoginTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +176,7 @@
       <workItem from="1702425918070" duration="21373000" />
       <workItem from="1702479889167" duration="17535000" />
       <workItem from="1702743480637" duration="18286000" />
-      <workItem from="1702787603334" duration="9817000" />
+      <workItem from="1702787603334" duration="10136000" />
     </task>
     <servers />
   </component>
