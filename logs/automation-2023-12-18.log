@@ -14,3 +14,31 @@
 00:31:52.151 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ... create 'Login' Page
 00:31:52.207 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ... check the title on the My Account page
 00:31:52.210 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ***  END TC_LF_008_2_LoginTest ***
+00:46:00.104 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - 
+00:46:00.107 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ***  START TC_LF_009_LoginTest ***
+00:46:00.123 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... create Home Page
+00:46:00.202 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'My account' in navbar
+00:46:01.237 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'Register'
+00:46:01.247 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... create Account Registration Page
+00:46:01.247 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... generating user data:
+00:46:01.249 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - first name: OODQI
+00:46:01.249 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - last name: FKSQX
+00:46:01.249 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - email: eAZdt@gmail.com
+00:46:01.249 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - phone number: 9942934804
+00:46:01.250 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - password: DtkM@868, confirm password: DtkM@868
+00:46:01.250 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... setting user data to the corresponding fields
+00:46:01.828 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'accept policy rules' 
+00:46:03.051 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click 'Continue' button
+00:46:03.107 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'My account' in navbar
+00:46:04.307 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'Logout'
+00:46:04.358 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'My account' in navbar
+00:46:04.907 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'Login'
+00:46:04.908 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... create 'Login' Page
+00:46:04.998 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... setting users email
+00:46:05.072 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... setting users password
+00:46:06.153 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'Login'
+00:46:06.166 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click browser 'back <--' button
+00:46:06.745 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... from 'Registration' page click 'My Account' in right side menu
+00:46:06.745 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... create 'My Account' Page
+00:46:06.784 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... check the title on the My Account page
+00:46:06.786 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ***  END TC_LF_009_LoginTest ***
