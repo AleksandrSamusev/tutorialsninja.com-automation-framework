@@ -124,3 +124,26 @@
 21:17:52.476 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_004_LoginTest - ... click on 'Login'
 21:17:52.527 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_004_LoginTest - ... check the title on the My Account page
 21:17:52.530 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_004_LoginTest - ***  END TC_LF_004_LoginTest ***
+21:26:07.553 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - 
+21:26:07.558 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ***  START TC_LF_005_LoginTest ***
+21:26:07.588 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... create Home Page
+21:26:07.689 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'My account' in navbar
+21:26:09.317 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'Register'
+21:26:09.328 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... create Account Registration Page
+21:26:09.328 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... generating user data:
+21:26:09.329 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - first name: MSXTH
+21:26:09.330 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - last name: DYFDJ
+21:26:09.330 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - email: gbUhd@gmail.com
+21:26:09.330 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - phone number: 6818646517
+21:26:09.331 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - password: VPHN@650, confirm password: VPHN@650
+21:26:09.331 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... setting user data to the corresponding fields
+21:26:10.210 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'accept policy rules' 
+21:26:11.221 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click 'Continue' button
+21:26:11.320 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'My account' in navbar
+21:26:12.413 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'Logout'
+21:26:12.479 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'My account' in navbar
+21:26:12.980 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'Login'
+21:26:12.995 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... create 'Login' Page
+21:26:13.620 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'Login'
+21:26:13.674 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... check the title on the My Account page
+21:26:13.678 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ***  END TC_LF_005_LoginTest ***
