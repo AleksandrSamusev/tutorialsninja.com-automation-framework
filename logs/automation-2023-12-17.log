@@ -147,3 +147,15 @@
 21:26:13.620 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... click on 'Login'
 21:26:13.674 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ... check the title on the My Account page
 21:26:13.678 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_005_LoginTest - ***  END TC_LF_005_LoginTest ***
+21:58:06.897 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - 
+21:58:06.907 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ***  START TC_LF_006_LoginTest ***
+21:58:06.943 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ... create Home Page
+21:58:07.069 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ... click on 'My account' in navbar
+21:58:07.730 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ... click on 'Login'
+21:58:07.738 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ... create 'Login' Page
+21:58:07.738 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - --->   The link 'Forgotten Password' is present on the page   <---
+21:58:07.858 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - --->   The link 'Forgotten Password' is displayed on the page   <---
+21:58:08.443 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ... click on 'Forgotten Password' link
+21:58:08.450 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ... create 'Forgotten Password' page
+21:58:08.503 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ... checking the page title
+21:58:08.507 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_006_LoginTest - ***  END TC_LF_006_LoginTest ***

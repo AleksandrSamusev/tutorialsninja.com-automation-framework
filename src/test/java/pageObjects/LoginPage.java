@@ -31,6 +31,10 @@ public class LoginPage extends BasePage{
     @FindBy(xpath = "//div[contains(text(),'Warning: No match for E-Mail Address and/or Passwo')]")
     WebElement msgInvalidCredentials;
 
+    @Getter
+    @FindBy(linkText = "Forgotten Password")
+    WebElement linkForgottenPassword;
+
     public void setEmail(String email) {
         txtEmail.sendKeys(email);
     }
@@ -65,6 +69,10 @@ public class LoginPage extends BasePage{
         } catch (Exception ex) {
             return ex.getMessage();
         }
+    }
+
+    public void clickLinkForgottenPassword() {
+        linkForgottenPassword.click();
     }
 
 

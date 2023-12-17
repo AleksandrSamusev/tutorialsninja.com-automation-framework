@@ -10,8 +10,9 @@
             <!-- <class name="testCases.LoginFunctionality_LF.TC_LF_001_LoginTest"/>
             <class name="testCases.LoginFunctionality_LF.TC_LF_002_LoginTest"/>
             <class name="testCases.LoginFunctionality_LF.TC_LF_003_LoginTest"/>
-            <class name="testCases.LoginFunctionality_LF.TC_LF_004_LoginTest"/> -->
-            <class name="testCases.LoginFunctionality_LF.TC_LF_005_LoginTest"/>
+            <class name="testCases.LoginFunctionality_LF.TC_LF_004_LoginTest"/>
+            <class name="testCases.LoginFunctionality_LF.TC_LF_005_LoginTest"/> -->
+            <class name="testCases.LoginFunctionality_LF.TC_LF_006_LoginTest"/>
         </classes>
     </test>
 </suite>
