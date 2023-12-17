@@ -66,8 +66,9 @@
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_37_AccountRegisterFooterValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_38_AccountRegisterFooterValidationTest"/>
             <class name="testCases.RegisterFunctionality_RF.TC_RF_023_39_AccountRegisterFooterValidationTest"/>
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest"/> -->
-            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_40_AccountRegisterFooterValidationTest"/>
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_41_AccountRegisterFooterValidationTest"/> -->
+            <class name="testCases.RegisterFunctionality_RF.TC_RF_023_42_AccountRegisterFooterValidationTest"/>
             <!-- <class name="testCases.TC_002_LoginTest"/> -->
             <!-- <class name="testCases.TC_003_LoginDDT"/> -->
         </classes>

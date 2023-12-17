@@ -7,11 +7,11 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
 
-public class TC_RF_023_41_AccountRegisterFooterValidationTest extends BaseClass {
+public class TC_RF_023_42_AccountRegisterFooterValidationTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
     public void test_whenEmailFormatIncorrect_thenAccountNotCreated() {
         logger.info("");
-        logger.info("***  START TC_RF_023_41_AccountRegisterFooterValidationTest ***");
+        logger.info("***  START TC_RF_023_42_AccountRegisterFooterValidationTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -22,8 +22,8 @@ public class TC_RF_023_41_AccountRegisterFooterValidationTest extends BaseClass 
             AccountRegistrationPage registrationPage = new AccountRegistrationPage(driver);
             logger.info("... create Account Registration Page");
 
-            registrationPage.clickFooterMyAccount();
-            logger.info("... click on 'My Account' on footer");
+            registrationPage.clickFooterOrderHistory();
+            logger.info("... click on 'Order History' on footer");
 
             LoginPage loginPage = new LoginPage(driver);
 
@@ -34,6 +34,6 @@ public class TC_RF_023_41_AccountRegisterFooterValidationTest extends BaseClass 
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  END TC_RF_023_41_AccountRegisterFooterValidationTest ***");
+        logger.info("***  END TC_RF_023_42_AccountRegisterFooterValidationTest ***");
     }
 }
