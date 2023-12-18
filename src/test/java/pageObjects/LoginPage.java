@@ -32,6 +32,10 @@ public class LoginPage extends BasePage{
     WebElement msgInvalidCredentials;
 
     @Getter
+    @FindBy(xpath = "//div[contains(text(),'Warning: Your account has exceeded allowed number ')]")
+    WebElement msgAttemptsExceeded;
+
+    @Getter
     @FindBy(linkText = "Forgotten Password")
     WebElement linkForgottenPassword;
 
@@ -73,6 +77,14 @@ public class LoginPage extends BasePage{
 
     public void clickLinkForgottenPassword() {
         linkForgottenPassword.click();
+    }
+
+    public String getMessageAttemptsExceeded() {
+        try {
+            return msgAttemptsExceeded.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
     }
 
 

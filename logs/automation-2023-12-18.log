@@ -1,120 +1,32 @@
-00:27:14.820 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - 
-00:27:14.823 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ***  START TC_LF_008_1_LoginTest ***
-00:27:14.836 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... create Home Page
-00:27:14.923 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... click on 'My account' in navbar
-00:27:15.630 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... click on 'Login'
-00:27:15.631 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... create 'Login' Page
-00:27:15.687 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ... check the title on the My Account page
-00:27:15.689 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_1_LoginTest - ***  END TC_LF_008_1_LoginTest ***
-00:31:51.611 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - 
-00:31:51.614 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ***  START TC_LF_008_2_LoginTest ***
-00:31:51.628 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ... create Home Page
-00:31:51.712 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ... click on 'My account' in navbar
-00:31:52.150 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ... click on 'Login'
-00:31:52.151 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ... create 'Login' Page
-00:31:52.207 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ... check the title on the My Account page
-00:31:52.210 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest - ***  END TC_LF_008_2_LoginTest ***
-00:46:00.104 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - 
-00:46:00.107 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ***  START TC_LF_009_LoginTest ***
-00:46:00.123 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... create Home Page
-00:46:00.202 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'My account' in navbar
-00:46:01.237 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'Register'
-00:46:01.247 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... create Account Registration Page
-00:46:01.247 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... generating user data:
-00:46:01.249 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - first name: OODQI
-00:46:01.249 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - last name: FKSQX
-00:46:01.249 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - email: eAZdt@gmail.com
-00:46:01.249 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - phone number: 9942934804
-00:46:01.250 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - password: DtkM@868, confirm password: DtkM@868
-00:46:01.250 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... setting user data to the corresponding fields
-00:46:01.828 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'accept policy rules' 
-00:46:03.051 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click 'Continue' button
-00:46:03.107 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'My account' in navbar
-00:46:04.307 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'Logout'
-00:46:04.358 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'My account' in navbar
-00:46:04.907 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'Login'
-00:46:04.908 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... create 'Login' Page
-00:46:04.998 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... setting users email
-00:46:05.072 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... setting users password
-00:46:06.153 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click on 'Login'
-00:46:06.166 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... click browser 'back <--' button
-00:46:06.745 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... from 'Registration' page click 'My Account' in right side menu
-00:46:06.745 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... create 'My Account' Page
-00:46:06.784 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ... check the title on the My Account page
-00:46:06.786 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_009_LoginTest - ***  END TC_LF_009_LoginTest ***
-00:55:19.518 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - 
-00:55:19.521 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ***  START TC_LF_010_LoginTest ***
-00:55:19.536 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create Home Page
-00:55:19.618 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-00:55:20.648 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Register'
-00:55:20.654 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create Account Registration Page
-00:55:20.654 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... generating user data:
-00:55:20.655 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - first name: ZFVWR
-00:55:20.656 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - last name: ORHZC
-00:55:20.656 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - email: VvNcQ@gmail.com
-00:55:20.656 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - phone number: 6480934676
-00:55:20.656 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - password: yGHo@604, confirm password: yGHo@604
-00:55:20.657 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting user data to the corresponding fields
-00:55:21.225 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'accept policy rules' 
-00:55:22.212 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click 'Continue' button
-00:55:22.268 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-00:55:23.091 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Logout'
-00:55:23.145 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-00:55:23.710 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Login'
-00:55:23.711 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create 'Login' Page
-00:55:23.805 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting users email
-00:55:23.882 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting users password
-00:55:24.950 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Login'
-00:55:35.043 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - !! TEST FAILED !!
-01:00:24.259 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - 
-01:00:24.263 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ***  START TC_LF_010_LoginTest ***
-01:00:24.276 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create Home Page
-01:00:24.357 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-01:00:25.311 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Register'
-01:00:25.322 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create Account Registration Page
-01:00:25.322 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... generating user data:
-01:00:25.323 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - first name: FQFRY
-01:00:25.323 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - last name: UMAQI
-01:00:25.324 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - email: jBKjx@gmail.com
-01:00:25.324 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - phone number: 8020701679
-01:00:25.325 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - password: dtHJ@668, confirm password: dtHJ@668
-01:00:25.325 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting user data to the corresponding fields
-01:00:25.895 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'accept policy rules' 
-01:00:26.958 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click 'Continue' button
-01:00:27.014 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-01:00:27.871 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Logout'
-01:00:27.925 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-01:00:28.370 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Login'
-01:00:28.371 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create 'Login' Page
-01:00:28.465 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting users email
-01:00:28.538 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting users password
-01:00:29.406 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Login'
-01:00:39.472 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - !! TEST FAILED !!
-01:06:12.602 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - 
-01:06:12.605 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ***  START TC_LF_010_LoginTest ***
-01:06:12.622 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create Home Page
-01:06:12.709 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-01:06:14.391 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Register'
-01:06:14.397 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create Account Registration Page
-01:06:14.397 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... generating user data:
-01:06:14.398 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - first name: DCDUI
-01:06:14.398 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - last name: XWLLN
-01:06:14.398 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - email: lqSxL@gmail.com
-01:06:14.399 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - phone number: 5540872169
-01:06:14.399 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - password: MUBt@619, confirm password: MUBt@619
-01:06:14.399 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting user data to the corresponding fields
-01:06:14.988 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'accept policy rules' 
-01:06:15.937 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click 'Continue' button
-01:06:15.992 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-01:06:16.849 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Logout'
-01:06:16.902 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'My account' in navbar
-01:06:17.444 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Login'
-01:06:17.445 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... create 'Login' Page
-01:06:17.537 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting users email
-01:06:17.614 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... setting users password
-01:06:18.664 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Login'
-01:06:19.596 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click on 'Logout' from 'My account page'
-01:06:19.612 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... click browser 'back <--' button
-01:06:20.820 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... from 'My Account' page click 'My Account' in right side menu
-01:06:20.856 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ... check the title on the My Account page
-01:06:20.858 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_010_LoginTest - ***  END TC_LF_010_LoginTest ***
+02:04:36.912 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - 
+02:04:36.915 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ***  START TC_LF_012_LoginTest ***
+02:04:36.931 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... create Home Page
+02:04:37.015 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... click on 'My account' in navbar
+02:04:37.753 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... click on 'Login'
+02:04:37.754 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... create 'Login' Page
+02:04:37.863 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ATTEMPT: 1
+02:04:37.863 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... email stays the same: dRkdS@gmail <----
+02:04:37.863 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... setting wrong password: EIRo@930 <----
+02:04:38.668 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... click on 'Login'
+02:04:38.730 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... clear password input field
+02:04:38.730 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ATTEMPT: 2
+02:04:38.730 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... email stays the same: dRkdS@gmail <----
+02:04:38.730 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... setting wrong password: zuRp@676 <----
+02:04:39.309 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... click on 'Login'
+02:04:39.365 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... clear password input field
+02:04:39.365 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ATTEMPT: 3
+02:04:39.365 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... email stays the same: dRkdS@gmail <----
+02:04:39.365 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... setting wrong password: Lahx@520 <----
+02:04:40.214 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... click on 'Login'
+02:04:40.262 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... clear password input field
+02:04:40.262 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ATTEMPT: 4
+02:04:40.263 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... email stays the same: dRkdS@gmail <----
+02:04:40.263 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... setting wrong password: VzCN@072 <----
+02:04:40.840 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... click on 'Login'
+02:04:40.895 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... clear password input field
+02:04:40.895 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ATTEMPT: 5
+02:04:40.896 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... email stays the same: dRkdS@gmail <----
+02:04:40.896 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... setting wrong password: bHmD@836 <----
+02:04:41.484 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... click on 'Login'
+02:04:41.538 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... clear password input field
+02:04:51.572 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... check the title on the My Account page
