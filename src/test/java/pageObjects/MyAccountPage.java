@@ -27,6 +27,9 @@ public class MyAccountPage extends BasePage {
     @FindBy(xpath = "//h2[normalize-space()='My Account']")
     WebElement myAccountPageTitle;
 
+    @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='My Account']")
+    WebElement rightSideMyAccount;
+
     public boolean isMyAccountPageExists() {
         try {
             return msgConfirmation.isDisplayed();
@@ -50,6 +53,9 @@ public class MyAccountPage extends BasePage {
         } catch (Exception ex) {
             return ex.getMessage();
         }
+    }
+    public void clickRightSideMyAccount() {
+        rightSideMyAccount.click();
     }
 
 }
