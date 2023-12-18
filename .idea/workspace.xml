@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_012_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.03.41.57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/ChangePasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_016_LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loginFunctionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loginFunctionality.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-17.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-18.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.22.38.05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.23.45.17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.17.23.55.13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.00.27.07.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.00.31.44.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.00.45.52.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.00.55.13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.01.00.17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.01.06.02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/test_checkIfUserAbleToLoginUsingTabAndEnter_20231217103252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/test_checkIfUserAbleToLoginUsingTabAndEnter_20231217103518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/test_userStaysLoggedOutAfterClickGoBackInBrowser_20231218010039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/test_userStaysLoggedOutAfterClickGoBackInBrowser_20231218125535.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-18.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

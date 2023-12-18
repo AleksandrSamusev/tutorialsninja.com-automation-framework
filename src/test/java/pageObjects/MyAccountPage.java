@@ -30,6 +30,9 @@ public class MyAccountPage extends BasePage {
     @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='My Account']")
     WebElement rightSideMyAccount;
 
+    @FindBy(xpath = "//a[normalize-space()='Change your password']")
+    WebElement changeYourPassword;
+
     public boolean isMyAccountPageExists() {
         try {
             return msgConfirmation.isDisplayed();
@@ -56,6 +59,10 @@ public class MyAccountPage extends BasePage {
     }
     public void clickRightSideMyAccount() {
         rightSideMyAccount.click();
+    }
+
+    public void clickChangeYourPassword() {
+        changeYourPassword.click();
     }
 
 }

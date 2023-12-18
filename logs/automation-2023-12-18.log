@@ -30,3 +30,57 @@
 02:04:41.484 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... click on 'Login'
 02:04:41.538 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... clear password input field
 02:04:51.572 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_012_LoginTest - ... check the title on the My Account page
+03:42:07.456 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - 
+03:42:07.463 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ***  START TC_LF_016_LoginTest ***
+03:42:07.482 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... create Home Page
+03:42:07.579 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click on 'My account' in navbar
+03:42:08.702 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click on 'Register'
+03:42:08.714 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... create Account Registration Page
+03:42:08.714 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... generating user data:
+03:42:08.716 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - first name: THDVD
+03:42:08.716 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - last name: EHKIO
+03:42:08.716 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - email: pxZMT@gmail.com
+03:42:08.716 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - phone number: 6436636070
+03:42:08.716 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - password: jfna@346, confirm password: jfna@346
+03:42:08.716 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... setting user data to the corresponding fields
+03:42:09.371 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click on 'accept policy rules' 
+03:42:10.261 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click 'Continue' button
+03:42:10.705 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click 'My Account' at the right side menu
+03:42:10.715 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... create 'My Account' Page
+03:42:11.142 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click 'Change Your Password' at 'My Account' section
+03:42:11.150 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... create 'Change Password' Page
+03:42:11.150 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... generating new password: eOqH@682 <------
+03:42:11.234 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... setting new password to the 'Password' input field
+03:42:11.326 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... setting new password to the 'Password Confirm' input field
+03:42:15.046 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... check the title on the My Account page
+03:42:15.048 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ***  END TC_LF_016_LoginTest ***
+03:47:19.454 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - 
+03:47:19.457 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ***  START TC_LF_016_LoginTest ***
+03:47:19.481 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... create Home Page
+03:47:19.575 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click on 'My account' in navbar
+03:47:20.661 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click on 'Register'
+03:47:20.673 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... create Account Registration Page
+03:47:20.673 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... generating user data:
+03:47:20.674 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - first name: XZBWF
+03:47:20.675 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - last name: QYJBI
+03:47:20.675 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - email: NAWnJ@gmail.com
+03:47:20.675 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - phone number: 3416190563
+03:47:20.676 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - password: jzXV@098, confirm password: jzXV@098
+03:47:20.676 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... setting user data to the corresponding fields
+03:47:21.291 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click on 'accept policy rules' 
+03:47:22.184 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click 'Continue' button
+03:47:22.616 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click 'My Account' at the right side menu
+03:47:22.618 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... create 'My Account' Page
+03:47:23.044 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click 'Change Your Password' at 'My Account' section
+03:47:23.047 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... create 'Change Password' Page
+03:47:23.049 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... generating new password: rrry@312 <------
+03:47:23.134 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... setting new password to the 'Password' input field
+03:47:23.226 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... setting new password to the 'Password Confirm' input field
+03:47:24.795 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... login out
+03:47:25.329 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... click 'My Account' in navbar
+03:47:25.826 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - click 'Login' option
+03:47:25.929 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... sending email to 'E-Mail Address' input field: NAWnJ@gmail.com <---
+03:47:26.005 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... sending new password to 'Password' input field: rrry@312 <---
+03:47:26.851 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - click 'Login' button
+03:47:26.880 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ... check the title on the My Account page
+03:47:26.881 [main] INFO  testCases.LoginFunctionality_LF.TC_LF_016_LoginTest - ***  END TC_LF_016_LoginTest ***
