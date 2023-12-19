@@ -33,6 +33,9 @@ public class MyAccountPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Change your password']")
     WebElement changeYourPassword;
 
+    @FindBy(xpath = "//aside[@id='column-right']//a[normalize-space()='Logout']")
+    WebElement rightSideLogout;
+
     public boolean isMyAccountPageExists() {
         try {
             return msgConfirmation.isDisplayed();
@@ -63,6 +66,10 @@ public class MyAccountPage extends BasePage {
 
     public void clickChangeYourPassword() {
         changeYourPassword.click();
+    }
+
+    public void clickRightSideLogout() {
+        rightSideLogout.click();
     }
 
 }

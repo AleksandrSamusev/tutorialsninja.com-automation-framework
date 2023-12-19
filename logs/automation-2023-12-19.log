@@ -1,0 +1,22 @@
+03:17:39.497 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - 
+03:17:39.501 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ***  START TC_LG_001_LogoutTest ***
+03:17:39.519 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... create Home Page
+03:17:39.608 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... click on 'My account' in navbar
+03:17:40.437 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... click on 'Register'
+03:17:40.447 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... create Account Registration Page
+03:17:40.448 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... generating user data:
+03:17:40.449 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - first name: OJUQG
+03:17:40.449 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - last name: XBJXL
+03:17:40.449 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - email: UbwQR@gmail.com
+03:17:40.450 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - phone number: 9036567726
+03:17:40.450 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - password: xrAK@804, confirm password: xrAK@804
+03:17:40.450 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... setting user data to the corresponding fields
+03:17:41.183 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... click on 'accept policy rules' 
+03:17:42.646 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... click 'Continue' button
+03:17:42.718 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... click on 'My account' in navbar
+03:17:43.460 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... create 'Logout' Page
+03:17:43.940 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... click on 'Continue'
+03:17:43.951 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... checking if user redirected to the 'Home' page (checking page title)'
+03:17:43.952 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... checking that 'Logout' option is not displayed at the dropdown list
+03:17:43.969 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ... checking that 'Login' option is displayed at the dropdown list
+03:17:54.023 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest - ***  END TC_LG_001_LogoutTest ***
