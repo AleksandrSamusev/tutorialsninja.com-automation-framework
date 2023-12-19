@@ -1,5 +1,6 @@
 package pageObjects;
 
+import lombok.Getter;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -12,6 +13,9 @@ public class HomePage extends BasePage {
     //elements
     @FindBy(xpath = "//span[normalize-space()='My Account']")
     WebElement lnkMyAccount;
+
+    @FindBy(xpath = "//ul//ul//a[normalize-space()='My Account']")
+    WebElement optionMyAccount;
 
     @FindBy(xpath = "//a[normalize-space()='Register']")
     WebElement lnkRegister;
@@ -30,6 +34,10 @@ public class HomePage extends BasePage {
 
     public void clickLogin() {
         lnkLogin.click();
+    }
+
+    public void clickOptionMyAccount() {
+        optionMyAccount.click();
     }
 
 }

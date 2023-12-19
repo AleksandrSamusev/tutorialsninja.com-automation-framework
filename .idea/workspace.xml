@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.03.41.57.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/ChangePasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_016_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-2023-12-19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.18.51.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.25.41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.26.46.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.27.50.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.32.26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.33.35.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.36.10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.37.21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.39.03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.43.36.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.44.18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013347.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013622.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013730.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013915.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219014345.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219014427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_017_LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loginFunctionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loginFunctionality.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-18.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-18.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

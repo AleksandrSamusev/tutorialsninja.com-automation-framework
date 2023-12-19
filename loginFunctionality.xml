@@ -18,8 +18,9 @@
             <class name="testCases.LoginFunctionality_LF.TC_LF_008_2_LoginTest"/>
             <class name="testCases.LoginFunctionality_LF.TC_LF_009_LoginTest"/>
             <class name="testCases.LoginFunctionality_LF.TC_LF_010_LoginTest"/>
-            <class name="testCases.LoginFunctionality_LF.TC_LF_012_LoginTest"/> -->
-            <class name="testCases.LoginFunctionality_LF.TC_LF_016_LoginTest"/>
+            <class name="testCases.LoginFunctionality_LF.TC_LF_012_LoginTest"/>
+            <class name="testCases.LoginFunctionality_LF.TC_LF_016_LoginTest"/> -->
+            <class name="testCases.LoginFunctionality_LF.TC_LF_017_LoginTest"/>
         </classes>
     </test>
 </suite>
