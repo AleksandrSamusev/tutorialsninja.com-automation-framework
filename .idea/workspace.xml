@@ -5,27 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/automation-2023-12-19.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.18.51.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.25.41.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.26.46.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.27.50.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.32.26.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.33.35.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.36.10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.37.21.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.39.03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.43.36.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.44.18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013347.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013622.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013730.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013915.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219014345.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219014427.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/LoginFunctionality_LF/TC_LF_017_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logoutFunctionality.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_LogoutFromMyAccountDropdown_Then_UserLogout_20231219022956.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_LogoutFromMyAccountDropdown_Then_UserLogout_20231219023110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/LogoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/LogoutFunctionality_LG/TC_LG_001_LogoutTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginFunctionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loginFunctionality.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-19.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-19.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.02.04.28.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.03.41.57.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.18.03.47.12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.18.51.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.25.41.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.26.46.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.27.50.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.32.26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.33.35.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.02.29.33.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.36.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.02.30.47.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.37.21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.39.03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.43.36.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.44.18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.01.48.41.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test_UserGetsOneHourWarningAfter5LoginAttempts_20231218020451.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013347.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013622.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013730.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219013915.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219014345.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test_usersStaysLoggedInAfterCloseBrowserAndReopenApp_20231219014427.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,35 +68,36 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TC_RF_001_AccountRegistrationTest.test_account_registration.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages.executor&quot;: &quot;Run&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alex/development/java/tutorialsninja.com-automation-framework&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml.executor": "Run",
+    "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml.executor": "Run",
+    "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml.executor": "Run",
+    "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml.executor": "Run",
+    "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml.executor": "Run",
+    "TestNG.TC_RF_001_AccountRegistrationTest.test_account_registration.executor": "Run",
+    "TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/alex/development/java/tutorialsninja.com-automation-framework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml">
-    <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml">
+    <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialsninja.com-automation-framework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/datadriventests.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/loginFunctionality.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -95,9 +105,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialsninja.com-automation-framework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/loginFunctionality.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/logoutFunctionality.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -163,19 +173,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml" />
       <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" />
       <item itemvalue="TestNG.TC_RF_004_AccountRegisterUserDataTest.test_validation_messages" />
-      <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" />
       <item itemvalue="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" />
       <item itemvalue="TestNG.TC_RF_001_AccountRegisterUserDataTest.test_account_registration" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml" />
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" />
         <item itemvalue="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" />
         <item itemvalue="TestNG.TC_RF_004_AccountRegisterUserDataTest.test_validation_messages" />
         <item itemvalue="TestNG.TC_RF_001_AccountRegisterUserDataTest.test_account_registration" />
-        <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml" />
       </list>
     </recent_temporary>
   </component>
