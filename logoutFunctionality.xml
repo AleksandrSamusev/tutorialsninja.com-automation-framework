@@ -3,13 +3,14 @@
 <suite name="TutorialsNinjaSuite">
     <listeners>
         <listener class-name="utilities.ExtentReportManager"/>
-    </listeners>    
+    </listeners>
     <test name="TutorialsNinjaTest" thread-count="5">
         <parameter name="browser" value="chrome"/>
         <classes>
             <!-- <class name="testCases.LogoutFunctionality_LG.TC_LG_001_LogoutTest"/>
-            <class name="testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest"/> -->
-            <class name="testCases.LogoutFunctionality_LG.TC_LG_004_LogoutTest"/>
+            <class name="testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest"/>
+            <class name="testCases.LogoutFunctionality_LG.TC_LG_004_LogoutTest"/> -->
+            <class name="testCases.LogoutFunctionality_LG.TC_LG_005_LogoutTest"/>
         </classes>
     </test>
 </suite>
