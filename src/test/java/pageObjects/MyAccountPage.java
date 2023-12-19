@@ -1,5 +1,7 @@
 package pageObjects;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -53,12 +55,15 @@ public class MyAccountPage extends BasePage {
     public void clickLogout() {
         btnLogout.click();
     }
+
     public void clickContinue() {
         btnContinue.click();
     }
+
     public void clickNewsletter() {
         btnNewsletter.click();
     }
+
     public String getMyAccountPageTitle() {
         try {
             return myAccountPageTitle.getText();
@@ -66,6 +71,7 @@ public class MyAccountPage extends BasePage {
             return ex.getMessage();
         }
     }
+
     public void clickRightSideMyAccount() {
         rightSideMyAccount.click();
     }
@@ -84,6 +90,16 @@ public class MyAccountPage extends BasePage {
 
     public void clickHeaderMyAccount() {
         headerMyAccount.click();
+    }
+
+    public boolean isRightSideLogoutPresent() {
+        try {
+            driver.findElement(By.xpath(
+                    "//aside[@id='column-right']//a[normalize-space()='Logout']"));
+            return true;
+        } catch (NoSuchElementException ex) {
+            return false;
+        }
     }
 
 }

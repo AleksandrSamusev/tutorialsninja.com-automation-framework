@@ -10,8 +10,9 @@
             <!-- <class name="testCases.LogoutFunctionality_LG.TC_LG_001_LogoutTest"/>
             <class name="testCases.LogoutFunctionality_LG.TC_LG_002_LogoutTest"/>
             <class name="testCases.LogoutFunctionality_LG.TC_LG_004_LogoutTest"/>
-            <class name="testCases.LogoutFunctionality_LG.TC_LG_005_LogoutTest"/> -->
-            <class name="testCases.LogoutFunctionality_LG.TC_LG_006_LogoutTest"/>
+            <class name="testCases.LogoutFunctionality_LG.TC_LG_005_LogoutTest"/>
+            <class name="testCases.LogoutFunctionality_LG.TC_LG_006_LogoutTest"/> -->
+            <class name="testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest"/>
         </classes>
     </test>
 </suite>

@@ -70,3 +70,22 @@
 04:10:37.210 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_006_LogoutTest - ... click on 'My account' in navbar
 04:10:38.024 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_006_LogoutTest - ... click on 'Register' option
 04:10:48.173 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_006_LogoutTest - ***  END TC_LG_006_LogoutTest ***
+04:32:33.338 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - 
+04:32:33.341 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ***  START TC_LG_008_LogoutTest ***
+04:32:33.363 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... create Home Page
+04:32:33.455 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... click on 'My account' in navbar
+04:32:34.324 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... click on 'Register'
+04:32:34.331 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... create Account Registration Page
+04:32:34.331 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... generating user data:
+04:32:34.332 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - first name: IPQGC
+04:32:34.333 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - last name: MPCXK
+04:32:34.333 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - email: OidJR@gmail.com
+04:32:34.333 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - phone number: 8708754608
+04:32:34.333 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - password: JHrL@865, confirm password: JHrL@865
+04:32:34.333 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... setting user data to the corresponding fields
+04:32:34.959 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... click on 'accept policy rules' 
+04:32:35.900 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... click 'Continue' button
+04:32:35.976 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... click on 'My account' in navbar
+04:32:36.689 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... click on 'Logout'
+04:32:38.302 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... check the title on the My Account page
+04:32:38.317 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ***  END TC_LG_008_LogoutTest ***

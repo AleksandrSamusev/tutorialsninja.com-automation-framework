@@ -13,7 +13,21 @@ public class LogoutPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Continue']")
     WebElement bntContinue;
 
+    @FindBy(xpath = "//span[normalize-space()='My Account']")
+    WebElement headerMyAccount;
+
+    @FindBy(xpath = "//div[@id='top-links']//a[normalize-space()='Login']")
+    WebElement headerLogin;
+
     public void clickContinue() {
         bntContinue.click();
+    }
+
+    public void clickHeaderMyAccount() {
+        headerMyAccount.click();
+    }
+
+    public void clickHeaderLogin() {
+        headerLogin.click();
     }
 }
