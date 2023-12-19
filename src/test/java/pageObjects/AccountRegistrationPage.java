@@ -1,6 +1,8 @@
 package pageObjects;
 
 import lombok.Getter;
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -169,6 +171,8 @@ public class AccountRegistrationPage extends BasePage {
 
     @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Newsletter']")
     WebElement rightSideNewsletter;
+
+
 
     //footer elements
 
@@ -554,5 +558,14 @@ public class AccountRegistrationPage extends BasePage {
 
     public void clickLogout() {
         logout.click();
+    }
+
+    public boolean isLogoutLinkPresent() {
+        try {
+            driver.findElement(By.linkText("Logout"));
+            return true;
+        } catch (NoSuchElementException ex) {
+            return false;
+        }
     }
  }
