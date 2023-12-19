@@ -36,6 +36,12 @@ public class MyAccountPage extends BasePage {
     @FindBy(xpath = "//aside[@id='column-right']//a[normalize-space()='Logout']")
     WebElement rightSideLogout;
 
+    @FindBy(xpath = "//div[@id='top-links']//a[normalize-space()='Logout']")
+    WebElement headerLogout;
+
+    @FindBy(xpath = "//span[normalize-space()='My Account']")
+    WebElement headerMyAccount;
+
     public boolean isMyAccountPageExists() {
         try {
             return msgConfirmation.isDisplayed();
@@ -70,6 +76,14 @@ public class MyAccountPage extends BasePage {
 
     public void clickRightSideLogout() {
         rightSideLogout.click();
+    }
+
+    public void clickHeaderLogout() {
+        headerLogout.click();
+    }
+
+    public void clickHeaderMyAccount() {
+        headerMyAccount.click();
     }
 
 }

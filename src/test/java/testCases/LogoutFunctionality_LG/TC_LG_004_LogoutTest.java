@@ -5,11 +5,11 @@ import org.testng.annotations.Test;
 import pageObjects.*;
 import testBase.BaseClass;
 
-public class TC_LG_002_LogoutTest extends BaseClass {
+public class TC_LG_004_LogoutTest extends BaseClass {
     @Test(groups = {"Regression", "Master"})
-    public void test_When_LogoutFromMyAccountRightMenu_Then_UserLogout() {
+    public void test_When_LogoutAndClickBack_Then_UserStaysLogout() {
         logger.info("");
-        logger.info("***  START TC_LG_002_LogoutTest ***");
+        logger.info("***  START TC_LG_004_LogoutTest ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -45,29 +45,25 @@ public class TC_LG_002_LogoutTest extends BaseClass {
             logger.info("... click on 'accept policy rules' ");
             registrationPage.clickContinue();
             logger.info("... click 'Continue' button");
-            registrationPage.clickMyAccount();
-            logger.info("... click on 'My account' in navbar");
+
+            SuccessPage successPage = new SuccessPage(driver);
+            successPage.clickContinue();
 
             MyAccountPage myAccountPage = new MyAccountPage(driver);
-            myAccountPage.clickRightSideLogout();
+            myAccountPage.clickHeaderMyAccount();
+            myAccountPage.clickHeaderLogout();
+            driver.navigate().back();
+            myAccountPage.clickRightSideMyAccount();
 
-            LogoutPage logoutPage = new LogoutPage(driver);
-            logger.info("... create 'Logout' Page");
-            logoutPage.clickContinue();
-            logger.info("... click on 'Continue'");
+            LoginPage loginPage = new LoginPage(driver);
+            String msg = loginPage.getNewCustomerTitle();
 
-            String msg = driver.getTitle();
-            logger.info("... checking if user redirected to the 'Home' page (checking page title)'");
-            Assert.assertEquals(msg, "Your Store", "Title not match !! TEST FAILED !!");
-            logger.info("... checking that 'Logout' option is not displayed at the dropdown list");
-            Assert.assertTrue(homePage.isLoginPresent());
-            logger.info("... checking that 'Login' option is displayed at the dropdown list");
-            Assert.assertFalse(homePage.isLogoutPresent());
+            Assert.assertEquals(msg, "New Customer", "Title not match! TEST FAILED!");
 
         } catch (Exception ex) {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  END TC_LG_002_LogoutTest ***");
+        logger.info("***  END TC_LG_004_LogoutTest ***");
     }
 }
