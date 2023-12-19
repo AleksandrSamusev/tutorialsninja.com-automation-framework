@@ -19,6 +19,12 @@ public class LogoutPage extends BasePage {
     @FindBy(xpath = "//div[@id='top-links']//a[normalize-space()='Login']")
     WebElement headerLogin;
 
+    @FindBy(xpath = "//h1[normalize-space()='Account Logout']")
+    WebElement logoutPageTitle;
+
+    @FindBy(xpath = "//div[@id='common-success']//ul")
+    WebElement listBreadcrumbs;
+
     public void clickContinue() {
         bntContinue.click();
     }
@@ -29,5 +35,21 @@ public class LogoutPage extends BasePage {
 
     public void clickHeaderLogin() {
         headerLogin.click();
+    }
+
+    public String getLogoutPageTitle() {
+        try {
+            return logoutPageTitle.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public WebElement getListBreadcrumbs() {
+        try {
+            return this.listBreadcrumbs;
+        } catch (Exception ex) {
+            throw new RuntimeException("TEST FAILED");
+        }
     }
 }

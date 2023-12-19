@@ -89,3 +89,55 @@
 04:32:36.689 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... click on 'Logout'
 04:32:38.302 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ... check the title on the My Account page
 04:32:38.317 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_008_LogoutTest - ***  END TC_LG_008_LogoutTest ***
+05:03:01.346 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - 
+05:03:01.349 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ***  START TC_LG_009_LogoutTest ***
+05:03:01.379 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... create Home Page
+05:03:01.479 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'My account' in navbar
+05:03:02.318 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'Register'
+05:03:02.332 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... create Account Registration Page
+05:03:02.334 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... generating user data:
+05:03:02.335 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - first name: HAYXB
+05:03:02.336 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - last name: RZBQH
+05:03:02.336 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - email: wdHBB@gmail.com
+05:03:02.336 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - phone number: 9230956982
+05:03:02.336 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - password: PjhL@750, confirm password: PjhL@750
+05:03:02.336 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... setting user data to the corresponding fields
+05:03:03.055 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'accept policy rules' 
+05:03:27.041 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click 'Continue' button
+05:03:27.106 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'My account' in navbar
+05:03:27.871 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'Logout'
+05:06:12.300 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - 
+05:06:12.303 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ***  START TC_LG_009_LogoutTest ***
+05:06:12.327 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... create Home Page
+05:06:12.416 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'My account' in navbar
+05:06:13.287 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'Register'
+05:06:13.294 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... create Account Registration Page
+05:06:13.294 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... generating user data:
+05:06:13.296 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - first name: MWLHY
+05:06:13.296 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - last name: JQEPD
+05:06:13.296 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - email: JMkuh@gmail.com
+05:06:13.296 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - phone number: 2648213852
+05:06:13.297 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - password: WTdZ@716, confirm password: WTdZ@716
+05:06:13.297 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... setting user data to the corresponding fields
+05:06:13.976 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'accept policy rules' 
+05:06:14.914 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click 'Continue' button
+05:06:15.024 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'My account' in navbar
+05:06:15.785 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'Logout'
+05:07:48.710 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - 
+05:07:48.715 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ***  START TC_LG_009_LogoutTest ***
+05:07:48.736 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... create Home Page
+05:07:48.824 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'My account' in navbar
+05:07:49.661 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'Register'
+05:07:49.666 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... create Account Registration Page
+05:07:49.666 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... generating user data:
+05:07:49.667 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - first name: VPLLS
+05:07:49.667 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - last name: MNNYN
+05:07:49.668 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - email: YTijh@gmail.com
+05:07:49.668 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - phone number: 0965300020
+05:07:49.668 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - password: IKxw@298, confirm password: IKxw@298
+05:07:49.668 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... setting user data to the corresponding fields
+05:07:50.299 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'accept policy rules' 
+05:07:51.151 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click 'Continue' button
+05:07:51.206 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'My account' in navbar
+05:07:51.934 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ... click on 'Logout'
+05:07:52.025 [main] INFO  testCases.LogoutFunctionality_LG.TC_LG_009_LogoutTest - ***  END TC_LG_009_LogoutTest ***
