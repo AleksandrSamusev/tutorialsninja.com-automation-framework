@@ -68,3 +68,7 @@
 03:25:51.046 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ...click on 'Qafox.com' on the top of the page
 03:25:51.046 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ...validating redirection to Home Page
 03:25:51.074 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ***  END TC_HP_003_HomePageTest ***
+03:40:51.314 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_004_HomePageTest - 
+03:40:51.325 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_004_HomePageTest - ***  START TC_HP_004_HomePageTest ***
+03:40:51.341 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_004_HomePageTest - ... create Home Page
+03:40:52.747 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_004_HomePageTest - ***  END TC_HP_004_HomePageTest ***

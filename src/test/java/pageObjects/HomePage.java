@@ -44,6 +44,9 @@ public class HomePage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Show AllDesktops']")
     WebElement menuShowAllDesktops;
 
+    @FindBy(xpath = "//a[normalize-space()='PC (0)']")
+    WebElement lnkEmptyCategoryPC0;
+
     //action methods
     public void clickMyAccount() {
         lnkMyAccount.click();
@@ -93,6 +96,10 @@ public class HomePage extends BasePage {
 
     public void clickMenuShowAllDesktops() {
         menuShowAllDesktops.click();
+    }
+
+    public void clickPC0() {
+        lnkEmptyCategoryPC0.click();
     }
 
 }
