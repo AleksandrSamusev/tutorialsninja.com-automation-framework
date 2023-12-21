@@ -51,6 +51,6 @@ public class TC_HP_006_HomePageTest extends BaseClass {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  END TC_HP_006_HomePageTest ***"); 
+        logger.info("***  END TC_HP_006_HomePageTest ***");
     }
 }

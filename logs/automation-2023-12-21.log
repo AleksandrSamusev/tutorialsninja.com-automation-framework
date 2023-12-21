@@ -1,4 +1,7 @@
-04:19:13.727 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_006_HomePageTest - 
-04:19:13.731 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_006_HomePageTest - ***  START TC_HP_006_HomePageTest ***
-04:19:13.753 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_006_HomePageTest - ... create Home Page
-04:19:17.813 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_006_HomePageTest - ***  END TC_HP_006_HomePageTest ***
+05:26:34.189 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_008_HomePageTest - 
+05:26:34.192 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_008_HomePageTest - ***  START TC_HP_008_HomePageTest ***
+05:26:34.209 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_008_HomePageTest - ... create Home Page
+05:26:34.297 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_008_HomePageTest - ...click on 'Desktops' in page menu
+05:26:35.401 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_008_HomePageTest - ... click 'Show All Desktops' option
+05:26:35.828 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_008_HomePageTest - ...click 'Home' icon in breadcrumbs
+05:26:35.860 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_008_HomePageTest - ***  END TC_HP_008_HomePageTest ***

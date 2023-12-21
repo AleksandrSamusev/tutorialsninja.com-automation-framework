@@ -15,6 +15,9 @@ public class DesktopsPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Qafox.com']")
     WebElement logo;
 
+    @FindBy(xpath = "//*[@id=\"product-category\"]/ul/li[1]/a")
+    WebElement iconHome;
+
     public DesktopsPage(WebDriver driver) {
         super(driver);
     }
@@ -33,5 +36,9 @@ public class DesktopsPage extends BasePage {
 
     public void clickLogo() {
         logo.click();
+    }
+
+    public void clickIconHome() {
+        iconHome.click();
     }
 }

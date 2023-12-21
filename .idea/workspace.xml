@@ -5,14 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.03.58.26.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.19.05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_006_HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.31.11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.33.00.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.34.40.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.37.06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.39.57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.40.32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.42.51.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.44.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.45.26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.46.09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.48.47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.50.05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.52.22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.52.51.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.53.42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.57.38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.01.06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.01.41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.02.08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.03.04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.03.35.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.04.26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.04.59.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.07.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.10.22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.11.41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.16.31.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.17.39.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.19.05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.20.06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221043124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221043317.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221043454.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221043722.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221044010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221044045.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221044305.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221044417.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221044549.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221044621.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221044857.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221045023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221045232.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221045300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221045400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221045749.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221050115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221050151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221050222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221050319.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221050348.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221050436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221050507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221050716.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221051148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221051639.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221051747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221051914.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickHomeIconInBreadcrumbs_Then_RedirectToHomePage_20231221052015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_008_HomePageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homePageFunctionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homePageFunctionality.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-19.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-21.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-21.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_004_HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_004_HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/DesktopsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/DesktopsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_006_HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_006_HomePageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +239,7 @@
       <workItem from="1702787603334" duration="14887000" />
       <workItem from="1702853171583" duration="6256000" />
       <workItem from="1703114193042" duration="158000" />
-      <workItem from="1703114448270" duration="12081000" />
+      <workItem from="1703114448270" duration="15785000" />
     </task>
     <servers />
   </component>

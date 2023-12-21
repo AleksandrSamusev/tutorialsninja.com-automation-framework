@@ -11,8 +11,9 @@
             <class name="testCases.HomePageFunctionality_HP.TC_HP_002_HomePageTest"/>
             <class name="testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest"/>
             <class name="testCases.HomePageFunctionality_HP.TC_HP_004_HomePageTest"/>
-            <class name="testCases.HomePageFunctionality_HP.TC_HP_006_HomePageTest"/> -->
             <class name="testCases.HomePageFunctionality_HP.TC_HP_006_HomePageTest"/>
+            <class name="testCases.HomePageFunctionality_HP.TC_HP_006_HomePageTest"/> -->
+            <class name="testCases.HomePageFunctionality_HP.TC_HP_008_HomePageTest"/>
         </classes>
     </test>
 </suite>
