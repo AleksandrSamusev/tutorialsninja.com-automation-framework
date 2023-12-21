@@ -9,6 +9,9 @@ public class DesktopsPage extends BasePage {
     @FindBy(xpath = "//h2[normalize-space()='Desktops']")
     WebElement desktopTitle;
 
+    @FindBy(xpath = "//div[3]//div[1]//div[2]//div[2]//button[1]")
+    WebElement btnAddToCart;
+
     public DesktopsPage(WebDriver driver) {
         super(driver);
     }
@@ -19,5 +22,9 @@ public class DesktopsPage extends BasePage {
         } catch (Exception ex) {
             return ex.getMessage();
         }
+    }
+
+    public void clickAddToCart() {
+        btnAddToCart.click();
     }
 }

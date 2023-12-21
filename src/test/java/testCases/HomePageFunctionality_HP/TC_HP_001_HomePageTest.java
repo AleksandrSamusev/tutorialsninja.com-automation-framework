@@ -22,7 +22,7 @@ public class TC_HP_001_HomePageTest extends BaseClass {
             searchPage.clickLnkShoppingCart();
 
             ShoppingCartPage shoppingCartPage = new ShoppingCartPage(driver);
-            shoppingCartPage.clickBtnContinueShopping();
+            shoppingCartPage.clickContinueShopping();
 
             Assert.assertEquals(driver.getCurrentUrl(),
                     "https://tutorialsninja.com/demo/index.php?route=common/home");

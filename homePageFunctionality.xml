@@ -7,7 +7,8 @@
     <test name="TutorialsNinjaTest" thread-count="5">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest"/>
+            <!-- <class name="testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest"/> -->
+            <class name="testCases.HomePageFunctionality_HP.TC_HP_002_HomePageTest"/>
         </classes>
     </test>
 </suite>

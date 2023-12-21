@@ -44,6 +44,9 @@ public class MyAccountPage extends BasePage {
     @FindBy(xpath = "//span[normalize-space()='My Account']")
     WebElement headerMyAccount;
 
+    @FindBy(xpath = "//a[normalize-space()='Qafox.com']")
+    WebElement logo;
+
     public boolean isMyAccountPageExists() {
         try {
             return msgConfirmation.isDisplayed();
@@ -100,6 +103,10 @@ public class MyAccountPage extends BasePage {
         } catch (NoSuchElementException ex) {
             return false;
         }
+    }
+
+    public void clickLogo() {
+        logo.click();
     }
 
 }

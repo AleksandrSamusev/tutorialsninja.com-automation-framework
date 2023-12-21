@@ -36,6 +36,14 @@ public class HomePage extends BasePage {
     @FindBy(xpath = "//div[@id='search']//button[@type='button']")
     WebElement btnSearch;
 
+    @Getter
+    @FindBy(xpath = "//a[normalize-space()='Desktops']")
+    WebElement menuDesktops;
+
+    @Getter
+    @FindBy(xpath = "//a[normalize-space()='Show AllDesktops']")
+    WebElement menuShowAllDesktops;
+
     //action methods
     public void clickMyAccount() {
         lnkMyAccount.click();
@@ -77,6 +85,14 @@ public class HomePage extends BasePage {
 
     public void clickSearch() {
         btnSearch.click();
+    }
+
+    public void clickMenuDesktops() {
+        menuDesktops.click();
+    }
+
+    public void clickMenuShowAllDesktops() {
+        menuShowAllDesktops.click();
     }
 
 }

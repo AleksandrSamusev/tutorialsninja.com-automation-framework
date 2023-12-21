@@ -13,7 +13,14 @@ public class ShoppingCartPage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='Continue Shopping']")
     WebElement btnContinueShopping;
 
-    public void clickBtnContinueShopping() {
+    @FindBy(xpath = "//a[contains(text(),'Checkout')]")
+    WebElement btnCheckout;
+
+    public void clickContinueShopping() {
         btnContinueShopping.click();
+    }
+
+    public void clickCheckout() {
+        btnCheckout.click();
     }
 }
