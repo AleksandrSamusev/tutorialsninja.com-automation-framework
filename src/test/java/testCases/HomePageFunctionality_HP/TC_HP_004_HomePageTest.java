@@ -4,7 +4,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.DesktopsPCPage;
-import pageObjects.DesktopsPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 

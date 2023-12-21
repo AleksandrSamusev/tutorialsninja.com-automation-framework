@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/DesktopsPCPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_004_HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.03.58.26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.04.19.05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_006_HomePageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homePageFunctionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homePageFunctionality.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-21.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-21.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_004_HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_004_HomePageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +182,7 @@
       <workItem from="1702787603334" duration="14887000" />
       <workItem from="1702853171583" duration="6256000" />
       <workItem from="1703114193042" duration="158000" />
-      <workItem from="1703114448270" duration="9959000" />
+      <workItem from="1703114448270" duration="12081000" />
     </task>
     <servers />
   </component>
