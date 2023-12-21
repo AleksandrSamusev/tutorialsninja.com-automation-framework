@@ -59,3 +59,12 @@
 03:02:54.527 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_002_HomePageTest - ... click 'Continue' on 'Checkout success' Page
 03:02:54.527 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_002_HomePageTest - ... validating redirection to the Home Page
 03:02:54.550 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_002_HomePageTest - ***  END TC_HP_002_HomePageTest ***
+03:25:49.339 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - 
+03:25:49.342 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ***  START TC_HP_003_HomePageTest ***
+03:25:49.361 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ... create Home Page
+03:25:49.464 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ...click 'Desktops' in menu
+03:25:50.594 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ...click 'Show All Desktops' option in dropdown
+03:25:50.595 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ... create 'Desktops' Page
+03:25:51.046 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ...click on 'Qafox.com' on the top of the page
+03:25:51.046 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ...validating redirection to Home Page
+03:25:51.074 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_003_HomePageTest - ***  END TC_HP_003_HomePageTest ***
