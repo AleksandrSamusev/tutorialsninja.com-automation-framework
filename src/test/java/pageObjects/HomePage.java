@@ -47,6 +47,9 @@ public class HomePage extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='PC (0)']")
     WebElement lnkEmptyCategoryPC0;
 
+    @FindBy(xpath = "//span[normalize-space()='Checkout']")
+    WebElement btnHeaderCheckout;
+
     //action methods
     public void clickMyAccount() {
         lnkMyAccount.click();
@@ -100,6 +103,10 @@ public class HomePage extends BasePage {
 
     public void clickPC0() {
         lnkEmptyCategoryPC0.click();
+    }
+
+    public void clickCheckout() {
+        btnHeaderCheckout.click();
     }
 
 }
