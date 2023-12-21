@@ -1,5 +1,6 @@
 package pageObjects;
 
+import lombok.Getter;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -27,6 +28,13 @@ public class HomePage extends BasePage {
 
     @FindBy(xpath = "//a[normalize-space()='Logout']")
     WebElement lnkLogout;
+
+    @Getter
+    @FindBy(xpath = "//input[@placeholder='Search']")
+    WebElement txtSearchInput;
+
+    @FindBy(xpath = "//div[@id='search']//button[@type='button']")
+    WebElement btnSearch;
 
     //action methods
     public void clickMyAccount() {
@@ -66,4 +74,9 @@ public class HomePage extends BasePage {
             return false;
         }
     }
+
+    public void clickSearch() {
+        btnSearch.click();
+    }
+
 }

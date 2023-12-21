@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.19.05.02.54.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_LogoutPageValidation_20231219050327.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/LogoutFunctionality_LG/TC_LG_009_LogoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homePageFunctionality.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-2023-12-21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.01.11.10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/test_When_ClickContinueShoppingOnCartPage_Then_RedirectToHomePage_20231221011129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/ShoppingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/HomePageFunctionality_HP/TC_HP_001_HomePageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logoutFunctionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/logoutFunctionality.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-19.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-19.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/LogoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/LogoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml.executor": "Run",
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/datadriventests.xml.executor": "Run",
+    "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/homePageFunctionality.xml.executor": "Run",
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml.executor": "Run",
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml.executor": "Run",
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml.executor": "Run",
@@ -70,7 +73,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/homePageFunctionality.xml">
+    <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/homePageFunctionality.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialsninja.com-automation-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/homePageFunctionality.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialsninja.com-automation-framework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/loginFunctionality.xml" />
@@ -85,24 +98,6 @@
       <module name="tutorialsninja.com-automation-framework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/logoutFunctionality.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC_RF_001_AccountRegisterUserDataTest.test_account_registration" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialsninja.com-automation-framework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testCases.RegisterFunctionality_RF.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testCases.RegisterFunctionality_RF" />
-      <option name="MAIN_CLASS_NAME" value="testCases.RegisterFunctionality_RF.TC_RF_001_AccountRegisterUserDataTest" />
-      <option name="METHOD_NAME" value="test_account_registration" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -149,26 +144,26 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/homePageFunctionality.xml" />
       <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml" />
       <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" />
       <item itemvalue="TestNG.TC_RF_004_AccountRegisterUserDataTest.test_validation_messages" />
       <item itemvalue="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" />
-      <item itemvalue="TestNG.TC_RF_001_AccountRegisterUserDataTest.test_account_registration" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/homePageFunctionality.xml" />
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml" />
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" />
         <item itemvalue="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" />
         <item itemvalue="TestNG.TC_RF_004_AccountRegisterUserDataTest.test_validation_messages" />
-        <item itemvalue="TestNG.TC_RF_001_AccountRegisterUserDataTest.test_account_registration" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-86fc8109" />
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
       </set>
     </attachedChunks>
   </component>
@@ -187,6 +182,8 @@
       <workItem from="1702743480637" duration="18286000" />
       <workItem from="1702787603334" duration="14887000" />
       <workItem from="1702853171583" duration="6256000" />
+      <workItem from="1703114193042" duration="158000" />
+      <workItem from="1703114448270" duration="2481000" />
     </task>
     <servers />
   </component>

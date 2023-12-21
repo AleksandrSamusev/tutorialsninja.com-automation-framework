@@ -1,0 +1,12 @@
+01:11:18.223 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - 
+01:11:18.226 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - ***  START TC_HP_001_HomePageTest ***
+01:11:18.241 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - ... create Home Page
+01:11:29.619 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - !! TEST FAILED !!
+01:13:22.252 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - 
+01:13:22.258 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - ***  START TC_HP_001_HomePageTest ***
+01:13:22.280 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - ... create Home Page
+01:13:34.339 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - !! TEST FAILED !!
+01:15:49.583 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - 
+01:15:49.586 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - ***  START TC_HP_001_HomePageTest ***
+01:15:49.605 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - ... create Home Page
+01:15:52.650 [main] INFO  testCases.HomePageFunctionality_HP.TC_HP_001_HomePageTest - ***  END TC_HP_001_HomePageTest ***
