@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebd5c83-2fc8-40ae-9eef-d56f6cfc74e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/CheckoutFunctionality_CO/TC_CO_005_CheckoutTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkoutFunctionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkoutFunctionality.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation-2023-12-22.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation-2023-12-22.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.05.26.27.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.06.00.20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.21.06.00.59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.22.02.46.54.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Test-Report-2023.12.22.07.31.40.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.22.03.03.53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.22.03.22.36.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2023.12.22.03.34.32.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test_When_ClickCheckoutAndNoProducts_Then_ShoppingCartIsEmpty_20231221060030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/CheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/CheckoutPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/HP_LP3065_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HP_LP3065_Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/CheckoutFunctionality_CO/TC_CO_003_CheckoutTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/CheckoutFunctionality_CO/TC_CO_003_CheckoutTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +65,7 @@
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml.executor": "Run",
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml.executor": "Run",
     "TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/master.xml.executor": "Run",
+    "TestNG.TC_CO_005_CheckoutTests.executor": "Run",
     "TestNG.TC_RF_001_AccountRegistrationTest.test_account_registration.executor": "Run",
     "TestNG.TC_RF_004_ProperValidationMessagesTest.test_validation_messages.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
@@ -108,23 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_CO_005_CheckoutTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialsninja.com-automation-framework" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/master.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.CheckoutFunctionality_CO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases.CheckoutFunctionality_CO" />
+      <option name="MAIN_CLASS_NAME" value="testCases.CheckoutFunctionality_CO.TC_CO_005_CheckoutTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
-      <listeners>
-        <listener class="org.testng.reporters.EmailableReporter" />
-      </listeners>
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,17 +142,17 @@
     <list>
       <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/checkoutFunctionality.xml" />
       <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/homePageFunctionality.xml" />
+      <item itemvalue="TestNG.TC_CO_005_CheckoutTests" />
       <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml" />
       <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" />
-      <item itemvalue="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/checkoutFunctionality.xml" />
+        <item itemvalue="TestNG.TC_CO_005_CheckoutTests" />
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/homePageFunctionality.xml" />
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/logoutFunctionality.xml" />
         <item itemvalue="TestNG.C:/Users/samus/development/Selenium/tutorialsninja.com-automation-framework/loginFunctionality.xml" />
-        <item itemvalue="TestNG./home/alex/development/java/tutorialsninja.com-automation-framework/master.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +179,7 @@
       <workItem from="1702787603334" duration="14887000" />
       <workItem from="1702853171583" duration="6256000" />
       <workItem from="1703114193042" duration="158000" />
-      <workItem from="1703114448270" duration="20668000" />
+      <workItem from="1703114448270" duration="33762000" />
     </task>
     <servers />
   </component>

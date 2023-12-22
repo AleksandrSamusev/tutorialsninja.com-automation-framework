@@ -1,7 +1,7 @@
 package pageObjects;
 
 import lombok.Getter;
-import lombok.Setter;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -59,6 +59,53 @@ public class CheckoutPage extends BasePage {
     @FindBy(xpath = "//input[@id='button-confirm']")
     WebElement btnConfirmOrder;
 
+    @FindBy(xpath = "//label[normalize-space()='I want to use an existing address']//input[@name='shipping_address']")
+    WebElement step3radioButtonExistingAddress;
+
+    @FindBy(xpath = "//*[@id=\"collapse-shipping-address\"]/div/form/div[1]/label")
+    WebElement textExistingAddress;
+
+    @FindBy(xpath = "//input[@name='shipping_method']")
+    WebElement step4radioButtonShippingRate;
+
+    @FindBy(xpath = "//*[@id=\"collapse-shipping-method\"]/div/div[1]/label")
+    WebElement textShippingRate;
+
+    @FindBy(xpath = "//input[@name='payment_method']")
+    WebElement step5radioButtonCash;
+
+    @FindBy(xpath = "//*[@id=\"collapse-payment-method\"]/div/div[1]/label")
+    WebElement textCashOnDelivery;
+
+    // conf locators
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tbody/tr/td[1]/a")
+    WebElement confProductName;
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tbody/tr/td[1]/small")
+    WebElement confDeliveryDate;
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tbody/tr/td[2]")
+    WebElement confModel;
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tbody/tr/td[3]")
+    WebElement confQuantity;
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tbody/tr/td[4]")
+    WebElement confUnitPrice;
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tbody/tr/td[5]")
+    WebElement confTotal;
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tfoot/tr[1]/td[2]")
+    WebElement confSubTotal;
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tfoot/tr[2]/td[2]")
+    WebElement confFlatShippingRate;
+
+    @FindBy(xpath = "//*[@id=\"collapse-checkout-confirm\"]/div/div[1]/table/tfoot/tr[3]/td[2]")
+    WebElement confTotalEnd;
+
     public void setFirstName(String fName) {
         inputFirstName.sendKeys(fName);
     }
@@ -111,5 +158,114 @@ public class CheckoutPage extends BasePage {
         btnConfirmOrder.click();
     }
 
+    public boolean isRadioButtonStep3ExistingAddressSelected() {
+        return step3radioButtonExistingAddress.isSelected();
+    }
 
+    public String getTextExistingAddress() {
+        try {
+            return textExistingAddress.getText();
+        } catch (NoSuchElementException ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public boolean isStep4radioButtonShippingRateSelected() {
+        return step4radioButtonShippingRate.isSelected();
+    }
+
+    public String getTextShippingRate() {
+        try {
+            return textShippingRate.getText();
+        } catch (NoSuchElementException ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public boolean isStep5radioButtonCashSelected() {
+        return step5radioButtonCash.isSelected();
+    }
+
+    public String getTextCashOnDelivery() {
+        try {
+            return textCashOnDelivery.getText();
+        } catch (NoSuchElementException ex) {
+            return ex.getMessage();
+        }
+    }
+
+
+    // conf locators
+
+    public String getConfProductName() {
+        try {
+            return confProductName.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getConfDeliveryDate() {
+        try {
+            return confDeliveryDate.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getConfModel() {
+        try {
+            return confModel.getText();
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
+
+    public String getConfQuantity() {
+        try {
+            return confQuantity.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getConfUnitPrice() {
+        try {
+            return confUnitPrice.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getConfTotal() {
+        try {
+            return confTotal.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getConfSubTotal() {
+        try {
+            return confSubTotal.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getConfFlatShippingRate() {
+        try {
+            return confFlatShippingRate.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getConfTotalEnd() {
+        try {
+            return confTotalEnd.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
 }

@@ -25,6 +25,23 @@ public class HP_LP3065_Page extends BasePage {
     @FindBy(xpath = "//a[@title='Checkout']//i")
     WebElement headerCheckout;
 
+    //actual locators
+
+    @FindBy(xpath = "//*[@id=\"content\"]/div/div[2]/ul[2]/li[1]/h2")
+    WebElement actUnitPrice;
+
+    @FindBy(xpath = "//*[@id=\"input-quantity\"]")
+    WebElement actQuantity;
+
+    @FindBy(xpath = "//*[@id=\"input-option225\"]")
+    WebElement actDeliveryDate;
+
+    @FindBy(xpath = "//h1[normalize-space()='HP LP3065']")
+    WebElement actProductName;
+
+    @FindBy(xpath = "//li[normalize-space()='Product Code:Product 21']")
+    WebElement actModel;
+
 
 
     public void clickAddToCart() {
@@ -45,5 +62,46 @@ public class HP_LP3065_Page extends BasePage {
 
     public void clickHeaderCheckout() {
         headerCheckout.click();
+    }
+
+    public String getActModel() {
+        try {
+            String[] result = actModel.getText().split(":");
+            return result[1];
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getActUnitPrice() {
+        try {
+            return actUnitPrice.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getActQuantity() {
+        try {
+            return actQuantity.getAttribute("value");
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getActDeliveryDate() {
+        try {
+            return actDeliveryDate.getAttribute("value");
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
+    }
+
+    public String getActProductName() {
+        try {
+            return actProductName.getText();
+        } catch (Exception ex) {
+            return ex.getMessage();
+        }
     }
 }
