@@ -11,7 +11,9 @@ public class SearchPage extends BasePage {
     }
 
     @FindBy(xpath = "//div[@class='product-layout product-grid col-lg-3 col-md-3 col-sm-6 col-xs-12']//button[1]")
+
     WebElement btnAddToCard;
+
 
     @FindBy(xpath = "//a[normalize-space()='shopping cart']")
     WebElement lnkShoppingCart;
