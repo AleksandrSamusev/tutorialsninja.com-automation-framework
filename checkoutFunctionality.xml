@@ -8,8 +8,9 @@
         <parameter name="browser" value="chrome"/>
         <classes>
             <!-- <class name="testCases.CheckoutFunctionality_CO.TC_CO_001_CheckoutTests"/>
-            <class name="testCases.CheckoutFunctionality_CO.TC_CO_002_CheckoutTests"/> -->
-            <class name="testCases.CheckoutFunctionality_CO.TC_CO_003_CheckoutTests"/>
+            <class name="testCases.CheckoutFunctionality_CO.TC_CO_002_CheckoutTests"/>
+            <class name="testCases.CheckoutFunctionality_CO.TC_CO_003_CheckoutTests"/> -->
+            <class name="testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests"/>
         </classes>
     </test>
 </suite>

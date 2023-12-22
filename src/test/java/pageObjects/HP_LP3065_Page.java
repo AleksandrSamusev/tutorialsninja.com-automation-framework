@@ -20,7 +20,12 @@ public class HP_LP3065_Page extends BasePage {
     WebElement btnHeaderShoppingCart;
 
     @FindBy(xpath = "//strong[normalize-space()='Checkout']")
+    WebElement blockCheckout;
+
+    @FindBy(xpath = "//a[@title='Checkout']//i")
     WebElement headerCheckout;
+
+
 
     public void clickAddToCart() {
         btnAddToCart.click();
@@ -32,6 +37,10 @@ public class HP_LP3065_Page extends BasePage {
 
     public void clickBtnHeaderShoppingCart() {
         btnHeaderShoppingCart.click();
+    }
+
+    public void clickBlockCheckout() {
+        blockCheckout.click();
     }
 
     public void clickHeaderCheckout() {

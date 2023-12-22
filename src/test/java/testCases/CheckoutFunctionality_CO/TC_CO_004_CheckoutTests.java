@@ -5,11 +5,11 @@ import org.testng.annotations.Test;
 import pageObjects.*;
 import testBase.BaseClass;
 
-public class TC_CO_003_CheckoutTests extends BaseClass {
+public class TC_CO_004_CheckoutTests extends BaseClass {
     @Test(groups = {"Regression", "Master"})
-    public void test_When_ClickCheckoutInHeader_Then_CheckoutPage() {
+    public void test_When_ClickCheckoutInNavbar_Then_CheckoutPage() {
         logger.info("");
-        logger.info("***  START TC_CO_003_CheckoutTests ***");
+        logger.info("***  START TC_CO_004_CheckoutTests ***");
         try {
             HomePage homePage = new HomePage(driver);
             logger.info("... create Home Page");
@@ -68,10 +68,9 @@ public class TC_CO_003_CheckoutTests extends BaseClass {
             logger.info("... create new Product Page");
             hpLp3065Page.clickAddToCart();
             logger.info("...click 'Add to cart' in Product page");
-            hpLp3065Page.clickBtnHeaderShoppingCart();
-            logger.info("...click 'Shopping Cart' in Product page header");
-            hpLp3065Page.clickBlockCheckout();
-            logger.info("...click 'Checkout' option");
+            hpLp3065Page.clickHeaderCheckout();
+            logger.info("...click 'Checkout' in Product page navbar");
+
             Assert.assertEquals(driver.getCurrentUrl(),
                     "https://tutorialsninja.com/demo/index.php?route=checkout/checkout");
             Assert.assertEquals(driver.getTitle(), "Checkout");
@@ -80,6 +79,6 @@ public class TC_CO_003_CheckoutTests extends BaseClass {
             logger.info("!! TEST FAILED !!");
             Assert.fail();
         }
-        logger.info("***  END TC_CO_003_CheckoutTests ***");
+        logger.info("***  END TC_CO_004_CheckoutTests ***");
     }
 }

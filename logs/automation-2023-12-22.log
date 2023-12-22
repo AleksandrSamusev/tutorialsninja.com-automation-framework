@@ -59,3 +59,30 @@
 03:22:50.597 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_003_CheckoutTests - ...click 'Shopping Cart' in Product page header
 03:22:51.613 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_003_CheckoutTests - ...click 'Checkout' option
 03:22:51.631 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_003_CheckoutTests - ***  END TC_CO_003_CheckoutTests ***
+03:34:41.514 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - 
+03:34:41.519 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ***  START TC_CO_004_CheckoutTests ***
+03:34:41.539 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... create Home Page
+03:34:41.658 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... click on 'My account' in navbar
+03:34:42.759 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... click on 'Register'
+03:34:42.765 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... create Account Registration Page
+03:34:42.765 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... generating user data:
+03:34:42.766 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - first name: HFCRK
+03:34:42.766 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - last name: LJAOB
+03:34:42.766 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - email: OBSWd@gmail.com
+03:34:42.767 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - phone number: 9592869215
+03:34:42.768 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - password: iOlf@232, confirm password: iOlf@232
+03:34:42.768 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... setting user data to the corresponding fields
+03:34:43.379 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... click on 'accept policy rules' 
+03:34:44.233 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... click 'Continue' button
+03:34:44.235 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... create 'Success' Page
+03:34:44.681 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... click 'Continue' button on 'Success' Page
+03:34:44.688 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... create 'My Account' Page
+03:34:45.147 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... redirecting to Home Page by click 'Qafox.com' logo on the top of the page
+03:34:45.247 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... set name of the product (LP3065) to the search field
+03:34:45.952 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ...click search button
+03:34:45.953 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... create new 'Search' Page
+03:34:46.007 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ...click 'Add to cart' button in product Card
+03:34:46.009 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ... create new Product Page
+03:34:47.197 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ...click 'Add to cart' in Product page
+03:34:47.882 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ...click 'Checkout' in Product page navbar
+03:34:47.899 [main] INFO  testCases.CheckoutFunctionality_CO.TC_CO_004_CheckoutTests - ***  END TC_CO_004_CheckoutTests ***
