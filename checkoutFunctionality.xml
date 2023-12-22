@@ -7,8 +7,9 @@
     <test name="TutorialsNinjaTest" thread-count="5">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <!-- <class name="testCases.CheckoutFunctionality_CO.TC_CO_001_CheckoutTests"/> -->
-            <class name="testCases.CheckoutFunctionality_CO.TC_CO_002_CheckoutTests"/>
+            <!-- <class name="testCases.CheckoutFunctionality_CO.TC_CO_001_CheckoutTests"/>
+            <class name="testCases.CheckoutFunctionality_CO.TC_CO_002_CheckoutTests"/> -->
+            <class name="testCases.CheckoutFunctionality_CO.TC_CO_003_CheckoutTests"/>
         </classes>
     </test>
 </suite>

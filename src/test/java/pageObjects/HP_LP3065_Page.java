@@ -16,11 +16,25 @@ public class HP_LP3065_Page extends BasePage {
     @FindBy(xpath = "//a[normalize-space()='shopping cart']")
     WebElement lnkShoppingCart;
 
+    @FindBy(xpath = "//button[@class='btn btn-inverse btn-block btn-lg dropdown-toggle']")
+    WebElement btnHeaderShoppingCart;
+
+    @FindBy(xpath = "//strong[normalize-space()='Checkout']")
+    WebElement headerCheckout;
+
     public void clickAddToCart() {
         btnAddToCart.click();
     }
 
     public void clickShoppingCart() {
         lnkShoppingCart.click();
+    }
+
+    public void clickBtnHeaderShoppingCart() {
+        btnHeaderShoppingCart.click();
+    }
+
+    public void clickHeaderCheckout() {
+        headerCheckout.click();
     }
 }
